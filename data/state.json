@@ -243,6 +243,19 @@
       "valid_minutes": null,
       "error_analysis": "用户明确更正：原意选B（正确），但提交时误触D。已撤销“未识别B同义替换/主旨理解错误”的错因判断；词汇理解偏差仍保留在词汇表。",
       "next_action": "E001：系统实际提交D；用户事后确认原意B。归类为提交误触、知识判定暂不计分（正确数留空）。耗时2～3分钟，无精确秒数。保留英文词汇练习，另出新题验证阅读表现；不将E001当作需刷的知识错题。"
+    },
+    {
+      "id": "S006",
+      "date": "2026-10-26",
+      "period": "写作·首轮短诊断",
+      "subject": "199写作",
+      "module": "论证有效性分析",
+      "attempted_count": 1,
+      "correct_count": null,
+      "valid_minutes": null,
+      "time_band": "5～8分钟",
+      "error_analysis": "三处成立的漏洞：因果混淆、个体与整体的转移问题、停留不等于消费。遗漏营业额不等于利润，以及横向30%差异不能推出同店30%增幅。",
+      "next_action": "W001原创短时诊断只作写作能力样本；安排一次真实历年199论证有效性分析约600字、25～30分钟的完整限时写作，以检验篇章结构与得分水平。完整原稿与三维批改在data/attempts/2026-10.json。"
     }
   ],
   "answer_corrections": [
@@ -311,21 +324,45 @@
       {
         "month": "2026-10",
         "path": "data/attempts/2026-10.json",
-        "verified_attempts": 6,
+        "verified_attempts": 7,
         "valid_attempts": 5,
         "correct_attempts": 1,
         "wrong_attempts": 4,
-        "void_attempts": 1
+        "void_attempts": 1,
+        "unscored_completed_attempts": 1
       }
     ],
-    "total_recorded": 6,
+    "total_recorded": 7,
     "total_scored": 5,
     "total_correct": 1,
     "total_wrong": 4,
     "total_voided": 1,
-    "counted_rule": "只统计实际完成并可评分的答题，E001系统提交D但本人称误触，因此记入档案但不纳入知识性正确率；概念核验题与真题模拟应分别评估。",
+    "counted_rule": "有效客观题作答才纳入知识正确率；E001原始提交D但本人确认误触，记入历史档案不计分；W001为5～8分钟短时写作诊断，保留原文和批改但不作为30分正式作文计分；概念核验与真题模拟分别评估。",
     "source_policy": "所有完成的题都保存，不限于错题。即使答对，也保留题干或可核对来源、答案、思路、真实耗时、批改及知识点。阅读、数学、逻辑、写作均适用。",
     "archive_read_policy": "需要核对过去具体作答/完整解析/正确率时，先读此处索引，按需打开相应月份归档。不要以聊天记忆替代档案。",
-    "periodic_archive_policy": "新题加入当月归档；写入后重新读取验证。每次答完题时形成记录，优先按小批次或单元结束及时同步；用户说今天结束时必须补齐当日已完成的题。未同步要明确提示。"
-  }
+    "periodic_archive_policy": "新题加入当月归档；写入后重新读取验证。每次答完题时形成记录，优先按小批次或单元结束及时同步；用户说今天结束时必须补齐当日已完成的题。未同步要明确提示。",
+    "total_unscored_completed": 1
+  },
+  "writing_diagnostics": [
+    {
+      "id": "W001",
+      "date": "2026-10-26",
+      "kind": "原创短时论证有效性分析诊断",
+      "attempt_id": "20261026-W001-01",
+      "time_band": "5～8分钟",
+      "exam_score": null,
+      "exam_score_reason": "只要求至少两处漏洞，未按正式600字作文完成，不给30分制分数。",
+      "strengths": [
+        "因果混淆识别",
+        "市场客流转移说明",
+        "久坐未必更多消费"
+      ],
+      "needs_improvement": [
+        "利润与营业额的区分",
+        "横向差距与纵向增幅不等价",
+        "完整文章结构与正式书面表达"
+      ],
+      "next_task": "核实年份题号的199论证有效性分析历年真题限时全篇写作"
+    }
+  ]
 }
