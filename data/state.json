@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "meta": {
     "name": "199管理类联考 + 204英语（二）错题与词汇主库",
     "owner_account": "yansuansuansuan",
@@ -273,6 +273,59 @@
     "conflicts": "Fetch fresh state before each write, use GitHub blob SHA for optimistic concurrency; on conflict, re-fetch and merge by stable IDs; never blindly overwrite.",
     "write_trigger": "Write at 用户说「今天结束」 or when user explicitly requests a sync. Uncommitted answers still belong in conversation until verified.",
     "success_condition": "After update, fetch same file and verify recorded IDs and values. Never report synchronized without verifying.",
-    "on_error": "Report unsynced and provide complete incremental record."
+    "on_error": "Report unsynced and provide complete incremental record.",
+    "exercise_journal": {
+      "record_all_completed": true,
+      "fields": [
+        "attempt_id",
+        "exercise_id",
+        "date",
+        "subject",
+        "kind",
+        "source",
+        "topic",
+        "question",
+        "options",
+        "submitted_answer",
+        "user_reported_intended_answer",
+        "correct_answer",
+        "correctness",
+        "scoring_status",
+        "reasoning",
+        "duration_band",
+        "duration_seconds",
+        "teacher_feedback",
+        "review_outcome",
+        "linked_error_id"
+      ],
+      "missing_data": "未提供的答题时间/原因留null；不得将老师给出的例题、尚未提交的选项算作本人完成练习。",
+      "scoring": "错、对、误触作废、跳过、未完成分别记录；从有效答题中计算正确率；真题/原创题按来源分开统计。",
+      "write_schedule": "每道完成的题先形成结构化草稿；每个短训练单元结束、切换对话/科目、今天结束或用户要求时同步GitHub，尽量减少权限弹窗。同步前读取最新SHA，冲突时合并；同步后回读逐条校验。若担心长对话丢失，可当题或小批次即时同步。",
+      "word_review_records": "单词的每次认识/回忆/语境练习同样记录实际结果与日期，不能只更改mastery_status。词汇掌握以主动回忆测试为准。",
+      "writing_records": "199写作以及英语二作文，要保留用户原文、题源、批改维度与修订稿；只有用户真正写完才计完成。"
+    }
+  },
+  "exercise_history": {
+    "storage": "按月份独立归档；state.json存索引与复习状态，题目、答案和思路详见归档文件。",
+    "archive_files": [
+      {
+        "month": "2026-10",
+        "path": "data/attempts/2026-10.json",
+        "verified_attempts": 6,
+        "valid_attempts": 5,
+        "correct_attempts": 1,
+        "wrong_attempts": 4,
+        "void_attempts": 1
+      }
+    ],
+    "total_recorded": 6,
+    "total_scored": 5,
+    "total_correct": 1,
+    "total_wrong": 4,
+    "total_voided": 1,
+    "counted_rule": "只统计实际完成并可评分的答题，E001系统提交D但本人称误触，因此记入档案但不纳入知识性正确率；概念核验题与真题模拟应分别评估。",
+    "source_policy": "所有完成的题都保存，不限于错题。即使答对，也保留题干或可核对来源、答案、思路、真实耗时、批改及知识点。阅读、数学、逻辑、写作均适用。",
+    "archive_read_policy": "需要核对过去具体作答/完整解析/正确率时，先读此处索引，按需打开相应月份归档。不要以聊天记忆替代档案。",
+    "periodic_archive_policy": "新题加入当月归档；写入后重新读取验证。每次答完题时形成记录，优先按小批次或单元结束及时同步；用户说今天结束时必须补齐当日已完成的题。未同步要明确提示。"
   }
 }
