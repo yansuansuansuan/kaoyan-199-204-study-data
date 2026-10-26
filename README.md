@@ -13,6 +13,9 @@
 
 ## 跨对话使用方式
 
+**建议一次性设置**：将 [ChatGPT 项目指令模板](CHATGPT_PROJECT_INSTRUCTIONS.md) 的正文复制到考研 ChatGPT 项目的“项目指令”中。新对话可继承这些规则，但每次仍须在该对话调用 GitHub 工具实际读取文件；仓库里的 AGENTS.md 不会自动注入普通聊天。
+
+
 在 ChatGPT 同一考研项目的数学/逻辑/阅读/单词对话中，告诉助手：
 
 > 本考研项目使用 GitHub 仓库 `yansuansuansuan/kaoyan-199-204-study-data`，以 `main` 分支的 `data/state.json` 为统一学习台账主索引，按需读取 `data/attempts/YYYY-MM.json` 逐题档案。先通过 GitHub 连接器读取最新内容，再安排练习或记录；需要同步时先取得相关文件的最新 SHA，写后重新读取核验。
