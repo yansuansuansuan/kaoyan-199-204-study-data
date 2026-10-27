@@ -282,6 +282,33 @@
       "teacher_feedback": "答案D正确。阅读练习量加倍可独立解释早晨组提分更大，削弱将效果归因于复习时段的因果结论。对B单个反例与群体均值不对应的判断合理；C可影响提升空间，不应视为绝对无关。用户文字写“最能支持”与题目“最能削弱”相反，暂无法确定是笔误还是概念混淆，保留待确认。",
       "review_outcome": "正确选择D，但支持/削弱方向表述冲突，需独立检验概念；暂不标记完全掌握",
       "linked_error_id": "L002"
+    },
+    {
+      "attempt_id": "20261028-V-ACCOUNT-FOR-01",
+      "exercise_id": "VOCAB-ACCOUNT-FOR-01",
+      "date": "2026-10-28",
+      "subject": "204英语（二）·词汇",
+      "kind": "vocabulary_initial_recall",
+      "source": "考研英语二常见短语·原创无提示回忆测试（非真题）",
+      "topic": "高频短语多义·account for",
+      "question": "不查看释义，回答 account for 的中文含义。",
+      "options": null,
+      "submitted_answer": "归咎于",
+      "user_reported_intended_answer": null,
+      "answer_kind": "open_translation_guess",
+      "test_method": "无提示英译中·主动回忆",
+      "answer_confidence": "猜测",
+      "correct_answer": "解释、说明……的原因；占……比例；另有对……负责等语境义",
+      "correctness": false,
+      "scoring_status": "valid",
+      "error_type": "词义部分相关但偏向责备含义；未展示核心多义掌握",
+      "reasoning": "用户自述为猜测，未提供进一步推理。",
+      "duration_band": null,
+      "duration_seconds": null,
+      "teacher_feedback": "“归咎于”与说明原因存在关联，但通常带责怪意味；account for更常作解释原因或占比例，不能据猜测认定掌握。",
+      "review_outcome": "部分相关，未掌握，初次回忆测试，安排次日复习。",
+      "linked_error_id": null,
+      "linked_vocabulary_word": "account for"
     }
   ]
 }
