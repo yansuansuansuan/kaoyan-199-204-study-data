@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "created_date": "2026-10-28",
+  "exam_date": "2026-12-19",
+  "target": {
+    "scope": "2027考研英语（二）大纲约5500基础词形及重要短语",
+    "unique_word_screening": 5500,
+    "goal": "考前完整筛查一轮；薄弱词复习优先于刷数量",
+    "first_pass_start": "2026-10-29",
+    "first_pass_deadline": "2026-12-11",
+    "revision_start": "2026-12-12",
+    "revision_end": "2026-12-18",
+    "daily_screening_target": 125
+  },
+  "phases": [
+    {
+      "start": "2026-10-29",
+      "end": "2026-11-11",
+      "cumulative": 1750
+    },
+    {
+      "start": "2026-11-12",
+      "end": "2026-11-25",
+      "cumulative": 3500
+    },
+    {
+      "start": "2026-11-26",
+      "end": "2026-12-11",
+      "cumulative": 5500
+    }
+  ],
+  "routine": {
+    "order": [
+      "复习到期词",
+      "分5批各25词快速无提示筛查",
+      "只讲解不认识/猜测/熟词僻义",
+      "困难词新语境验证",
+      "写入月度档案并回读"
+    ],
+    "flags": [
+      "直接回忆",
+      "猜测",
+      "不会"
+    ],
+    "review_intervals_initial_days": [
+      1,
+      3,
+      7
+    ],
+    "daily_time_guidance": "预计30～60分钟，因未知词数量变化；可拆成多个碎片时段",
+    "known_word_control": "已知词抽检，未验证不能标为已掌握",
+    "min_mode": "注意力不足时只完成到期词+小批量"
+  },
+  "integrity": {
+    "official_wordlist_imported": false,
+    "wordlist_reference": "应以2027英语二考试大纲附录1为唯一全覆盖核对基准；尚未导入，因此当前不得宣称5500词完成率",
+    "screened_count_rule": "必须有实际逐词筛查证据，熟词词义错误标记为薄弱；未筛查不计完成",
+    "separate_progress_metrics": [
+      "唯一已筛查词数",
+      "稳定掌握词数",
+      "错词待复习数",
+      "复习到期数"
+    ],
+    "source": "2027英语二考试大纲词汇约5500"
+  }
+}
