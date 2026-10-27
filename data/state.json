@@ -133,14 +133,22 @@
       "context": "results of early trials",
       "first_seen_date": "2026-10-26",
       "first_attempt": "误判为“轮班周期”",
-      "mastery_status": "待复习",
-      "review_stage": 1,
-      "last_test_date": "2026-10-26",
-      "next_review_date": "2026-10-27",
-      "review_count": 0,
-      "latest_review_result": "未复习",
+      "mastery_status": "基础义正确·待语境验证",
+      "review_stage": 2,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-31",
+      "review_count": 1,
+      "latest_review_result": "2026-10-28：correct",
       "notes": "E001 阅读；优先学习实验、试点含义",
-      "review_history": []
+      "review_history": [
+        {
+          "date": "2026-10-28",
+          "attempt_id": "20261028-V-BATCH01-01",
+          "original_answer": "实验",
+          "result": "correct",
+          "correctness": true
+        }
+      ]
     },
     {
       "id": "V002",
@@ -150,14 +158,22 @@
       "context": "distinguish between different four-day schedules",
       "first_seen_date": "2026-10-26",
       "first_attempt": "明确表示不认识",
-      "mastery_status": "待复习",
+      "mastery_status": "答错·待复习",
       "review_stage": 1,
-      "last_test_date": "2026-10-26",
-      "next_review_date": "2026-10-27",
-      "review_count": 0,
-      "latest_review_result": "未复习",
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 1,
+      "latest_review_result": "2026-10-28：wrong",
       "notes": "E001 阅读；固定搭配 distinguish between",
-      "review_history": []
+      "review_history": [
+        {
+          "date": "2026-10-28",
+          "attempt_id": "20261028-V-BATCH01-02",
+          "original_answer": "假设",
+          "result": "wrong",
+          "correctness": false
+        }
+      ]
     },
     {
       "id": "V003",
@@ -167,14 +183,22 @@
       "context": "flexible management practices",
       "first_seen_date": "2026-10-26",
       "first_attempt": "猜成“制度”，语义接近但不够准确",
-      "mastery_status": "待复习",
+      "mastery_status": "部分正确·待复习",
       "review_stage": 1,
-      "last_test_date": "2026-10-26",
-      "next_review_date": "2026-10-27",
-      "review_count": 0,
-      "latest_review_result": "未复习",
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 1,
+      "latest_review_result": "2026-10-28：partial",
       "notes": "E001 阅读；不是这里的“练习”",
-      "review_history": []
+      "review_history": [
+        {
+          "date": "2026-10-28",
+          "attempt_id": "20261028-V-BATCH01-03",
+          "original_answer": "练习（昨天那个意思有点忘了）",
+          "result": "partial",
+          "correctness": null
+        }
+      ]
     },
     {
       "id": "V004",
@@ -184,14 +208,22 @@
       "context": "include a wider range of employers",
       "first_seen_date": "2026-10-26",
       "first_attempt": "误译为“员工”",
-      "mastery_status": "待复习",
-      "review_stage": 1,
-      "last_test_date": "2026-10-26",
-      "next_review_date": "2026-10-27",
-      "review_count": 0,
-      "latest_review_result": "未复习",
+      "mastery_status": "基础义正确·待语境验证",
+      "review_stage": 2,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-31",
+      "review_count": 1,
+      "latest_review_result": "2026-10-28：correct",
       "notes": "注意与 employee（员工）对比",
-      "review_history": []
+      "review_history": [
+        {
+          "date": "2026-10-28",
+          "attempt_id": "20261028-V-BATCH01-04",
+          "original_answer": "雇佣方",
+          "result": "correct",
+          "correctness": true
+        }
+      ]
     },
     {
       "id": "V005",
@@ -201,14 +233,22 @@
       "context": "improve employee well-being",
       "first_seen_date": "2026-10-26",
       "first_attempt": "译为“员工福利”，有偏差",
-      "mastery_status": "待复习",
-      "review_stage": 1,
-      "last_test_date": "2026-10-26",
-      "next_review_date": "2026-10-27",
-      "review_count": 0,
-      "latest_review_result": "未复习",
+      "mastery_status": "基础义正确·待语境验证",
+      "review_stage": 2,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-31",
+      "review_count": 1,
+      "latest_review_result": "2026-10-28：correct",
       "notes": "与 welfare benefits（福利待遇）区分",
-      "review_history": []
+      "review_history": [
+        {
+          "date": "2026-10-28",
+          "attempt_id": "20261028-V-BATCH01-05",
+          "original_answer": "幸福度",
+          "result": "correct",
+          "correctness": true
+        }
+      ]
     },
     {
       "id": "V006",
@@ -226,6 +266,51 @@
       "latest_review_result": "2026-10-28初测：猜测，词义部分相关但未准确掌握",
       "notes": "来源：本会话原创短语主动回忆初测（非真题）。归咎于偏向blame...on，不能当作account for通用释义。实测详见20261028-V-ACCOUNT-FOR-01。",
       "review_history": []
+    },
+    {
+      "id": "V007",
+      "word": "indicate",
+      "meaning": "表明；显示；指出",
+      "first_seen_date": "2026-10-28",
+      "first_attempt": "不会",
+      "mastery_status": "待复习",
+      "review_stage": 1,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "首次测试：wrong",
+      "review_history": [],
+      "notes": "20261028-V-BATCH01-06"
+    },
+    {
+      "id": "V008",
+      "word": "approach",
+      "meaning": "方法；途径；接近",
+      "first_seen_date": "2026-10-28",
+      "first_attempt": "接近",
+      "mastery_status": "待复习",
+      "review_stage": 1,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "首次测试：partial",
+      "review_history": [],
+      "notes": "20261028-V-BATCH01-07"
+    },
+    {
+      "id": "V009",
+      "word": "address",
+      "meaning": "地址；处理、应对；讲话",
+      "first_seen_date": "2026-10-28",
+      "first_attempt": "地址",
+      "mastery_status": "待复习",
+      "review_stage": 1,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "首次测试：partial",
+      "review_history": [],
+      "notes": "20261028-V-BATCH01-08"
     }
   ],
   "study_sessions": [
@@ -400,24 +485,26 @@
       {
         "month": "2026-10",
         "path": "data/attempts/2026-10.json",
-        "verified_attempts": 11,
-        "valid_attempts": 9,
-        "correct_attempts": 3,
-        "wrong_attempts": 6,
+        "verified_attempts": 19,
+        "valid_attempts": 14,
+        "correct_attempts": 6,
+        "wrong_attempts": 8,
         "void_attempts": 1,
-        "unscored_completed_attempts": 1
+        "unscored_completed_attempts": 4,
+        "partial_vocabulary_attempts": 3
       }
     ],
-    "total_recorded": 11,
-    "total_scored": 9,
-    "total_correct": 3,
-    "total_wrong": 6,
+    "total_recorded": 19,
+    "total_scored": 14,
+    "total_correct": 6,
+    "total_wrong": 8,
     "total_voided": 1,
     "counted_rule": "有效客观题作答才纳入知识正确率；E001原始提交D但本人确认误触，记入历史档案不计分；W001为5～8分钟短时写作诊断，保留原文和批改但不作为30分正式作文计分；概念核验与真题模拟分别评估。",
     "source_policy": "所有完成的题都保存，不限于错题。即使答对，也保留题干或可核对来源、答案、思路、真实耗时、批改及知识点。阅读、数学、逻辑、写作均适用。",
     "archive_read_policy": "需要核对过去具体作答/完整解析/正确率时，先读此处索引，按需打开相应月份归档。不要以聊天记忆替代档案。",
     "periodic_archive_policy": "新题加入当月归档；写入后重新读取验证。每次答完题时形成记录，优先按小批次或单元结束及时同步；用户说今天结束时必须补齐当日已完成的题。未同步要明确提示。",
-    "total_unscored_completed": 1
+    "total_unscored_completed": 4,
+    "total_vocabulary_partial": 3
   },
   "writing_diagnostics": [
     {
