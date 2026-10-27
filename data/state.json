@@ -104,12 +104,12 @@
       "correct_answer": "C（使用组每天多学90分钟）",
       "duration_seconds": null,
       "error_analysis": "能注意到A、C两个候选项，但未区分基线差异与直接解释提分幅度的混杂变量；未优先选择“学习时长差异”这一替代因果解释。",
-      "mastery_status": "复习答对（削弱方向表述待确认）",
+      "mastery_status": "变式独立答对（仍需间隔复测）",
       "review_stage": 1,
       "last_answer_date": "2026-10-28",
-      "next_review_date": "2026-10-29",
+      "next_review_date": "2026-10-31",
       "review_count": 1,
-      "latest_review_result": "逻辑削弱题选D正确，但思路写成“最能支持”，需确认表述",
+      "latest_review_result": "2026-10-28选D正确；本人后续确认解题思路中“最能支持”为口误，实际意思是最能削弱。已更正评语且保留原始表述。",
       "notes": "用户原话：这种题一向没什么“逻辑”，就是靠自己理解；认为如果没有A，C也可以。选A；实际耗时仅知“1分钟内”，未提供精确秒数。讲解后尚未独立完成新同类题，明日2026-10-27验证。",
       "review_history": [
         {
@@ -117,7 +117,9 @@
           "date": "2026-10-28",
           "result": "correct",
           "tool_assisted": false,
-          "note": "逻辑削弱题选D正确，但思路写成“最能支持”，需确认表述"
+          "note": "D选对且混杂变量判断正确；本人确认“最能支持”只是口误，实际意为最能削弱",
+          "next_review_date": "2026-10-31",
+          "reasoning_clarification": "2026-10-28用户本人确认口误"
         }
       ]
     }
@@ -364,6 +366,32 @@
       "questions_per_batch": 2,
       "duration_input": "select",
       "reasoning_required": true
+    },
+    "study_plan": {
+      "updated_date": "2026-10-28",
+      "exam_date": "2026-12-19",
+      "daily_weekday_target": {
+        "objective_questions": "16～20题（含3～4道到期复习）",
+        "new_vocabulary": "12～15词",
+        "vocabulary_reviews": "15～25词",
+        "study_time": "晚上约90分钟，日间碎片时间用于单词或2道小题"
+      },
+      "minimum_day": {
+        "objective_questions": "8～10题（含复习）",
+        "vocabulary": "5～10词复习"
+      },
+      "weekly_work": {
+        "writing": "199写作每周2次短结构练习+1次完整限时写作，两类轮换；英语二作文至少1次/周",
+        "mock": "完整199+204模考视体力和进度每周安排，最迟11月上旬开始，成绩如实记录"
+      },
+      "distribution": "非写作日数学4～6、逻辑4～6、英语阅读/完形4～5、到期复习3～4；写作日减量，不能强行凑数",
+      "adaptive_rule": "每周根据独立答题准确率、耗时、模块覆盖和错因动态调整；严禁单凭题数保证提分",
+      "interaction": {
+        "questions_per_batch": 2,
+        "reasoning_required": true,
+        "duration_control": "selection"
+      },
+      "note": "教学计划，非已完成学习日志；用户反馈前两天过度集中利润率/削弱，后续每天跨科目覆盖"
     }
   },
   "exercise_history": {
