@@ -527,5 +527,13 @@
       ],
       "next_task": "核实年份题号的199论证有效性分析历年真题限时全篇写作"
     }
-  ]
+  ],
+  "vocabulary_coverage_plan": {
+    "path": "data/vocabulary_plan.json",
+    "target_words_approx": 5500,
+    "daily_screening_target": 125,
+    "first_pass_end": "2026-12-11",
+    "official_wordlist_imported": false,
+    "note": "需导入2027考试大纲附录词表后才能准确计算全量覆盖率；筛查数不等于掌握数"
+  }
 }
