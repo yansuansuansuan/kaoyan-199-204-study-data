@@ -8,7 +8,7 @@
     "estimated_baseline_score": 205,
     "baseline_verified": false,
     "timezone": "Asia/Shanghai",
-    "data_verified_as_of": "2026-10-27",
+    "data_verified_as_of": "2026-10-28",
     "source_workbook": "2027考研199冲230错题与词汇台账_20261026_E001误触更正.xlsx",
     "migration_notice": "Imported from confirmed Excel version. Source spreadsheet remains a backup. GitHub state.json becomes authoritative only after remote upload and read-back verification.",
     "precision_policy": "Do not invent timing, correctness, completion, or review results.",
@@ -46,12 +46,12 @@
       "correct_answer": "B（4%）",
       "duration_seconds": null,
       "error_analysis": "同样把利润率当售价百分比，误用75×0.8求成本；又将75×0.8算成56；利润率除法顺序和百分数换算错误。",
-      "mastery_status": "复习未通过",
+      "mastery_status": "复习答对（借助计算工具，待独立验证）",
       "review_stage": 1,
-      "last_answer_date": "2026-10-27",
-      "next_review_date": "2026-10-28",
-      "review_count": 1,
-      "latest_review_result": "2026-10-27变式题选A（8%），正确C（12%），3分钟；思路方向对但成本近似过粗、除法与百分数计算错误",
+      "last_answer_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 2,
+      "latest_review_result": "数学变式选C正确，思路正确但使用计算工具，待独立复测",
       "notes": "独立尝试并提交详细计算过程；实际耗时未提供；纠错后成本100→售价120的概念检查答对，但尚未通过新同类变式题。",
       "review_history": [
         {
@@ -63,6 +63,13 @@
           "duration_seconds": 180,
           "issue": "75÷1.2误约为60，70-60=10再误写10/60为6%；准确成本62.5，利润7.5，利润率12%",
           "next_review_date": "2026-10-28"
+        },
+        {
+          "attempt_id": "20261028-M002-R02",
+          "date": "2026-10-28",
+          "result": "correct",
+          "tool_assisted": true,
+          "note": "数学变式选C正确，思路正确但使用计算工具，待独立复测"
         }
       ]
     },
@@ -97,14 +104,22 @@
       "correct_answer": "C（使用组每天多学90分钟）",
       "duration_seconds": null,
       "error_analysis": "能注意到A、C两个候选项，但未区分基线差异与直接解释提分幅度的混杂变量；未优先选择“学习时长差异”这一替代因果解释。",
-      "mastery_status": "待复习",
+      "mastery_status": "复习答对（削弱方向表述待确认）",
       "review_stage": 1,
-      "last_answer_date": "2026-10-26",
-      "next_review_date": "2026-10-27",
-      "review_count": 0,
-      "latest_review_result": "尚未复习",
+      "last_answer_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 1,
+      "latest_review_result": "逻辑削弱题选D正确，但思路写成“最能支持”，需确认表述",
       "notes": "用户原话：这种题一向没什么“逻辑”，就是靠自己理解；认为如果没有A，C也可以。选A；实际耗时仅知“1分钟内”，未提供精确秒数。讲解后尚未独立完成新同类题，明日2026-10-27验证。",
-      "review_history": []
+      "review_history": [
+        {
+          "attempt_id": "20261028-L002-R01",
+          "date": "2026-10-28",
+          "result": "correct",
+          "tool_assisted": false,
+          "note": "逻辑削弱题选D正确，但思路写成“最能支持”，需确认表述"
+        }
+      ]
     }
   ],
   "vocabulary": [
@@ -327,6 +342,11 @@
       "write_schedule": "每道完成的题先形成结构化草稿；每个短训练单元结束、切换对话/科目、今天结束或用户要求时同步GitHub，尽量减少权限弹窗。同步前读取最新SHA，冲突时合并；同步后回读逐条校验。若担心长对话丢失，可当题或小批次即时同步。",
       "word_review_records": "单词的每次认识/回忆/语境练习同样记录实际结果与日期，不能只更改mastery_status。词汇掌握以主动回忆测试为准。",
       "writing_records": "199写作以及英语二作文，要保留用户原文、题源、批改维度与修订稿；只有用户真正写完才计完成。"
+    },
+    "learning_interaction_preferences": {
+      "questions_per_batch": 2,
+      "duration_input": "select",
+      "reasoning_required": true
     }
   },
   "exercise_history": {
@@ -335,17 +355,17 @@
       {
         "month": "2026-10",
         "path": "data/attempts/2026-10.json",
-        "verified_attempts": 8,
-        "valid_attempts": 6,
-        "correct_attempts": 1,
+        "verified_attempts": 10,
+        "valid_attempts": 8,
+        "correct_attempts": 3,
         "wrong_attempts": 5,
         "void_attempts": 1,
         "unscored_completed_attempts": 1
       }
     ],
-    "total_recorded": 8,
-    "total_scored": 6,
-    "total_correct": 1,
+    "total_recorded": 10,
+    "total_scored": 8,
+    "total_correct": 3,
     "total_wrong": 5,
     "total_voided": 1,
     "counted_rule": "有效客观题作答才纳入知识正确率；E001原始提交D但本人确认误触，记入历史档案不计分；W001为5～8分钟短时写作诊断，保留原文和批改但不作为30分正式作文计分；概念核验与真题模拟分别评估。",
