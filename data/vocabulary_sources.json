@@ -4,7 +4,7 @@
   "timezone": "Asia/Shanghai",
   "intended_repository": "yansuansuansuan/kaoyan-199-204-study-data",
   "ingestion_status": "metadata_and_partial_indices_uploaded_original_pdfs_not_uploaded",
-  "note": "三份PDF由用户在本次ChatGPT对话上传。GitHub文件列表暂未包含PDF原件；不要把来源登记误报为上传成功。PDF大多是扫描影像，尚未完成逐词OCR+人工核验。",
+  "note": "三份PDF由用户在本次ChatGPT对话上传。GitHub文件列表暂未包含PDF原件；不要把来源登记误报为上传成功。PDF大多是扫描影像，尚未完成逐词OCR+人工核验。 阅读200词PDF另提供12.8MB上传版，其SHA与原版不同，详情在READ200.upload_ready_pdf_variant。",
   "files": [
     {
       "source_id": "HF2000",
@@ -61,7 +61,15 @@
           "path": "data/wordlists/reading200_page_index.json",
           "coverage": "51页共202个页首词条（包含派生词和短语），尚须二次校验，且非完整释义与例句"
         }
-      ]
+      ],
+      "upload_ready_pdf_variant": {
+        "generated_filename": "阅读高频200词_适合GitHub上传.pdf",
+        "suggested_github_path": "references/阅读高频200词_适合GitHub上传.pdf",
+        "bytes": 12760906,
+        "pages": 51,
+        "sha256": "eac463656794fe0c6022c86c01ceb54be891214dd7fccf954d620a086bfd5b61",
+        "note": "为网页上传将原51页扫描PDF重新采样压缩；内容视觉比对抽查第1、33、51页，仍需用户手动上传。并非原件的相同SHA。"
+      }
     }
   ],
   "merge_rules": {
