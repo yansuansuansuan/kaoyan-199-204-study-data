@@ -619,6 +619,61 @@
           "status": "structure_partial"
         }
       ]
+    },
+    {
+      "attempt_id": "20261028-L001-R01",
+      "exercise_id": "L001-R01",
+      "date": "2026-10-28",
+      "subject": "199逻辑",
+      "kind": "spaced_review_new_variant",
+      "source": "AI原创形式逻辑变式（非真题）",
+      "topic": "必要条件/充分条件与存在量词推理",
+      "question": "某公益组织规定：只有完成资料审核，志愿者才能领取工作证。有些参加培训的志愿者已经领取了工作证。所有参加培训的志愿者都签署了保密承诺。根据上述条件，以下哪项一定为真？",
+      "options": {
+        "A": "所有完成资料审核的志愿者都领取了工作证",
+        "B": "有些签署保密承诺的志愿者完成了资料审核",
+        "C": "所有签署保密承诺的志愿者都参加了培训",
+        "D": "有些领取工作证的志愿者没有完成资料审核",
+        "E": "只要签署保密承诺，志愿者就能领取工作证"
+      },
+      "submitted_answer": "B",
+      "answer_kind": "selected_option",
+      "correct_answer": "B",
+      "correctness": true,
+      "scoring_status": "valid",
+      "duration_band": "1～2分钟",
+      "duration_seconds": null,
+      "reasoning": "工作证》资料审核，参加培训志愿者〉保密承诺，选项里a是资料审核-工作证，b是保密承诺不一定-资料审核c是保密承诺-参加培训，d是工作证的不一定-资料审核；e是保密承诺-工作证。",
+      "teacher_feedback": "选B正确，必要条件方向（工作证→审核）和全称条件（培训→保密）均识别正确；但用户提出‘保密承诺不一定→资料审核’，未显式利用‘有些培训者已领工作证’作为存在交集：存在培训∩工作证→存在保密∩审核。单独从保密承诺不能必然推审核，题干的‘有些’是核心。故答案正确但推理链不完整，需独立复测存在量词桥接。",
+      "review_outcome": "正确选B，但量词桥接推理解释不完整；需下次以新情境验证",
+      "linked_error_id": "L001"
+    },
+    {
+      "attempt_id": "20261028-E-CLOZE01",
+      "exercise_id": "E003",
+      "date": "2026-10-28",
+      "subject": "204英语（二）",
+      "kind": "cloze_contextual_vocabulary",
+      "source": "AI原创完形填空单题（非真题）",
+      "topic": "语境完形·account for及variation",
+      "question": "Even after the researchers controlled for age and education, differences in daily exercise could still ______ some of the variation in sleep quality.",
+      "options": {
+        "A": "account for",
+        "B": "take over",
+        "C": "put off",
+        "D": "break down"
+      },
+      "submitted_answer": "A",
+      "answer_kind": "selected_option",
+      "correct_answer": "A",
+      "correctness": true,
+      "scoring_status": "valid",
+      "duration_band": "1～2分钟",
+      "duration_seconds": null,
+      "reasoning": "甚至在研究院控制了年龄和教育程度之后，日常锻炼的区别仍然（）一些 睡眠质量的 variation（我猜这个词是降低/升高的意思吧） 。",
+      "teacher_feedback": "选A正确：account for some of the variation=解释部分差异/变化；variation此处指差异、波动而非单向降低或升高。用户理解句干，但未明确写出account for释义，且variation是猜测，不能直接算该词独立掌握。",
+      "review_outcome": "正确选择语境答案；account for使用正确但独立释义未验证，variation需新词复习",
+      "linked_error_id": null
     }
   ]
 }
