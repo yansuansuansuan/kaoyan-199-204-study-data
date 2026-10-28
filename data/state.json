@@ -794,6 +794,22 @@
       ],
       "error_analysis": "概率选C正确但只计算红先蓝后3/10，漏蓝先红后3/10；自述第8题公式遗忘。英语推断B正确，branch、less visible expense、license、expire、joint、coordinating等语义不稳。",
       "next_action": "按两题一轮训练；基础概率分情况与平方差公式优先补基础；英语练词义精度；每天保持多模块推进。"
+    },
+    {
+      "id": "S20261028-PROB2-OR01",
+      "date": "2026-10-28",
+      "period": "白天·概率巩固与选言推理",
+      "subject": "199数学+199逻辑",
+      "module": "同色概率分类；相容选言否一推另",
+      "attempted_count": 2,
+      "correct_count": 2,
+      "valid_minutes": null,
+      "time_bands": [
+        "1～2分钟",
+        "30秒～1分钟"
+      ],
+      "error_analysis": "概率主动计算两种路径并合计正确；逻辑答案D正确但用户只写‘很简单’，缺少可核对推导链。",
+      "next_action": "进度达到12/16；数学概率和选言推理安排间隔复习，不在同一天重复同型题；接下来跨科目安排英语和写作/不同数学题。"
     }
   ],
   "answer_corrections": [
@@ -893,18 +909,18 @@
       {
         "month": "2026-10",
         "path": "data/attempts/2026-10.json",
-        "verified_attempts": 37,
-        "valid_attempts": 31,
-        "correct_attempts": 19,
+        "verified_attempts": 39,
+        "valid_attempts": 33,
+        "correct_attempts": 21,
         "wrong_attempts": 12,
         "void_attempts": 1,
         "unscored_completed_attempts": 5,
         "partial_vocabulary_attempts": 4
       }
     ],
-    "total_recorded": 37,
-    "total_scored": 31,
-    "total_correct": 19,
+    "total_recorded": 39,
+    "total_scored": 33,
+    "total_correct": 21,
     "total_wrong": 12,
     "total_voided": 1,
     "counted_rule": "有效客观题作答才纳入知识正确率；E001原始提交D但本人确认误触，记入历史档案不计分；W001为5～8分钟短时写作诊断，保留原文和批改但不作为30分正式作文计分；概念核验与真题模拟分别评估。",
