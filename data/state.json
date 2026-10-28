@@ -84,14 +84,24 @@
       "correct_answer": "B（有些具有项目管理经验者通过了入职考核）",
       "duration_seconds": null,
       "error_analysis": "把“管理培训→通过考核”逆向推成“通过考核→管理培训”；未利用“有些考核通过者参加项目管理培训”与“项目管理培训→有项目经验”进行存在量词传递。",
-      "mastery_status": "待复习",
+      "mastery_status": "复习答对·量词串联待加强",
       "review_stage": 1,
-      "last_answer_date": "2026-10-26",
-      "next_review_date": "2026-10-27",
-      "review_count": 0,
-      "latest_review_result": "尚未复习",
+      "last_answer_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 1,
+      "latest_review_result": "选B正确，存在量词证明步骤不完整，需要独立复测",
       "notes": "用户自述思路：认为入职考核可以推出参加管理培训；认为“有些通过入职考核的员工参加项目管理培训”啥也推不出；正确判断项目管理培训可推出项目管理经验。实际耗时未提供；需次日以新同类题独立验证。",
-      "review_history": []
+      "review_history": [
+        {
+          "attempt_id": "20261028-L001-R01",
+          "date": "2026-10-28",
+          "result": "correct_with_incomplete_reasoning",
+          "answer": "B",
+          "duration_band": "1～2分钟",
+          "note": "已判断必要条件方向，未完整写出有些参加培训且领取工作证者必然既签保密又完成审核",
+          "next_review_date": "2026-10-29"
+        }
+      ]
     },
     {
       "id": "L002",
