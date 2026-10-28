@@ -1020,6 +1020,61 @@
       "teacher_feedback": "选C正确。仅枚举丙甲乙丁不够证明‘一定为真’；固定块甲乙可能占(1,2)或(2,3)，对应甲乙丙丁、丙甲乙丁，两种情况下丁均是第4位。结合仓库研途《第23讲线性元素排序模型》整体占位与余量推进法，提醒先画固定块、再排剩余。",
       "review_outcome": "答案正确但仅列一个合法排列；未完整排除其他可能，后续需测试必然性证明",
       "linked_error_id": null
+    },
+    {
+      "attempt_id": "20261028-M-PROB01",
+      "exercise_id": "M005",
+      "date": "2026-10-28",
+      "subject": "199数学",
+      "kind": "new_topic_diagnostic",
+      "source": "AI原创概率题（非真题）",
+      "topic": "不放回抽样，分类概率的加法与乘法",
+      "question": "袋子中3红球2蓝球，不放回随机摸出2球，恰好1红1蓝的概率是多少？",
+      "options": {
+        "A": "1/5",
+        "B": "2/5",
+        "C": "3/5",
+        "D": "2/3",
+        "E": "4/5"
+      },
+      "submitted_answer": "C",
+      "answer_kind": "selected_option",
+      "correct_answer": "C",
+      "correctness": true,
+      "scoring_status": "valid",
+      "duration_band": "2～3分钟",
+      "duration_seconds": null,
+      "reasoning": "第八题这个解法我想不出来。。。这些公式我都全忘了，这题的话概率公式我都忘了，我想的话那第一次摸到红球应该是五分之三的概率，摸到篮球是五分之二，如果第一个摸到红球，还剩俩红俩蓝，那就是各一半，二分之一，五分之三乘以二分之一，十分之三的概率吧，但是很明显图里没有这个选项。，，，",
+      "teacher_feedback": "答案C正确，但计算只包含红后蓝3/5×2/4=3/10，遗漏蓝后红2/5×3/4=3/10；两种互斥顺序相加总概率3/5。用户明确表示概率公式遗忘，并提到上轮第8题的平方差解法想不到，需基础复建，不能直接认定概率掌握。",
+      "review_outcome": "选项正确，计算未完成；下次独立测试分类路径与不放回",
+      "linked_error_id": null
+    },
+    {
+      "attempt_id": "20261028-E-LIBRARYREAD-01",
+      "exercise_id": "E004",
+      "date": "2026-10-28",
+      "subject": "204英语（二）",
+      "kind": "reading_inference",
+      "source": "AI原创英语二阅读推断题（非真题）",
+      "topic": "数字借阅与联合采购，词汇精度/长句理解",
+      "question": "Public libraries increasingly offer digital books to residents who cannot easily visit a branch. The service has expanded access, but it has also created a less visible expense.\n\nUnlike printed books, which libraries can often lend repeatedly after a single purchase, some digital titles require licenses that expire after a fixed period or number of loans.\n\nSeveral library systems are exploring joint purchasing agreements to reduce these costs, though coordinating such agreements can be difficult.\n\nWhat can be inferred about joint purchasing agreements?",
+      "options": {
+        "A": "They automatically remove publishers' lending restrictions.",
+        "B": "They may reduce expenses but require coordination.",
+        "C": "They will reduce access for readers living far from libraries.",
+        "D": "They are already mandatory for all public libraries."
+      },
+      "submitted_answer": "B",
+      "answer_kind": "selected_option",
+      "correct_answer": "B",
+      "correctness": true,
+      "scoring_status": "valid",
+      "duration_band": "1～2分钟",
+      "duration_seconds": null,
+      "reasoning": "公共图书馆越来越多的提供电子图书给不能轻易游览 abranch 的居民，这个服务拓展了通行（的可能），但是他也创造了更少的视觉呈现？\n不像是印刷的书籍图书馆可以经常在一次交易后重复借出，有一些电子的标题需要证在 expire 在修复周期或者借款的数量？不能直译但是反正我也大概能看懂意思\n一些图书馆系统正在拓展 joint（会籍制度？） 购买协议去减少这些花费，虽然 coodinating（估计意思是推广的意思吧）这样的协议会很困难。",
+      "teacher_feedback": "选项B正确，能利用末句的reduce costs / coordinating difficult抓住答案。词汇：branch=分馆，expanded access=扩大获取机会，less visible expense=不明显的额外成本，digital titles=电子书作品，licenses=授权许可，expire=到期/失效，loans=借阅次数，joint=联合，coordinating=协调。理解主旨但句意有多处失准，需词义精准训练。",
+      "review_outcome": "阅读推断答对，关键词义和句子精读仍需练习",
+      "linked_error_id": null
     }
   ]
 }
