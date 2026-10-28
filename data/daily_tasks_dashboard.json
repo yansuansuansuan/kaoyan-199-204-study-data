@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "updated_date": "2026-10-28",
+  "timezone": "Asia/Shanghai",
+  "goal": "2026-12-19 管综199+英语二204 230+",
+  "mode": "每日三项卡：当天课程+真题训练包、英语/写作任务、词汇复习。任务按真实完成数据核验，只有在用户互动时刷新，不做后台自动更新。",
+  "sources": {
+    "attempts": "data/attempts/2026-10.json",
+    "state": "data/state.json",
+    "vocabulary": "data/vocabulary_daily_dashboard.json",
+    "milestones": "data/milestone-monitor.json",
+    "archive": "data/study-plan-2026-10-28.md"
+  },
+  "daily_policies": {
+    "normal": "每天晚上约90分钟：两个明确知识点（知识点讲解穿插真题）+一项完整阅读或写作。单词在白天碎片时间完成，若当天词汇任务明显过量，优先到期词并明确保留欠账。",
+    "travel": "10/30—11/01执行20—35分钟精简任务，不把当天16题作为硬性要求，保留两个10分钟的学习点；旅行后集中补课。",
+    "checkpoint": "11/02、11/03分别安排199/204全卷180分钟，是两次特殊任务、不是日常90分钟。若无法完成，下次主动显示节点延误与补测日期。",
+    "completion_rule": "每项任务须有用户真实已完成的考试作答、写作或词汇归档证据；计划和空白选项不算完成。错题复测按1/3/7天直接插入当天训练包，不另堆一个任务。",
+    "statuses": [
+      "已完成",
+      "进行中",
+      "未开始",
+      "逾期",
+      "暂定"
+    ],
+    "overload_control": "不为凑题数生成大量基础原创题；90分钟应优先真题强度与有效复盘，题数由真实任务决定。"
+  },
+  "days": [
+    {
+      "date": "2026-10-28",
+      "day_type": "已完成基础训练，额外题选做",
+      "duration_evening_min": 90,
+      "tasks": [
+        {
+          "id": "2026-10-28-core",
+          "title": "真题准备与跨科训练",
+          "target": "16道有效客观题",
+          "progress": "16/16",
+          "status": "已完成",
+          "evidence": "2026-10-28 月档案中199数学6、199逻辑5、204英语5共16道有效客观题"
+        },
+        {
+          "id": "2026-10-28-writing",
+          "title": "199写作短练",
+          "target": "1篇口述短练",
+          "progress": "1/1",
+          "status": "已完成",
+          "evidence": "20261028-W002-01"
+        },
+        {
+          "id": "2026-10-28-vocab",
+          "title": "词汇：到期优先＋新词",
+          "target": "到期5词、新词50词",
+          "progress": "到期5/5；新词39/50",
+          "status": "进行中",
+          "evidence": "data/vocabulary_daily_dashboard.json 2026-10-28"
+        }
+      ],
+      "bonus": {
+        "label": "进阶真题加练（不计每日基础达标）",
+        "target": "16题",
+        "completed": 0,
+        "status": "未开始"
+      }
+    },
+    {
+      "date": "2026-10-29",
+      "day_type": "正常日（90分钟晚间+碎片单词）",
+      "duration_evening_min": 90,
+      "tasks": [
+        {
+          "id": "2026-10-29-two-topics",
+          "title": "数学因式分解＋逻辑量词",
+          "target": "讲解两个知识点，各做2～3道来源明确的真题/同构题",
+          "status": "未开始"
+        },
+        {
+          "id": "2026-10-29-reading",
+          "title": "英语二完整真题阅读",
+          "target": "1篇全文、5道题，限时并精读错误选项",
+          "status": "未开始"
+        },
+        {
+          "id": "2026-10-29-vocab",
+          "title": "词汇到期回忆＋新词",
+          "target": "按独立词汇教练当日看板；优先到期，约35～60分钟分散在白天",
+          "status": "未开始",
+          "source": "data/vocabulary_daily_dashboard.json"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "day_type": "旅行轻量日",
+      "duration_evening_min": 25,
+      "tasks": [
+        {
+          "id": "2026-10-30-two-topics",
+          "title": "数学等差求和＋逻辑充分必要",
+          "target": "每个点讲5分钟、各做1道真题同构",
+          "status": "未开始"
+        },
+        {
+          "id": "2026-10-30-reading",
+          "title": "英语长句",
+          "target": "真实阅读选材中的2个长句拆分",
+          "status": "未开始"
+        },
+        {
+          "id": "2026-10-30-vocab",
+          "title": "旅行词汇",
+          "target": "到期词优先＋19个新词（独立词汇看板为准）",
+          "status": "未开始",
+          "source": "data/vocabulary_daily_dashboard.json"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "day_type": "旅行轻量日",
+      "duration_evening_min": 20,
+      "tasks": [
+        {
+          "id": "2026-10-31-two-topics",
+          "title": "逻辑真假话＋英语词义替换",
+          "target": "两个知识点，各做1道核验题",
+          "status": "未开始"
+        },
+        {
+          "id": "2026-10-31-reading",
+          "title": "英语真实文章小段精读",
+          "target": "1段（有真实来源）＋2道问题",
+          "status": "未开始"
+        },
+        {
+          "id": "2026-10-31-vocab",
+          "title": "旅行词汇",
+          "target": "到期词优先＋19个新词（独立看板为准）",
+          "status": "未开始",
+          "source": "data/vocabulary_daily_dashboard.json"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "day_type": "旅行轻量日",
+      "duration_evening_min": 25,
+      "tasks": [
+        {
+          "id": "2026-11-01-two-topics",
+          "title": "数学基础概率＋逻辑削弱",
+          "target": "两个知识点，2道真题同构验证",
+          "status": "未开始"
+        },
+        {
+          "id": "2026-11-01-reading",
+          "title": "英语长句+同义改写",
+          "target": "2句拆解、1道推断题",
+          "status": "未开始"
+        },
+        {
+          "id": "2026-11-01-vocab",
+          "title": "旅行词汇",
+          "target": "到期词优先＋19个新词（独立看板为准）",
+          "status": "未开始",
+          "source": "data/vocabulary_daily_dashboard.json"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "day_type": "首次特殊模考日（不是普通90分钟日）",
+      "duration_evening_min": 180,
+      "tasks": [
+        {
+          "id": "2026-11-02-mock",
+          "title": "199管理类综合能力限时真题模考",
+          "target": "完整180分钟，数学+逻辑+两篇写作，独立答题，真实记分",
+          "status": "未开始"
+        },
+        {
+          "id": "2026-11-02-review",
+          "title": "两个最大失分模块定位",
+          "target": "本卷完成后选出数学1个、逻辑或写作1个最需补弱的知识点",
+          "status": "未开始"
+        },
+        {
+          "id": "2026-11-02-vocab",
+          "title": "词汇到期复习",
+          "target": "白天到期词优先，模考当日新词可减少并保留欠账",
+          "status": "未开始",
+          "source": "data/vocabulary_daily_dashboard.json"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "day_type": "首次特殊模考日（不是普通90分钟日）",
+      "duration_evening_min": 180,
+      "tasks": [
+        {
+          "id": "2026-11-03-mock",
+          "title": "204英语二限时真题模考",
+          "target": "完整180分钟，完形、4篇阅读、新题型、翻译、小/大作文，独立计分",
+          "status": "未开始"
+        },
+        {
+          "id": "2026-11-03-diagnostic",
+          "title": "199+204首次基线成绩与下周改课",
+          "target": "保存两科成绩、耗时、错因，按最低分模块自动调整下周安排",
+          "status": "未开始"
+        },
+        {
+          "id": "2026-11-03-vocab",
+          "title": "词汇到期复习",
+          "target": "白天到期词优先，模考当日不强求新词满额",
+          "status": "未开始",
+          "source": "data/vocabulary_daily_dashboard.json"
+        }
+      ]
+    }
+  ],
+  "weekly_milestone": {
+    "date": "2026-11-03",
+    "name": "首次两科全卷实测",
+    "status": "未到期",
+    "current_evidence": "目前没有任何完整限时199/204模考记录",
+    "risk_if_missed": "直接标注逾期并优先安排补测；不能用短题正确率估分"
+  },
+  "display_rule": "用户输入“今天开始”“晚上开始”“摸鱼刷题”“今天结束”时，先读取本表与实时state/attempts/词汇看板并显示今天3任务完成情况，出题采用2题/轮。只有用户真正完成题目才能更新并回读。"
+}
