@@ -51,9 +51,9 @@
           "id": "2026-10-28-vocab",
           "title": "词汇：到期优先＋新词",
           "target": "到期5词、新词50词",
-          "progress": "到期5/5；新词39/50",
+          "progress": "到期5/5；新词49/50",
           "status": "进行中",
-          "evidence": "data/vocabulary_daily_dashboard.json 2026-10-28"
+          "evidence": "data/vocabulary_daily_dashboard.json 最新已核验；loss 语音转写待确认，不当作有效词汇首测"
         }
       ],
       "bonus": {
