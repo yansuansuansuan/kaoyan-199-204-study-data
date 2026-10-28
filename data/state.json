@@ -353,6 +353,22 @@
       "latest_review_result": "阅读中猜测词义，未独立测试",
       "notes": "来自20261028-E-MUSEUMREAD-01，拼写和词义待复测",
       "review_history": []
+    },
+    {
+      "id": "V012",
+      "word": "variation",
+      "meaning": "变化、差异、波动",
+      "context": "variation in sleep quality",
+      "first_seen_date": "2026-10-28",
+      "first_attempt": "我猜这个词是降低/升高的意思吧",
+      "mastery_status": "猜义不准确·待复习",
+      "review_stage": 1,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "英语完形正确，但variation未能准确理解",
+      "notes": "关联20261028-E-CLOZE01",
+      "review_history": []
     }
   ],
   "study_sessions": [
