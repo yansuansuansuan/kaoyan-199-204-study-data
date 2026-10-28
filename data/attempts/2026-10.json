@@ -1075,6 +1075,62 @@
       "teacher_feedback": "选项B正确，能利用末句的reduce costs / coordinating difficult抓住答案。词汇：branch=分馆，expanded access=扩大获取机会，less visible expense=不明显的额外成本，digital titles=电子书作品，licenses=授权许可，expire=到期/失效，loans=借阅次数，joint=联合，coordinating=协调。理解主旨但句意有多处失准，需词义精准训练。",
       "review_outcome": "阅读推断答对，关键词义和句子精读仍需练习",
       "linked_error_id": null
+    },
+    {
+      "attempt_id": "20261028-M-PROB02",
+      "exercise_id": "M006",
+      "date": "2026-10-28",
+      "subject": "199数学",
+      "kind": "probability_review",
+      "source": "AI原创概率巩固题（非真题）",
+      "topic": "不放回抽样，同色分类概率",
+      "question": "袋子里有3个红球和2个蓝球，随机不放回取出2个球。问：取出的两个球颜色相同的概率是多少？",
+      "options": {
+        "A": "1/5",
+        "B": "2/5",
+        "C": "1/2",
+        "D": "3/5",
+        "E": "4/5"
+      },
+      "submitted_answer": "B",
+      "answer_kind": "selected_option",
+      "correct_answer": "B",
+      "correctness": true,
+      "scoring_status": "valid",
+      "duration_band": "1～2分钟",
+      "duration_seconds": null,
+      "reasoning": "那还是一样的 3/5 和 2/5，3/5×1/2+2/5×1/4=2/5",
+      "teacher_feedback": "答案B，推导正确且完整：红红3/5×2/4=3/10；蓝蓝2/5×1/4=1/10；相加2/5。较上一题已主动覆盖两种互斥路径。无需计算工具的声明未提供，不能自行断言。",
+      "review_outcome": "同色事件两条互斥路径完整推导，独立计算有进步，安排间隔复测",
+      "linked_error_id": null
+    },
+    {
+      "attempt_id": "20261028-L-OR01",
+      "exercise_id": "L004",
+      "date": "2026-10-28",
+      "subject": "199逻辑",
+      "kind": "new_topic_diagnostic",
+      "source": "AI原创选言和条件推理题（非真题）",
+      "topic": "相容选言、否一推另、条件串联",
+      "question": "某公益活动对人员安排有以下规定：甲和乙至少有一人负责接待；如果乙负责接待，那么丙和丁至少有一人负责安检；现在已经确定甲不负责接待，丙也不负责安检。根据上述信息，以下哪项一定为真？",
+      "options": {
+        "A": "甲负责接待",
+        "B": "乙负责接待，丙负责安检",
+        "C": "丙和丁都负责安检",
+        "D": "乙负责接待，丁负责安检",
+        "E": "只有丁参与此次活动"
+      },
+      "submitted_answer": "D",
+      "answer_kind": "selected_option",
+      "correct_answer": "D",
+      "correctness": true,
+      "scoring_status": "valid",
+      "duration_band": "30秒～1分钟",
+      "duration_seconds": null,
+      "reasoning": "很简单",
+      "teacher_feedback": "选D正确。完整推理为甲或乙、非甲→乙；乙→丙或丁、非丙→丁。用户只提交‘很简单’，并非完整推理链，记为选项正确、推导证据不足，不推断为猜对或者已完全掌握。对应仓库研途《第9讲假言与选言的等价变形模型》中否一肯余规则。",
+      "review_outcome": "选项正确但未提供可核对推导过程；后续另一种题型验证推理熟练度",
+      "linked_error_id": null
     }
   ]
 }
