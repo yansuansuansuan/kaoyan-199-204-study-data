@@ -890,6 +890,23 @@
       ],
       "error_analysis": "等差数列列项计算正确但遗忘求和公式；英语主旨选对但reveal、vulnerable、initial funding等词义不稳。",
       "next_action": "下轮逻辑+英语各一题达到16/16，然后短写作训练；等差数列公式间隔复测。"
+    },
+    {
+      "id": "S20261028-ASSUMPT-READ-WRITE",
+      "date": "2026-10-28",
+      "period": "下午·达标训练及短写作",
+      "subject": "199逻辑+204英语（二）+199写作",
+      "module": "必要假设·电子平台阅读·社区满意度论证有效性分析",
+      "attempted_count": 3,
+      "correct_count": 2,
+      "valid_minutes": null,
+      "time_bands": [
+        "30秒～1分钟",
+        "1～2分钟",
+        null
+      ],
+      "error_analysis": "必要假设C理由正确；英语C正确，proportion等词义不稳；写作识别三处主要漏洞但口述超字数、成本论证不精确，未计作文分数。",
+      "next_action": "2026-10-28客观题16/16完成，写作短练1/1完成；后续优先加强公式补强与英语长句，并安排完整真题写作。"
     }
   ],
   "answer_corrections": [
@@ -989,25 +1006,25 @@
       {
         "month": "2026-10",
         "path": "data/attempts/2026-10.json",
-        "verified_attempts": 41,
-        "valid_attempts": 35,
-        "correct_attempts": 23,
+        "verified_attempts": 44,
+        "valid_attempts": 37,
+        "correct_attempts": 25,
         "wrong_attempts": 12,
         "void_attempts": 1,
-        "unscored_completed_attempts": 5,
+        "unscored_completed_attempts": 6,
         "partial_vocabulary_attempts": 4
       }
     ],
-    "total_recorded": 41,
-    "total_scored": 35,
-    "total_correct": 23,
+    "total_recorded": 44,
+    "total_scored": 37,
+    "total_correct": 25,
     "total_wrong": 12,
     "total_voided": 1,
     "counted_rule": "有效客观题作答才纳入知识正确率；E001原始提交D但本人确认误触，记入历史档案不计分；W001为5～8分钟短时写作诊断，保留原文和批改但不作为30分正式作文计分；概念核验与真题模拟分别评估。",
     "source_policy": "所有完成的题都保存，不限于错题。即使答对，也保留题干或可核对来源、答案、思路、真实耗时、批改及知识点。阅读、数学、逻辑、写作均适用。",
     "archive_read_policy": "需要核对过去具体作答/完整解析/正确率时，先读此处索引，按需打开相应月份归档。不要以聊天记忆替代档案。",
     "periodic_archive_policy": "新题加入当月归档；写入后重新读取验证。每次答完题时形成记录，优先按小批次或单元结束及时同步；用户说今天结束时必须补齐当日已完成的题。未同步要明确提示。",
-    "total_unscored_completed": 5,
+    "total_unscored_completed": 6,
     "total_vocabulary_partial": 4
   },
   "writing_diagnostics": [
@@ -1030,6 +1047,26 @@
         "完整文章结构与正式书面表达"
       ],
       "next_task": "核实年份题号的199论证有效性分析历年真题限时全篇写作"
+    },
+    {
+      "id": "W002",
+      "date": "2026-10-28",
+      "kind": "AI原创论证有效性分析短练·口述答题",
+      "attempt_id": "20261028-W002-01",
+      "time_band": null,
+      "exam_score": null,
+      "exam_score_reason": "120至180字短时任务，已口述超出目标长度，不是完整600字30分制作文；未提供写作真实耗时。",
+      "strengths": [
+        "识别微信群样本选择偏差及覆盖不足",
+        "区分满意与取消线下窗口的需求推断",
+        "指出取消线下可能损害部分居民体验"
+      ],
+      "needs_improvement": [
+        "线上运营有成本不能单独推翻线下节约成本主张，应讨论净成本是否足以支持结论",
+        "用120至180字精练漏洞分析，减少口述重复",
+        "补写标题及篇章结构，后续进行完整限时作文"
+      ],
+      "next_task": "安排一次真实历年199论证有效性分析600字左右25至30分钟完整练习，或先完成120至180字精练改写。"
     }
   ],
   "vocabulary_coverage_plan": {
