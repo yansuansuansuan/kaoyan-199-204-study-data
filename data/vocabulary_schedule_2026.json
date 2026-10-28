@@ -9,7 +9,7 @@
     "EXAM27频次高的词优先穿插",
     "HF2000按编号覆盖底盘"
   ],
-  "note": "这是HF2000编号1-2000的完整每日分配，便于两轮不漏项；不能把计划配额或来源索引当成已完成。EXAM27与READ200词项在完整核录后并入唯一去重队列，缺口按实测情况调整每日计划。三份PDF原件尚未上传GitHub。",
+  "note": "这是HF2000编号1-2000的完整每日分配，便于两轮不漏项；不能把计划配额或来源索引当成已完成。EXAM27与READ200词项在完整核录后并入唯一去重队列，缺口按实测情况调整每日计划。三份PDF原件尚未上传GitHub。 每日真实完成数以vocabulary_daily_dashboard.json为准，原2000编号计划只是未完成的任务配额，未导入全表前不能声称完整覆盖。",
   "round1": {
     "from": "2026-10-29",
     "to": "2026-11-23",
@@ -664,5 +664,16 @@
     "晚间只深度学习错误与部分正确的词",
     "每单元写入GitHub并回读"
   ],
-  "user_checklist_format": "显示当日完成/未完成、整轮累计唯一已测、到期复习和今日偏差，不伪造时间与正确率"
+  "user_checklist_format": "显示当日完成/未完成、整轮累计唯一已测、到期复习和今日偏差，不伪造时间与正确率",
+  "daily_dashboard": "data/vocabulary_daily_dashboard.json",
+  "daily_progress_readable": "data/vocabulary_daily_progress.md",
+  "warmup_day": {
+    "date": "2026-10-28",
+    "high_frequency_target": 50,
+    "effective_first_pass_completed": 29,
+    "remaining": 21,
+    "completed_due_reviews": 5,
+    "due_reviews_remaining": 0,
+    "source": "READ200前30词（1个ASR作废）"
+  }
 }
