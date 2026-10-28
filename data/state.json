@@ -2027,6 +2027,347 @@
       "source_ids": [
         "READ200"
       ]
+    },
+    {
+      "id": "V072",
+      "word": "decline",
+      "meaning": "下降；衰退；婉拒、拒绝",
+      "context": null,
+      "first_seen_date": "2026-10-28",
+      "first_attempt": "规划",
+      "mastery_status": "答错或不会·明日优先复习",
+      "review_stage": 1,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "2026-10-28第一轮B05：wrong（原文规划）",
+      "review_history": [
+        {
+          "attempt_id": "20261028-V-READ200-B05-01",
+          "date": "2026-10-28",
+          "type": "first_pass",
+          "original_answer": "规划",
+          "result": "wrong",
+          "correctness": false,
+          "test_method": "口述英译中",
+          "duration_seconds": null,
+          "confidence": null
+        }
+      ],
+      "notes": "READ200第27页；资料标注词频30；原答见20261028-V-READ200-B05-01",
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V073",
+      "word": "firm",
+      "meaning": "坚定的；坚固的；公司（n.）",
+      "context": null,
+      "first_seen_date": "2026-10-28",
+      "first_attempt": "坚定",
+      "mastery_status": "基础释义正确·待复习及语境检验",
+      "review_stage": 1,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "2026-10-28第一轮B05：correct（原文坚定）",
+      "review_history": [
+        {
+          "attempt_id": "20261028-V-READ200-B05-02",
+          "date": "2026-10-28",
+          "type": "first_pass",
+          "original_answer": "坚定",
+          "result": "correct",
+          "correctness": true,
+          "test_method": "口述英译中",
+          "duration_seconds": null,
+          "confidence": null
+        }
+      ],
+      "notes": "READ200第29页；资料标注词频29；原答见20261028-V-READ200-B05-02",
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V074",
+      "word": "peer",
+      "meaning": "同龄人；同辈；同行；凝视",
+      "context": null,
+      "first_seen_date": "2026-10-28",
+      "first_attempt": "不知道",
+      "mastery_status": "答错或不会·明日优先复习",
+      "review_stage": 1,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "2026-10-28第一轮B05：wrong（原文不知道）",
+      "review_history": [
+        {
+          "attempt_id": "20261028-V-READ200-B05-03",
+          "date": "2026-10-28",
+          "type": "first_pass",
+          "original_answer": "不知道",
+          "result": "wrong",
+          "correctness": false,
+          "test_method": "口述英译中",
+          "duration_seconds": null,
+          "confidence": "明确不知道"
+        }
+      ],
+      "notes": "READ200第30页；资料标注词频29；原答见20261028-V-READ200-B05-03",
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V075",
+      "word": "quality",
+      "meaning": "质量；品质；特征",
+      "context": null,
+      "first_seen_date": "2026-10-28",
+      "first_attempt": "质量",
+      "mastery_status": "基础释义正确·待复习及语境检验",
+      "review_stage": 1,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "2026-10-28第一轮B05：correct（原文质量）",
+      "review_history": [
+        {
+          "attempt_id": "20261028-V-READ200-B05-04",
+          "date": "2026-10-28",
+          "type": "first_pass",
+          "original_answer": "质量",
+          "result": "correct",
+          "correctness": true,
+          "test_method": "口述英译中",
+          "duration_seconds": null,
+          "confidence": null
+        }
+      ],
+      "notes": "READ200第30页；资料标注词频28；原答见20261028-V-READ200-B05-04",
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V076",
+      "word": "recent",
+      "meaning": "近来的；最近的",
+      "context": null,
+      "first_seen_date": "2026-10-28",
+      "first_attempt": "最近的",
+      "mastery_status": "基础释义正确·待复习及语境检验",
+      "review_stage": 1,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "2026-10-28第一轮B05：correct（原文最近的）",
+      "review_history": [
+        {
+          "attempt_id": "20261028-V-READ200-B05-05",
+          "date": "2026-10-28",
+          "type": "first_pass",
+          "original_answer": "最近的",
+          "result": "correct",
+          "correctness": true,
+          "test_method": "口述英译中",
+          "duration_seconds": null,
+          "confidence": null
+        }
+      ],
+      "notes": "READ200第31页；资料标注词频28；原答见20261028-V-READ200-B05-05",
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V077",
+      "word": "reduce",
+      "meaning": "减少；降低；缩减",
+      "context": null,
+      "first_seen_date": "2026-10-28",
+      "first_attempt": "导致",
+      "mastery_status": "答错或不会·明日优先复习",
+      "review_stage": 1,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "2026-10-28第一轮B05：wrong（原文导致）",
+      "review_history": [
+        {
+          "attempt_id": "20261028-V-READ200-B05-06",
+          "date": "2026-10-28",
+          "type": "first_pass",
+          "original_answer": "导致",
+          "result": "wrong",
+          "correctness": false,
+          "test_method": "口述英译中",
+          "duration_seconds": null,
+          "confidence": null
+        }
+      ],
+      "notes": "READ200第32页；资料标注词频28；原答见20261028-V-READ200-B05-06",
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V078",
+      "word": "official",
+      "meaning": "正式的；官方的；官员（n.）",
+      "context": null,
+      "first_seen_date": "2026-10-28",
+      "first_attempt": "正式的",
+      "mastery_status": "基础释义正确·待复习及语境检验",
+      "review_stage": 1,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "2026-10-28第一轮B05：correct（原文正式的）",
+      "review_history": [
+        {
+          "attempt_id": "20261028-V-READ200-B05-07",
+          "date": "2026-10-28",
+          "type": "first_pass",
+          "original_answer": "正式的",
+          "result": "correct",
+          "correctness": true,
+          "test_method": "口述英译中",
+          "duration_seconds": null,
+          "confidence": null
+        }
+      ],
+      "notes": "READ200第33页；资料标注词频27；原答见20261028-V-READ200-B05-07",
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V079",
+      "word": "security",
+      "meaning": "安全；保障；安保；证券",
+      "context": null,
+      "first_seen_date": "2026-10-28",
+      "first_attempt": "安全的",
+      "mastery_status": "仅部分正确·明日复习",
+      "review_stage": 1,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "2026-10-28第一轮B05：partial（原文安全的）",
+      "review_history": [
+        {
+          "attempt_id": "20261028-V-READ200-B05-08",
+          "date": "2026-10-28",
+          "type": "first_pass",
+          "original_answer": "安全的",
+          "result": "partial",
+          "correctness": null,
+          "test_method": "口述英译中",
+          "duration_seconds": null,
+          "confidence": null
+        }
+      ],
+      "notes": "READ200第33页；资料标注词频27；原答见20261028-V-READ200-B05-08",
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V080",
+      "word": "loss",
+      "meaning": "损失；失去；亏损",
+      "context": null,
+      "first_seen_date": "2026-10-28",
+      "first_attempt": "松",
+      "mastery_status": "语音转写待核实·不计首次有效测验",
+      "review_stage": 1,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "2026-10-28第一轮B05：asr_uncertain（原文松）",
+      "review_history": [
+        {
+          "attempt_id": "20261028-V-READ200-B05-09",
+          "date": "2026-10-28",
+          "type": "asr_pending",
+          "original_answer": "松",
+          "result": "asr_uncertain",
+          "correctness": null,
+          "test_method": "口述英译中",
+          "duration_seconds": null,
+          "confidence": "疑似语音转写错误"
+        }
+      ],
+      "notes": "READ200第14页；资料标注词频26；原答见20261028-V-READ200-B05-09",
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V081",
+      "word": "productivity",
+      "meaning": "生产力；生产效率",
+      "context": null,
+      "first_seen_date": "2026-10-28",
+      "first_attempt": "生产力",
+      "mastery_status": "基础释义正确·待复习及语境检验",
+      "review_stage": 1,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "2026-10-28第一轮B05：correct（原文生产力）",
+      "review_history": [
+        {
+          "attempt_id": "20261028-V-READ200-B05-10",
+          "date": "2026-10-28",
+          "type": "first_pass",
+          "original_answer": "生产力",
+          "result": "correct",
+          "correctness": true,
+          "test_method": "口述英译中",
+          "duration_seconds": null,
+          "confidence": null
+        }
+      ],
+      "notes": "READ200第22页；资料标注词频26；原答见20261028-V-READ200-B05-10",
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V082",
+      "word": "focus",
+      "meaning": "焦点；集中；专注",
+      "context": null,
+      "first_seen_date": "2026-10-28",
+      "first_attempt": "专注",
+      "mastery_status": "基础释义正确·待复习及语境检验",
+      "review_stage": 1,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "2026-10-28第一轮B05：correct（原文专注）",
+      "review_history": [
+        {
+          "attempt_id": "20261028-V-READ200-B05-11",
+          "date": "2026-10-28",
+          "type": "first_pass",
+          "original_answer": "专注",
+          "result": "correct",
+          "correctness": true,
+          "test_method": "口述英译中",
+          "duration_seconds": null,
+          "confidence": null
+        }
+      ],
+      "notes": "READ200第34页；资料标注词频26；原答见20261028-V-READ200-B05-11",
+      "source_ids": [
+        "READ200"
+      ]
     }
   ],
   "study_sessions": [
@@ -2336,26 +2677,26 @@
       {
         "month": "2026-10",
         "path": "data/attempts/2026-10.json",
-        "verified_attempts": 84,
-        "valid_attempts": 68,
-        "correct_attempts": 52,
-        "wrong_attempts": 16,
-        "void_attempts": 2,
-        "unscored_completed_attempts": 14,
-        "partial_vocabulary_attempts": 12
+        "verified_attempts": 95,
+        "valid_attempts": 77,
+        "correct_attempts": 58,
+        "wrong_attempts": 19,
+        "void_attempts": 3,
+        "unscored_completed_attempts": 15,
+        "partial_vocabulary_attempts": 13
       }
     ],
-    "total_recorded": 84,
-    "total_scored": 68,
-    "total_correct": 52,
-    "total_wrong": 16,
-    "total_voided": 2,
+    "total_recorded": 95,
+    "total_scored": 77,
+    "total_correct": 58,
+    "total_wrong": 19,
+    "total_voided": 3,
     "counted_rule": "有效客观题作答才纳入知识正确率；E001原始提交D但本人确认误触，记入历史档案不计分；W001为5～8分钟短时写作诊断，保留原文和批改但不作为30分正式作文计分；概念核验与真题模拟分别评估。",
     "source_policy": "所有完成的题都保存，不限于错题。即使答对，也保留题干或可核对来源、答案、思路、真实耗时、批改及知识点。阅读、数学、逻辑、写作均适用。",
     "archive_read_policy": "需要核对过去具体作答/完整解析/正确率时，先读此处索引，按需打开相应月份归档。不要以聊天记忆替代档案。",
     "periodic_archive_policy": "新题加入当月归档；写入后重新读取验证。每次答完题时形成记录，优先按小批次或单元结束及时同步；用户说今天结束时必须补齐当日已完成的题。未同步要明确提示。",
-    "total_unscored_completed": 14,
-    "total_vocabulary_partial": 12
+    "total_unscored_completed": 15,
+    "total_vocabulary_partial": 13
   },
   "writing_diagnostics": [
     {
@@ -2428,22 +2769,23 @@
     "READ200": {
       "source_index": "data/wordlists/reading200_page_index.json",
       "source_unique_entries_provisional": 202,
-      "first_pass_attempted": 39,
-      "first_pass_effective": 39,
-      "first_pass_tested_today": 39,
-      "first_pass_correct_basic": 27,
-      "first_pass_partial": 8,
-      "first_pass_wrong": 4,
-      "first_pass_asr_void": 0,
-      "historical_asr_void_attempts": 1,
+      "first_pass_attempted": 50,
+      "first_pass_effective": 49,
+      "first_pass_tested_today": 49,
+      "first_pass_correct_basic": 33,
+      "first_pass_partial": 9,
+      "first_pass_wrong": 7,
+      "first_pass_asr_void": 1,
+      "historical_asr_void_attempts": 2,
       "first_pass_complete": false,
       "second_pass_complete": false,
       "tested_date": "2026-10-28",
-      "last_batch_id": "READ200-B04",
-      "unanswered_queue": [
-        "decline"
-      ],
-      "note": "已提交40次词测（原来keep作废一次，后来同日复核成功），独立目标词39个有效首次筛查。27基本义正确、8部分正确、4错/不认识。decline本次未答不计完成。"
+      "last_batch_id": "READ200-B05",
+      "unanswered_queue": [],
+      "note": "今日READ200 50不同词均已提交一轮口语回忆，49词有效：33基础义正确，9部分正确，7错/不会。loss转写成‘松’，未确认真实口述词义，作废待复核不计有效首轮；keep曾作废但已同日正确复核。",
+      "pending_asr_verification": [
+        "loss"
+      ]
     }
   }
 }
