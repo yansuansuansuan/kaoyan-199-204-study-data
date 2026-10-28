@@ -964,6 +964,62 @@
       "linked_error_id": null,
       "linked_vocabulary_word": "determine",
       "linked_exercise_id": null
+    },
+    {
+      "attempt_id": "20261028-M-COND-01",
+      "exercise_id": "M004",
+      "date": "2026-10-28",
+      "subject": "199数学",
+      "kind": "new_topic_diagnostic",
+      "source": "AI原创条件充分性判断题（非真题）",
+      "topic": "充分性判断、平方差分解、实数正负",
+      "question": "已知实数x,y，判断x>y是否必然成立。条件（1）x²>y²；条件（2）x+y>0。请判断给出的条件是否充分。",
+      "options": {
+        "A": "条件（1）充分，条件（2）不充分",
+        "B": "条件（2）充分，条件（1）不充分",
+        "C": "两个条件单独都不充分，联合起来充分",
+        "D": "两个条件单独都充分",
+        "E": "两个条件联合起来也不充分"
+      },
+      "submitted_answer": "C",
+      "answer_kind": "selected_option",
+      "correct_answer": "C",
+      "correctness": true,
+      "scoring_status": "valid",
+      "duration_band": "30秒～1分钟",
+      "duration_seconds": null,
+      "reasoning": "c 吧，a 的话如果 一个是负数就不行，2 的话单独也不行",
+      "teacher_feedback": "选C正确。条件(1)单独不充分：x=-3,y=2使x²>y²成立但x>y不成立；条件(2)单独不充分：x=1,y=2使x+y>0成立但x>y不成立。联合时(x-y)(x+y)=x²-y²>0且x+y>0，故x-y>0。原始思路只提正负数影响，未给出联合证明，需练平方差因式分解。",
+      "review_outcome": "答案正确，联合条件推导尚未完整表达；后续用新题确认方法掌握",
+      "linked_error_id": null
+    },
+    {
+      "attempt_id": "20261028-L-ORDER-01",
+      "exercise_id": "L003",
+      "date": "2026-10-28",
+      "subject": "199逻辑",
+      "kind": "new_topic_diagnostic",
+      "source": "AI原创线性排序题（非真题）",
+      "topic": "线性元素排序、固定相邻整体占位、必然性证明",
+      "question": "某培训活动安排甲乙丙丁四人依次发言，每人占一个时段。甲紧挨着乙，且甲在乙之前；丙在丁之前；乙不是最后一位。以下哪项一定为真？",
+      "options": {
+        "A": "甲是第1位",
+        "B": "乙是第2位",
+        "C": "丁是第4位",
+        "D": "丙是第1位",
+        "E": "甲一定比丙先发言"
+      },
+      "submitted_answer": "C",
+      "answer_kind": "selected_option",
+      "correct_answer": "C",
+      "correctness": true,
+      "scoring_status": "valid",
+      "duration_band": "30秒～1分钟",
+      "duration_seconds": null,
+      "reasoning": "那就是丙甲乙丁呗 c，你每次回答我之前一定要顺便看下并融合新资料啊",
+      "teacher_feedback": "选C正确。仅枚举丙甲乙丁不够证明‘一定为真’；固定块甲乙可能占(1,2)或(2,3)，对应甲乙丙丁、丙甲乙丁，两种情况下丁均是第4位。结合仓库研途《第23讲线性元素排序模型》整体占位与余量推进法，提醒先画固定块、再排剩余。",
+      "review_outcome": "答案正确但仅列一个合法排列；未完整排除其他可能，后续需测试必然性证明",
+      "linked_error_id": null
     }
   ]
 }
