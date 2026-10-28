@@ -846,6 +846,16 @@
     "daily_screening_target": 125,
     "first_pass_end": "2026-12-11",
     "official_wordlist_imported": false,
-    "note": "需导入2027考试大纲附录词表后才能准确计算全量覆盖率；筛查数不等于掌握数"
+    "note": "新优先级：三份高频材料合并去重考前两轮主动回忆，5500全表仅有余力时扩展；现有词条初步索引不等于已学习或已掌握。",
+    "active_plan": "three_sources_two_passes",
+    "source_registry": "data/vocabulary_sources.json",
+    "index_paths": [
+      "data/wordlists/reading200_page_index.json",
+      "data/wordlists/other_source_seeds.json"
+    ],
+    "round1_end": "2026-11-23",
+    "round2_end": "2026-12-14",
+    "source_original_pdf_upload_complete": false,
+    "source_coverage_verified": false
   }
 }
