@@ -815,6 +815,316 @@
       "latest_review_result": "文章主旨判断正确，目标词义解释不准或未明示",
       "notes": "来源：20261028-E-PLATFORMREAD01，保留原始词义猜测",
       "review_history": []
+    },
+    {
+      "id": "V034",
+      "word": "just",
+      "meaning": "公正的；正义的；仅仅；正好",
+      "context": null,
+      "first_seen_date": "2026-10-28",
+      "first_attempt": "Just 应该是就是公平正义，然后还有呃只友，还有。嗯，应该就是这些意思吧。",
+      "mastery_status": "第一轮基础义正确·待熟词僻义及间隔验证",
+      "review_stage": 1,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "2026-10-28 READ200第一轮：correct",
+      "notes": "READ200：上传PDF第1页；资料标注频次81。首次测试答案在20261028-V-READ200-B01-01",
+      "review_history": [
+        {
+          "attempt_id": "20261028-V-READ200-B01-01",
+          "date": "2026-10-28",
+          "type": "first_pass",
+          "test_method": "英语→中文无提示口述回忆",
+          "original_answer": "Just 应该是就是公平正义，然后还有呃只友，还有。嗯，应该就是这些意思吧。",
+          "result": "correct",
+          "confidence": "语气不确定",
+          "duration_seconds": null,
+          "next_review_date": "2026-10-29"
+        }
+      ],
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V035",
+      "word": "following",
+      "meaning": "接下来的；接着的；在……之后；跟随",
+      "context": null,
+      "first_seen_date": "2026-10-28",
+      "first_attempt": "following 就是接下来的跟。跟着的这种意思",
+      "mastery_status": "第一轮基础义正确·待熟词僻义及间隔验证",
+      "review_stage": 1,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "2026-10-28 READ200第一轮：correct",
+      "notes": "READ200：上传PDF第2页；资料标注频次65。首次测试答案在20261028-V-READ200-B01-02",
+      "review_history": [
+        {
+          "attempt_id": "20261028-V-READ200-B01-02",
+          "date": "2026-10-28",
+          "type": "first_pass",
+          "test_method": "英语→中文无提示口述回忆",
+          "original_answer": "following 就是接下来的跟。跟着的这种意思",
+          "result": "correct",
+          "confidence": "未明确逐词标注",
+          "duration_seconds": null,
+          "next_review_date": "2026-10-29"
+        }
+      ],
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V036",
+      "word": "economic",
+      "meaning": "经济的",
+      "context": null,
+      "first_seen_date": "2026-10-28",
+      "first_attempt": "economic 就是经济的",
+      "mastery_status": "第一轮基础义正确·待熟词僻义及间隔验证",
+      "review_stage": 1,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "2026-10-28 READ200第一轮：correct",
+      "notes": "READ200：上传PDF第2页；资料标注频次64。首次测试答案在20261028-V-READ200-B01-03",
+      "review_history": [
+        {
+          "attempt_id": "20261028-V-READ200-B01-03",
+          "date": "2026-10-28",
+          "type": "first_pass",
+          "test_method": "英语→中文无提示口述回忆",
+          "original_answer": "economic 就是经济的",
+          "result": "correct",
+          "confidence": "未明确逐词标注",
+          "duration_seconds": null,
+          "next_review_date": "2026-10-29"
+        }
+      ],
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V037",
+      "word": "data",
+      "meaning": "数据；资料",
+      "context": null,
+      "first_seen_date": "2026-10-28",
+      "first_attempt": "Data 塔数据",
+      "mastery_status": "第一轮基础义正确·待熟词僻义及间隔验证",
+      "review_stage": 1,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "2026-10-28 READ200第一轮：correct",
+      "notes": "READ200：上传PDF第3页；资料标注频次59。首次测试答案在20261028-V-READ200-B01-04",
+      "review_history": [
+        {
+          "attempt_id": "20261028-V-READ200-B01-04",
+          "date": "2026-10-28",
+          "type": "first_pass",
+          "test_method": "英语→中文无提示口述回忆",
+          "original_answer": "Data 塔数据",
+          "result": "correct",
+          "confidence": "未明确逐词标注",
+          "duration_seconds": null,
+          "next_review_date": "2026-10-29"
+        }
+      ],
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V038",
+      "word": "court",
+      "meaning": "法院；法庭；球场；宫廷；争取、讨好",
+      "context": null,
+      "first_seen_date": "2026-10-28",
+      "first_attempt": "Court 应该是法庭",
+      "mastery_status": "第一轮基础义正确·待熟词僻义及间隔验证",
+      "review_stage": 1,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "2026-10-28 READ200第一轮：correct",
+      "notes": "READ200：上传PDF第4页；资料标注频次57。首次测试答案在20261028-V-READ200-B01-05",
+      "review_history": [
+        {
+          "attempt_id": "20261028-V-READ200-B01-05",
+          "date": "2026-10-28",
+          "type": "first_pass",
+          "test_method": "英语→中文无提示口述回忆",
+          "original_answer": "Court 应该是法庭",
+          "result": "correct",
+          "confidence": "语气不确定",
+          "duration_seconds": null,
+          "next_review_date": "2026-10-29"
+        }
+      ],
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V039",
+      "word": "keep",
+      "meaning": "保持；保留；保存；遵守",
+      "context": null,
+      "first_seen_date": "2026-10-28",
+      "first_attempt": "keep。不好吃",
+      "mastery_status": "第一轮错误·待复习",
+      "review_stage": 1,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "2026-10-28 READ200第一轮：wrong",
+      "notes": "READ200：上传PDF第4页；资料标注频次57。首次测试答案在20261028-V-READ200-B01-06",
+      "review_history": [
+        {
+          "attempt_id": "20261028-V-READ200-B01-06",
+          "date": "2026-10-28",
+          "type": "first_pass",
+          "test_method": "英语→中文无提示口述回忆",
+          "original_answer": "keep。不好吃",
+          "result": "wrong",
+          "confidence": "未明确逐词标注",
+          "duration_seconds": null,
+          "next_review_date": "2026-10-29"
+        }
+      ],
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V040",
+      "word": "process",
+      "meaning": "过程；进程；流程；步骤；加工、处理",
+      "context": null,
+      "first_seen_date": "2026-10-28",
+      "first_attempt": "process.呃，进程精度吧",
+      "mastery_status": "第一轮部分正确·待复习",
+      "review_stage": 1,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "2026-10-28 READ200第一轮：partial",
+      "notes": "READ200：上传PDF第4页；资料标注频次56。首次测试答案在20261028-V-READ200-B01-07",
+      "review_history": [
+        {
+          "attempt_id": "20261028-V-READ200-B01-07",
+          "date": "2026-10-28",
+          "type": "first_pass",
+          "test_method": "英语→中文无提示口述回忆",
+          "original_answer": "process.呃，进程精度吧",
+          "result": "partial",
+          "confidence": "未明确逐词标注",
+          "duration_seconds": null,
+          "next_review_date": "2026-10-29"
+        }
+      ],
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V041",
+      "word": "system",
+      "meaning": "系统；制度；体系",
+      "context": null,
+      "first_seen_date": "2026-10-28",
+      "first_attempt": "system 就是系统",
+      "mastery_status": "第一轮基础义正确·待熟词僻义及间隔验证",
+      "review_stage": 1,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "2026-10-28 READ200第一轮：correct",
+      "notes": "READ200：上传PDF第5页；资料标注频次54。首次测试答案在20261028-V-READ200-B01-08",
+      "review_history": [
+        {
+          "attempt_id": "20261028-V-READ200-B01-08",
+          "date": "2026-10-28",
+          "type": "first_pass",
+          "test_method": "英语→中文无提示口述回忆",
+          "original_answer": "system 就是系统",
+          "result": "correct",
+          "confidence": "未明确逐词标注",
+          "duration_seconds": null,
+          "next_review_date": "2026-10-29"
+        }
+      ],
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V042",
+      "word": "lead",
+      "meaning": "导致；引导；带领；领导；铅（n.）",
+      "context": null,
+      "first_seen_date": "2026-10-28",
+      "first_attempt": "lead 的，就是导致。他应该也可以说，就是那种。引导吧，那种依靠",
+      "mastery_status": "第一轮部分正确·待复习",
+      "review_stage": 1,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "2026-10-28 READ200第一轮：partial",
+      "notes": "READ200：上传PDF第5页；资料标注频次52。首次测试答案在20261028-V-READ200-B01-09",
+      "review_history": [
+        {
+          "attempt_id": "20261028-V-READ200-B01-09",
+          "date": "2026-10-28",
+          "type": "first_pass",
+          "test_method": "英语→中文无提示口述回忆",
+          "original_answer": "lead 的，就是导致。他应该也可以说，就是那种。引导吧，那种依靠",
+          "result": "partial",
+          "confidence": "语气不确定",
+          "duration_seconds": null,
+          "next_review_date": "2026-10-29"
+        }
+      ],
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V043",
+      "word": "effect",
+      "meaning": "影响；效果；结果；实现（v.）",
+      "context": null,
+      "first_seen_date": "2026-10-28",
+      "first_attempt": "An effect 就是影响吧。Effect",
+      "mastery_status": "第一轮基础义正确·待熟词僻义及间隔验证",
+      "review_stage": 1,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "2026-10-28 READ200第一轮：correct",
+      "notes": "READ200：上传PDF第6页；资料标注频次51。首次测试答案在20261028-V-READ200-B01-10",
+      "review_history": [
+        {
+          "attempt_id": "20261028-V-READ200-B01-10",
+          "date": "2026-10-28",
+          "type": "first_pass",
+          "test_method": "英语→中文无提示口述回忆",
+          "original_answer": "An effect 就是影响吧。Effect",
+          "result": "correct",
+          "confidence": "语气不确定",
+          "duration_seconds": null,
+          "next_review_date": "2026-10-29"
+        }
+      ],
+      "source_ids": [
+        "READ200"
+      ]
     }
   ],
   "study_sessions": [
@@ -1070,26 +1380,26 @@
       {
         "month": "2026-10",
         "path": "data/attempts/2026-10.json",
-        "verified_attempts": 44,
-        "valid_attempts": 37,
-        "correct_attempts": 25,
-        "wrong_attempts": 12,
+        "verified_attempts": 54,
+        "valid_attempts": 45,
+        "correct_attempts": 32,
+        "wrong_attempts": 13,
         "void_attempts": 1,
-        "unscored_completed_attempts": 6,
-        "partial_vocabulary_attempts": 4
+        "unscored_completed_attempts": 8,
+        "partial_vocabulary_attempts": 6
       }
     ],
-    "total_recorded": 44,
-    "total_scored": 37,
-    "total_correct": 25,
-    "total_wrong": 12,
+    "total_recorded": 54,
+    "total_scored": 45,
+    "total_correct": 32,
+    "total_wrong": 13,
     "total_voided": 1,
     "counted_rule": "有效客观题作答才纳入知识正确率；E001原始提交D但本人确认误触，记入历史档案不计分；W001为5～8分钟短时写作诊断，保留原文和批改但不作为30分正式作文计分；概念核验与真题模拟分别评估。",
     "source_policy": "所有完成的题都保存，不限于错题。即使答对，也保留题干或可核对来源、答案、思路、真实耗时、批改及知识点。阅读、数学、逻辑、写作均适用。",
     "archive_read_policy": "需要核对过去具体作答/完整解析/正确率时，先读此处索引，按需打开相应月份归档。不要以聊天记忆替代档案。",
     "periodic_archive_policy": "新题加入当月归档；写入后重新读取验证。每次答完题时形成记录，优先按小批次或单元结束及时同步；用户说今天结束时必须补齐当日已完成的题。未同步要明确提示。",
-    "total_unscored_completed": 6,
-    "total_vocabulary_partial": 4
+    "total_unscored_completed": 8,
+    "total_vocabulary_partial": 6
   },
   "writing_diagnostics": [
     {
@@ -1156,5 +1466,20 @@
       "former_daily_screening_target": 125
     },
     "daily_schedule": "data/vocabulary_schedule_2026.json"
+  },
+  "vocabulary_source_progress": {
+    "READ200": {
+      "source_index": "data/wordlists/reading200_page_index.json",
+      "source_unique_entries_provisional": 202,
+      "first_pass_tested_today": 10,
+      "first_pass_correct_basic": 7,
+      "first_pass_partial": 2,
+      "first_pass_wrong": 1,
+      "tested_date": "2026-10-28",
+      "last_batch_id": "READ200-B01",
+      "first_pass_complete": false,
+      "second_pass_complete": false,
+      "note": "已测试10个不同词；来源索引尚待逐项核验。基础义正确不等于完全掌握；其他PDF覆盖未完成，不以资料标题数作分母。"
+    }
   }
 }
