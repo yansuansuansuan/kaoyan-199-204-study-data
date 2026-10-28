@@ -132,6 +132,26 @@
           "reasoning_clarification": "2026-10-28用户本人确认口误"
         }
       ]
+    },
+    {
+      "id": "M003",
+      "first_wrong_date": "2026-10-28",
+      "subject": "199数学",
+      "topic": "工程效率·合作差分与分数运算",
+      "source": "2025年199数学问题求解第4题·20261028-ADV-2025M04-R01",
+      "prompt_summary": "甲15天、甲乙6天、甲乙丙4天；乙先1天，剩余甲丙合作需几天",
+      "submitted_answer": "B（用户明确猜选）",
+      "correct_answer": "C（6天）",
+      "duration_seconds": null,
+      "error_analysis": "正确推导乙效率1/10、丙效率1/12，但最后计算甲丙效率时误将丙写成1/4+1/6，而非1/4-1/6；无纸笔，随意点选，建议设工作量60以减少分数复杂度。",
+      "mastery_status": "待新题独立复测",
+      "review_stage": 1,
+      "last_answer_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "真题错答B，需分数差额/设总量法补强",
+      "notes": "区分算术符号错误和工程效率知识缺失；原始回答在月档案中",
+      "review_history": []
     }
   ],
   "vocabulary": [
@@ -2524,6 +2544,22 @@
       ],
       "error_analysis": "必要假设C理由正确；英语C正确，proportion等词义不稳；写作识别三处主要漏洞但口述超字数、成本论证不精确，未计作文分数。",
       "next_action": "2026-10-28客观题16/16完成，写作短练1/1完成；后续优先加强公式补强与英语长句，并安排完整真题写作。"
+    },
+    {
+      "id": "S20261028-ADV01",
+      "date": "2026-10-28",
+      "period": "下午·加练真题第一轮",
+      "subject": "199数学+204英语（二）",
+      "module": "2025管综数学工程问题第4题＋Patrick King真实文章论证推断",
+      "attempted_count": 2,
+      "correct_count": 0,
+      "valid_minutes": null,
+      "time_bands": [
+        "1～2分钟",
+        "12分钟以上"
+      ],
+      "error_analysis": "数学先正确算乙和丙效率，最后丙效率写成加号；用户没有纸笔并明确猜选B。英语D错误，但用户明确未读完文章、随机选，不能用作有效完整阅读能力诊断。长篇外链只配一题训练效率低，后续短文内嵌配单题，整篇文章配5问。",
+      "next_action": "对工程问题采用工程量60或合适整数倍重做一题真题同构，英语用100至150词内嵌真实题源改写练习1题；两题批改后再分配新点。"
     }
   ],
   "answer_corrections": [
@@ -2636,10 +2672,10 @@
       "todays_extra_session": {
         "date": "2026-10-28",
         "extra_objective_target": 16,
-        "extra_objective_completed": 0,
+        "extra_objective_completed": 2,
         "total_daily_baseline_completed": 16,
-        "completion_status": "planned_not_completed",
-        "note": "Only count actual completed new attempts after their GitHub archive is verified."
+        "completion_status": "in_progress",
+        "note": "第一轮两题均已提交并归档：数学真题B错、真实英文文章题D随机点选且未读完，不可作有效阅读能力诊断；下一轮按整数工作量与短段内嵌训练。"
       },
       "latest_plan_version": "2026-10-28-mileestone-v2",
       "milestone_monitor_path": "data/milestone-monitor.json",
@@ -2677,19 +2713,19 @@
       {
         "month": "2026-10",
         "path": "data/attempts/2026-10.json",
-        "verified_attempts": 95,
-        "valid_attempts": 77,
+        "verified_attempts": 97,
+        "valid_attempts": 79,
         "correct_attempts": 58,
-        "wrong_attempts": 19,
+        "wrong_attempts": 21,
         "void_attempts": 3,
         "unscored_completed_attempts": 15,
         "partial_vocabulary_attempts": 13
       }
     ],
-    "total_recorded": 95,
-    "total_scored": 77,
+    "total_recorded": 97,
+    "total_scored": 79,
     "total_correct": 58,
-    "total_wrong": 19,
+    "total_wrong": 21,
     "total_voided": 3,
     "counted_rule": "有效客观题作答才纳入知识正确率；E001原始提交D但本人确认误触，记入历史档案不计分；W001为5～8分钟短时写作诊断，保留原文和批改但不作为30分正式作文计分；概念核验与真题模拟分别评估。",
     "source_policy": "所有完成的题都保存，不限于错题。即使答对，也保留题干或可核对来源、答案、思路、真实耗时、批改及知识点。阅读、数学、逻辑、写作均适用。",
