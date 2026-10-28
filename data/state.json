@@ -993,12 +993,12 @@
       "context": null,
       "first_seen_date": "2026-10-28",
       "first_attempt": "keep。不好吃",
-      "mastery_status": "语音转写作废·用户自述答对·待复核",
+      "mastery_status": "基础义正确·待间隔和语境验证",
       "review_stage": 1,
       "last_test_date": "2026-10-28",
       "next_review_date": "2026-10-29",
-      "review_count": 0,
-      "latest_review_result": "2026-10-28：原文“不好吃”系ASR错误，用户称答对，成绩作废不计错",
+      "review_count": 1,
+      "latest_review_result": "2026-10-28：口语复核‘保留’正确，解决原ASR作废；非第二轮",
       "notes": "READ200：上传PDF第4页；资料标注频次57。首次测试答案在20261028-V-READ200-B01-06",
       "review_history": [
         {
@@ -1014,6 +1014,18 @@
           "correctness": null,
           "user_reported_correction": "用户确认原答正确，原文字被语音识别错误转写，真实口述词义未提供",
           "is_user_confirmed_correct": true
+        },
+        {
+          "attempt_id": "20261028-V-READ200-B04-R01",
+          "date": "2026-10-28",
+          "type": "asr_retest_same_day",
+          "original_answer": "保留",
+          "result": "correct",
+          "correctness": true,
+          "test_method": "英语→中文无提示口语回忆",
+          "confidence": null,
+          "next_review_date": "2026-10-29",
+          "duration_seconds": null
         }
       ],
       "source_ids": [
@@ -1736,6 +1748,285 @@
       "source_ids": [
         "READ200"
       ]
+    },
+    {
+      "id": "V063",
+      "word": "program",
+      "meaning": "程序；计划；项目；节目",
+      "first_seen_date": "2026-10-28",
+      "first_attempt": "程序",
+      "mastery_status": "基础义正确·待间隔和语境验证",
+      "review_stage": 1,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "2026-10-28第4组：correct，原答：程序",
+      "review_history": [
+        {
+          "attempt_id": "20261028-V-READ200-B04-01",
+          "date": "2026-10-28",
+          "type": "first_pass",
+          "original_answer": "程序",
+          "result": "correct",
+          "correctness": true,
+          "test_method": "英语→中文无提示口语回忆",
+          "confidence": null,
+          "next_review_date": "2026-10-29",
+          "duration_seconds": null
+        }
+      ],
+      "notes": "用户READ200 PDF第22页，资料标注频次33，原始答题档案20261028-V-READ200-B04-01",
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V064",
+      "word": "moral",
+      "meaning": "道德的；道义上的；道德、寓意",
+      "first_seen_date": "2026-10-28",
+      "first_attempt": "谦虚的还是诚恳的（猜测）",
+      "mastery_status": "错误或不认识·明日优先复习",
+      "review_stage": 1,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "2026-10-28第4组：wrong，原答：谦虚的还是诚恳的（猜测）",
+      "review_history": [
+        {
+          "attempt_id": "20261028-V-READ200-B04-02",
+          "date": "2026-10-28",
+          "type": "first_pass",
+          "original_answer": "谦虚的还是诚恳的（猜测）",
+          "result": "wrong",
+          "correctness": false,
+          "test_method": "英语→中文无提示口语回忆",
+          "confidence": "猜测或不记得",
+          "next_review_date": "2026-10-29",
+          "duration_seconds": null
+        }
+      ],
+      "notes": "用户READ200 PDF第22页，资料标注频次32，原始答题档案20261028-V-READ200-B04-02",
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V065",
+      "word": "policy",
+      "meaning": "政策；方针；原则",
+      "first_seen_date": "2026-10-28",
+      "first_attempt": "政策",
+      "mastery_status": "基础义正确·待间隔和语境验证",
+      "review_stage": 1,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "2026-10-28第4组：correct，原答：政策",
+      "review_history": [
+        {
+          "attempt_id": "20261028-V-READ200-B04-03",
+          "date": "2026-10-28",
+          "type": "first_pass",
+          "original_answer": "政策",
+          "result": "correct",
+          "correctness": true,
+          "test_method": "英语→中文无提示口语回忆",
+          "confidence": null,
+          "next_review_date": "2026-10-29",
+          "duration_seconds": null
+        }
+      ],
+      "notes": "用户READ200 PDF第23页，资料标注频次32，原始答题档案20261028-V-READ200-B04-03",
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V066",
+      "word": "justice",
+      "meaning": "正义；公正；司法",
+      "first_seen_date": "2026-10-28",
+      "first_attempt": "公正",
+      "mastery_status": "基础义正确·待间隔和语境验证",
+      "review_stage": 1,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "2026-10-28第4组：correct，原答：公正",
+      "review_history": [
+        {
+          "attempt_id": "20261028-V-READ200-B04-04",
+          "date": "2026-10-28",
+          "type": "first_pass",
+          "original_answer": "公正",
+          "result": "correct",
+          "correctness": true,
+          "test_method": "英语→中文无提示口语回忆",
+          "confidence": null,
+          "next_review_date": "2026-10-29",
+          "duration_seconds": null
+        }
+      ],
+      "notes": "用户READ200 PDF第1页，资料标注频次31，原始答题档案20261028-V-READ200-B04-04",
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V067",
+      "word": "involve",
+      "meaning": "涉及；包含；牵涉；使参与；be involved in参与",
+      "first_seen_date": "2026-10-28",
+      "first_attempt": "参与",
+      "mastery_status": "部分正确·熟词僻义待复习",
+      "review_stage": 1,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "2026-10-28第4组：partial，原答：参与",
+      "review_history": [
+        {
+          "attempt_id": "20261028-V-READ200-B04-05",
+          "date": "2026-10-28",
+          "type": "first_pass",
+          "original_answer": "参与",
+          "result": "partial",
+          "correctness": null,
+          "test_method": "英语→中文无提示口语回忆",
+          "confidence": null,
+          "next_review_date": "2026-10-29",
+          "duration_seconds": null
+        }
+      ],
+      "notes": "用户READ200 PDF第24页，资料标注频次31，原始答题档案20261028-V-READ200-B04-05",
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V068",
+      "word": "legal",
+      "meaning": "法律的；合法的",
+      "first_seen_date": "2026-10-28",
+      "first_attempt": "合法的",
+      "mastery_status": "基础义正确·待间隔和语境验证",
+      "review_stage": 1,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "2026-10-28第4组：correct，原答：合法的",
+      "review_history": [
+        {
+          "attempt_id": "20261028-V-READ200-B04-06",
+          "date": "2026-10-28",
+          "type": "first_pass",
+          "original_answer": "合法的",
+          "result": "correct",
+          "correctness": true,
+          "test_method": "英语→中文无提示口语回忆",
+          "confidence": null,
+          "next_review_date": "2026-10-29",
+          "duration_seconds": null
+        }
+      ],
+      "notes": "用户READ200 PDF第24页，资料标注频次31，原始答题档案20261028-V-READ200-B04-06",
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V069",
+      "word": "sense",
+      "meaning": "感觉；感官；意义；意识；判断力",
+      "first_seen_date": "2026-10-28",
+      "first_attempt": "感觉；既然",
+      "mastery_status": "部分正确·熟词僻义待复习",
+      "review_stage": 1,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "2026-10-28第4组：partial，原答：感觉；既然",
+      "review_history": [
+        {
+          "attempt_id": "20261028-V-READ200-B04-07",
+          "date": "2026-10-28",
+          "type": "first_pass",
+          "original_answer": "感觉；既然",
+          "result": "partial",
+          "correctness": null,
+          "test_method": "英语→中文无提示口语回忆",
+          "confidence": null,
+          "next_review_date": "2026-10-29",
+          "duration_seconds": null
+        }
+      ],
+      "notes": "用户READ200 PDF第26页，资料标注频次31，原始答题档案20261028-V-READ200-B04-07",
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V070",
+      "word": "unite",
+      "meaning": "团结；联合；使统一",
+      "first_seen_date": "2026-10-28",
+      "first_attempt": "不记得（原转写Unit）",
+      "mastery_status": "错误或不认识·明日优先复习",
+      "review_stage": 1,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "2026-10-28第4组：wrong，原答：不记得（原转写Unit）",
+      "review_history": [
+        {
+          "attempt_id": "20261028-V-READ200-B04-08",
+          "date": "2026-10-28",
+          "type": "first_pass",
+          "original_answer": "不记得（原转写Unit）",
+          "result": "wrong",
+          "correctness": false,
+          "test_method": "英语→中文无提示口语回忆",
+          "confidence": "猜测或不记得",
+          "next_review_date": "2026-10-29",
+          "duration_seconds": null
+        }
+      ],
+      "notes": "用户READ200 PDF第27页，资料标注频次31，原始答题档案20261028-V-READ200-B04-08",
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V071",
+      "word": "avoid",
+      "meaning": "避免；避开；回避",
+      "first_seen_date": "2026-10-28",
+      "first_attempt": "避免",
+      "mastery_status": "基础义正确·待间隔和语境验证",
+      "review_stage": 1,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "2026-10-28第4组：correct，原答：避免",
+      "review_history": [
+        {
+          "attempt_id": "20261028-V-READ200-B04-10",
+          "date": "2026-10-28",
+          "type": "first_pass",
+          "original_answer": "避免",
+          "result": "correct",
+          "correctness": true,
+          "test_method": "英语→中文无提示口语回忆",
+          "confidence": null,
+          "next_review_date": "2026-10-29",
+          "duration_seconds": null
+        }
+      ],
+      "notes": "用户READ200 PDF第29页，资料标注频次29，原始答题档案20261028-V-READ200-B04-10",
+      "source_ids": [
+        "READ200"
+      ]
     }
   ],
   "study_sessions": [
@@ -2032,26 +2323,26 @@
       {
         "month": "2026-10",
         "path": "data/attempts/2026-10.json",
-        "verified_attempts": 74,
-        "valid_attempts": 60,
-        "correct_attempts": 46,
-        "wrong_attempts": 14,
+        "verified_attempts": 84,
+        "valid_attempts": 68,
+        "correct_attempts": 52,
+        "wrong_attempts": 16,
         "void_attempts": 2,
-        "unscored_completed_attempts": 12,
-        "partial_vocabulary_attempts": 10
+        "unscored_completed_attempts": 14,
+        "partial_vocabulary_attempts": 12
       }
     ],
-    "total_recorded": 74,
-    "total_scored": 60,
-    "total_correct": 46,
-    "total_wrong": 14,
+    "total_recorded": 84,
+    "total_scored": 68,
+    "total_correct": 52,
+    "total_wrong": 16,
     "total_voided": 2,
     "counted_rule": "有效客观题作答才纳入知识正确率；E001原始提交D但本人确认误触，记入历史档案不计分；W001为5～8分钟短时写作诊断，保留原文和批改但不作为30分正式作文计分；概念核验与真题模拟分别评估。",
     "source_policy": "所有完成的题都保存，不限于错题。即使答对，也保留题干或可核对来源、答案、思路、真实耗时、批改及知识点。阅读、数学、逻辑、写作均适用。",
     "archive_read_policy": "需要核对过去具体作答/完整解析/正确率时，先读此处索引，按需打开相应月份归档。不要以聊天记忆替代档案。",
     "periodic_archive_policy": "新题加入当月归档；写入后重新读取验证。每次答完题时形成记录，优先按小批次或单元结束及时同步；用户说今天结束时必须补齐当日已完成的题。未同步要明确提示。",
-    "total_unscored_completed": 12,
-    "total_vocabulary_partial": 10
+    "total_unscored_completed": 14,
+    "total_vocabulary_partial": 12
   },
   "writing_diagnostics": [
     {
@@ -2124,17 +2415,22 @@
     "READ200": {
       "source_index": "data/wordlists/reading200_page_index.json",
       "source_unique_entries_provisional": 202,
-      "first_pass_attempted": 30,
-      "first_pass_effective": 29,
-      "first_pass_correct_basic": 21,
-      "first_pass_partial": 6,
-      "first_pass_wrong": 2,
-      "first_pass_asr_void": 1,
+      "first_pass_attempted": 39,
+      "first_pass_effective": 39,
+      "first_pass_tested_today": 39,
+      "first_pass_correct_basic": 27,
+      "first_pass_partial": 8,
+      "first_pass_wrong": 4,
+      "first_pass_asr_void": 0,
+      "historical_asr_void_attempts": 1,
       "first_pass_complete": false,
       "second_pass_complete": false,
       "tested_date": "2026-10-28",
-      "last_batch_id": "READ200-B03",
-      "note": "第1～3组共30词已尝试，其中keep语音转写作废1词；有效初筛29词：21基础义正确、6部分正确、2错误。此计数仅READ200来源，完成不等于已掌握。"
+      "last_batch_id": "READ200-B04",
+      "unanswered_queue": [
+        "decline"
+      ],
+      "note": "已提交40次词测（原来keep作废一次，后来同日复核成功），独立目标词39个有效首次筛查。27基本义正确、8部分正确、4错/不认识。decline本次未答不计完成。"
     }
   }
 }
