@@ -1,0 +1,1829 @@
+{
+  "version": 1,
+  "source_id": "READ200",
+  "created_at": "2026-10-28",
+  "source_registry": "data/vocabulary_sources.json",
+  "note": "按用户上传的51页阅读高频200词PDF页首词条目视建立的初步索引，含词族衍生词，条目数可能不同于标题中的200；部分频率来自页面标注，未逐项二次人工核对。此文件不是PDF原件或完整释义/例句。",
+  "entries": [
+    {
+      "word": "just",
+      "source_id": "READ200",
+      "page": 1,
+      "frequency_as_shown": 81,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "justice",
+      "source_id": "READ200",
+      "page": 1,
+      "frequency_as_shown": 31,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "justify",
+      "source_id": "READ200",
+      "page": 1,
+      "frequency_as_shown": 14,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "justification",
+      "source_id": "READ200",
+      "page": 1,
+      "frequency_as_shown": 3,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "justifiable",
+      "source_id": "READ200",
+      "page": 2,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "following",
+      "source_id": "READ200",
+      "page": 2,
+      "frequency_as_shown": 65,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "economic",
+      "source_id": "READ200",
+      "page": 2,
+      "frequency_as_shown": 64,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "economist",
+      "source_id": "READ200",
+      "page": 2,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "economics",
+      "source_id": "READ200",
+      "page": 3,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "reviewer",
+      "source_id": "READ200",
+      "page": 3,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "worldview",
+      "source_id": "READ200",
+      "page": 3,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "data",
+      "source_id": "READ200",
+      "page": 3,
+      "frequency_as_shown": 59,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "database",
+      "source_id": "READ200",
+      "page": 4,
+      "frequency_as_shown": 14,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "court",
+      "source_id": "READ200",
+      "page": 4,
+      "frequency_as_shown": 57,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "keep",
+      "source_id": "READ200",
+      "page": 4,
+      "frequency_as_shown": 57,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "process",
+      "source_id": "READ200",
+      "page": 4,
+      "frequency_as_shown": 56,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "system",
+      "source_id": "READ200",
+      "page": 5,
+      "frequency_as_shown": 54,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "supersystem",
+      "source_id": "READ200",
+      "page": 5,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "ecosystem",
+      "source_id": "READ200",
+      "page": 5,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "lead",
+      "source_id": "READ200",
+      "page": 5,
+      "frequency_as_shown": 52,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "mislead",
+      "source_id": "READ200",
+      "page": 6,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "effect",
+      "source_id": "READ200",
+      "page": 6,
+      "frequency_as_shown": 51,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "effectively",
+      "source_id": "READ200",
+      "page": 6,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "effective",
+      "source_id": "READ200",
+      "page": 7,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "ineffective",
+      "source_id": "READ200",
+      "page": 7,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "ineffectual",
+      "source_id": "READ200",
+      "page": 7,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "evaluate",
+      "source_id": "READ200",
+      "page": 7,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "estimate",
+      "source_id": "READ200",
+      "page": 8,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "devalue",
+      "source_id": "READ200",
+      "page": 8,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "overvalue",
+      "source_id": "READ200",
+      "page": 8,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "federal",
+      "source_id": "READ200",
+      "page": 8,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "founder",
+      "source_id": "READ200",
+      "page": 9,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "scientific",
+      "source_id": "READ200",
+      "page": 9,
+      "frequency_as_shown": 47,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "call",
+      "source_id": "READ200",
+      "page": 9,
+      "frequency_as_shown": 46,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "power",
+      "source_id": "READ200",
+      "page": 9,
+      "frequency_as_shown": 46,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "powerful",
+      "source_id": "READ200",
+      "page": 10,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "requirement",
+      "source_id": "READ200",
+      "page": 10,
+      "frequency_as_shown": 43,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "political",
+      "source_id": "READ200",
+      "page": 10,
+      "frequency_as_shown": 43,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "politically",
+      "source_id": "READ200",
+      "page": 11,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "politics",
+      "source_id": "READ200",
+      "page": 11,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "consumer",
+      "source_id": "READ200",
+      "page": 11,
+      "frequency_as_shown": 42,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "consume",
+      "source_id": "READ200",
+      "page": 11,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "consumerism",
+      "source_id": "READ200",
+      "page": 12,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "technology",
+      "source_id": "READ200",
+      "page": 12,
+      "frequency_as_shown": 42,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "technological",
+      "source_id": "READ200",
+      "page": 12,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "technical",
+      "source_id": "READ200",
+      "page": 12,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "technique",
+      "source_id": "READ200",
+      "page": 12,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "growth",
+      "source_id": "READ200",
+      "page": 13,
+      "frequency_as_shown": 41,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "beneficiary",
+      "source_id": "READ200",
+      "page": 13,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "tend",
+      "source_id": "READ200",
+      "page": 13,
+      "frequency_as_shown": 41,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "tendency",
+      "source_id": "READ200",
+      "page": 13,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "fund",
+      "source_id": "READ200",
+      "page": 14,
+      "frequency_as_shown": 40,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "journalist",
+      "source_id": "READ200",
+      "page": 14,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "journalism",
+      "source_id": "READ200",
+      "page": 14,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "loss",
+      "source_id": "READ200",
+      "page": 14,
+      "frequency_as_shown": 26,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "intellectual",
+      "source_id": "READ200",
+      "page": 15,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "intellect",
+      "source_id": "READ200",
+      "page": 15,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "AI",
+      "source_id": "READ200",
+      "page": 15,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "intellectualism",
+      "source_id": "READ200",
+      "page": 15,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "intellectualize",
+      "source_id": "READ200",
+      "page": 16,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "likely",
+      "source_id": "READ200",
+      "page": 16,
+      "frequency_as_shown": 39,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "likewise",
+      "source_id": "READ200",
+      "page": 16,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "liken",
+      "source_id": "READ200",
+      "page": 16,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "theory",
+      "source_id": "READ200",
+      "page": 17,
+      "frequency_as_shown": 39,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "financial",
+      "source_id": "READ200",
+      "page": 17,
+      "frequency_as_shown": 38,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "financially",
+      "source_id": "READ200",
+      "page": 17,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "profession",
+      "source_id": "READ200",
+      "page": 18,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "professionalization",
+      "source_id": "READ200",
+      "page": 18,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "profess",
+      "source_id": "READ200",
+      "page": 18,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "site",
+      "source_id": "READ200",
+      "page": 18,
+      "frequency_as_shown": 37,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "publish",
+      "source_id": "READ200",
+      "page": 19,
+      "frequency_as_shown": 36,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "publication",
+      "source_id": "READ200",
+      "page": 19,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "publisher",
+      "source_id": "READ200",
+      "page": 19,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "republican",
+      "source_id": "READ200",
+      "page": 19,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "publicity",
+      "source_id": "READ200",
+      "page": 20,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "limit",
+      "source_id": "READ200",
+      "page": 20,
+      "frequency_as_shown": 35,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "argument",
+      "source_id": "READ200",
+      "page": 20,
+      "frequency_as_shown": 34,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "decade",
+      "source_id": "READ200",
+      "page": 21,
+      "frequency_as_shown": 34,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "class",
+      "source_id": "READ200",
+      "page": 21,
+      "frequency_as_shown": 34,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "classical",
+      "source_id": "READ200",
+      "page": 21,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "measure",
+      "source_id": "READ200",
+      "page": 21,
+      "frequency_as_shown": 33,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "productivity",
+      "source_id": "READ200",
+      "page": 22,
+      "frequency_as_shown": 26,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "productive",
+      "source_id": "READ200",
+      "page": 22,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "program",
+      "source_id": "READ200",
+      "page": 22,
+      "frequency_as_shown": 33,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "moral",
+      "source_id": "READ200",
+      "page": 22,
+      "frequency_as_shown": 32,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "immoral",
+      "source_id": "READ200",
+      "page": 23,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "morality",
+      "source_id": "READ200",
+      "page": 23,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "policy",
+      "source_id": "READ200",
+      "page": 23,
+      "frequency_as_shown": 32,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "policymaker",
+      "source_id": "READ200",
+      "page": 23,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "involve",
+      "source_id": "READ200",
+      "page": 24,
+      "frequency_as_shown": 31,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "legal",
+      "source_id": "READ200",
+      "page": 24,
+      "frequency_as_shown": 31,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "illegal",
+      "source_id": "READ200",
+      "page": 24,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "legally",
+      "source_id": "READ200",
+      "page": 24,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "legislation",
+      "source_id": "READ200",
+      "page": 25,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "legislative",
+      "source_id": "READ200",
+      "page": 25,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "legitimate",
+      "source_id": "READ200",
+      "page": 25,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "legitimacy",
+      "source_id": "READ200",
+      "page": 25,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "legislature",
+      "source_id": "READ200",
+      "page": 25,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "sense",
+      "source_id": "READ200",
+      "page": 26,
+      "frequency_as_shown": 31,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "sensitive",
+      "source_id": "READ200",
+      "page": 26,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "sentiment",
+      "source_id": "READ200",
+      "page": 26,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "sensible",
+      "source_id": "READ200",
+      "page": 26,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "sensational",
+      "source_id": "READ200",
+      "page": 27,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "unite",
+      "source_id": "READ200",
+      "page": 27,
+      "frequency_as_shown": 31,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "unity",
+      "source_id": "READ200",
+      "page": 27,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "decline",
+      "source_id": "READ200",
+      "page": 27,
+      "frequency_as_shown": 30,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "majority",
+      "source_id": "READ200",
+      "page": 28,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "infrastructure",
+      "source_id": "READ200",
+      "page": 28,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "structural",
+      "source_id": "READ200",
+      "page": 28,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "avoid",
+      "source_id": "READ200",
+      "page": 29,
+      "frequency_as_shown": 29,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "expectation",
+      "source_id": "READ200",
+      "page": 29,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "expectancy",
+      "source_id": "READ200",
+      "page": 29,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "firm",
+      "source_id": "READ200",
+      "page": 29,
+      "frequency_as_shown": 29,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "peer",
+      "source_id": "READ200",
+      "page": 30,
+      "frequency_as_shown": 29,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "jobseeker",
+      "source_id": "READ200",
+      "page": 30,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "quality",
+      "source_id": "READ200",
+      "page": 30,
+      "frequency_as_shown": 28,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "qualify",
+      "source_id": "READ200",
+      "page": 31,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "qualified",
+      "source_id": "READ200",
+      "page": 31,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "recent",
+      "source_id": "READ200",
+      "page": 31,
+      "frequency_as_shown": 28,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "reduce",
+      "source_id": "READ200",
+      "page": 32,
+      "frequency_as_shown": 28,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "reduction",
+      "source_id": "READ200",
+      "page": 32,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "lawyer",
+      "source_id": "READ200",
+      "page": 32,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "lawsuit",
+      "source_id": "READ200",
+      "page": 32,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "official",
+      "source_id": "READ200",
+      "page": 33,
+      "frequency_as_shown": 27,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "practice",
+      "source_id": "READ200",
+      "page": 33,
+      "frequency_as_shown": 27,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "practical",
+      "source_id": "READ200",
+      "page": 33,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "security",
+      "source_id": "READ200",
+      "page": 33,
+      "frequency_as_shown": 27,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "insecurity",
+      "source_id": "READ200",
+      "page": 34,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "focus",
+      "source_id": "READ200",
+      "page": 34,
+      "frequency_as_shown": 26,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "inflation",
+      "source_id": "READ200",
+      "page": 34,
+      "frequency_as_shown": 26,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "inflate",
+      "source_id": "READ200",
+      "page": 34,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "living",
+      "source_id": "READ200",
+      "page": 35,
+      "frequency_as_shown": 26,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "livelihood",
+      "source_id": "READ200",
+      "page": 35,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "liveliness",
+      "source_id": "READ200",
+      "page": 35,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "patent",
+      "source_id": "READ200",
+      "page": 35,
+      "frequency_as_shown": 26,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "reform",
+      "source_id": "READ200",
+      "page": 36,
+      "frequency_as_shown": 26,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "transform",
+      "source_id": "READ200",
+      "page": 36,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "formation",
+      "source_id": "READ200",
+      "page": 36,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "conformity",
+      "source_id": "READ200",
+      "page": 36,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "uniformly",
+      "source_id": "READ200",
+      "page": 37,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "baseline",
+      "source_id": "READ200",
+      "page": 37,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "billion",
+      "source_id": "READ200",
+      "page": 37,
+      "frequency_as_shown": 25,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "executive",
+      "source_id": "READ200",
+      "page": 37,
+      "frequency_as_shown": 25,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "generation",
+      "source_id": "READ200",
+      "page": 38,
+      "frequency_as_shown": 25,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "generate",
+      "source_id": "READ200",
+      "page": 38,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "cultural",
+      "source_id": "READ200",
+      "page": 38,
+      "frequency_as_shown": 24,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "define",
+      "source_id": "READ200",
+      "page": 38,
+      "frequency_as_shown": 24,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "definitely",
+      "source_id": "READ200",
+      "page": 39,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "definite",
+      "source_id": "READ200",
+      "page": 39,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "finite",
+      "source_id": "READ200",
+      "page": 39,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "earn",
+      "source_id": "READ200",
+      "page": 39,
+      "frequency_as_shown": 24,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "earner",
+      "source_id": "READ200",
+      "page": 40,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "earnings",
+      "source_id": "READ200",
+      "page": 40,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "intend",
+      "source_id": "READ200",
+      "page": 40,
+      "frequency_as_shown": 24,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "intent",
+      "source_id": "READ200",
+      "page": 40,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "accessible",
+      "source_id": "READ200",
+      "page": 41,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "accessibility",
+      "source_id": "READ200",
+      "page": 41,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "analysis",
+      "source_id": "READ200",
+      "page": 41,
+      "frequency_as_shown": 23,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "analyst",
+      "source_id": "READ200",
+      "page": 41,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "analytical",
+      "source_id": "READ200",
+      "page": 41,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "analyse",
+      "source_id": "READ200",
+      "page": 42,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "analytically",
+      "source_id": "READ200",
+      "page": 42,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "clone",
+      "source_id": "READ200",
+      "page": 42,
+      "frequency_as_shown": 23,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "generally",
+      "source_id": "READ200",
+      "page": 42,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "generous",
+      "source_id": "READ200",
+      "page": 42,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "impact",
+      "source_id": "READ200",
+      "page": 43,
+      "frequency_as_shown": 23,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "investment",
+      "source_id": "READ200",
+      "page": 43,
+      "frequency_as_shown": 23,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "investor",
+      "source_id": "READ200",
+      "page": 43,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "potential",
+      "source_id": "READ200",
+      "page": 44,
+      "frequency_as_shown": 23,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "species",
+      "source_id": "READ200",
+      "page": 44,
+      "frequency_as_shown": 23,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "union",
+      "source_id": "READ200",
+      "page": 44,
+      "frequency_as_shown": 23,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "unionist",
+      "source_id": "READ200",
+      "page": 44,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "ambitious",
+      "source_id": "READ200",
+      "page": 45,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "availability",
+      "source_id": "READ200",
+      "page": 45,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "experiment",
+      "source_id": "READ200",
+      "page": 45,
+      "frequency_as_shown": 22,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "fallout",
+      "source_id": "READ200",
+      "page": 45,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "source",
+      "source_id": "READ200",
+      "page": 46,
+      "frequency_as_shown": 22,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "thus",
+      "source_id": "READ200",
+      "page": 46,
+      "frequency_as_shown": 22,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "concept",
+      "source_id": "READ200",
+      "page": 46,
+      "frequency_as_shown": 21,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "conception",
+      "source_id": "READ200",
+      "page": 46,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "misconception",
+      "source_id": "READ200",
+      "page": 46,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "identifiable",
+      "source_id": "READ200",
+      "page": 47,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "identity",
+      "source_id": "READ200",
+      "page": 47,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "identical",
+      "source_id": "READ200",
+      "page": 47,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "revelation",
+      "source_id": "READ200",
+      "page": 47,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "statute",
+      "source_id": "READ200",
+      "page": 47,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "status quo",
+      "source_id": "READ200",
+      "page": 48,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "asset",
+      "source_id": "READ200",
+      "page": 48,
+      "frequency_as_shown": 20,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "setter",
+      "source_id": "READ200",
+      "page": 48,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "choose",
+      "source_id": "READ200",
+      "page": 48,
+      "frequency_as_shown": 20,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "emerge",
+      "source_id": "READ200",
+      "page": 48,
+      "frequency_as_shown": 20,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "emerging",
+      "source_id": "READ200",
+      "page": 49,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "merger",
+      "source_id": "READ200",
+      "page": 49,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "emergence",
+      "source_id": "READ200",
+      "page": 49,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "merge",
+      "source_id": "READ200",
+      "page": 49,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "expressive",
+      "source_id": "READ200",
+      "page": 50,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "happiness",
+      "source_id": "READ200",
+      "page": 50,
+      "frequency_as_shown": 20,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "income",
+      "source_id": "READ200",
+      "page": 50,
+      "frequency_as_shown": 20,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "criticism",
+      "source_id": "READ200",
+      "page": 50,
+      "frequency_as_shown": 19,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "critic",
+      "source_id": "READ200",
+      "page": 51,
+      "frequency_as_shown": 18,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "hypocritical",
+      "source_id": "READ200",
+      "page": 51,
+      "frequency_as_shown": null,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    },
+    {
+      "word": "digital",
+      "source_id": "READ200",
+      "page": 51,
+      "frequency_as_shown": 19,
+      "status": "heading_transcribed_needs_crosscheck",
+      "first_pass": null,
+      "second_pass": null
+    }
+  ],
+  "distinct_word_count": 202,
+  "page_count": 51
+}
