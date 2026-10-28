@@ -1,0 +1,491 @@
+{
+  "schema_version": 1,
+  "date_created": "2026-10-28",
+  "exam_date": "2026-12-19",
+  "goal_score": 230,
+  "score_baseline": {
+    "value": null,
+    "status": "待限时验证",
+    "source": "用户自估205分；不能当成正式模考成绩"
+  },
+  "score_components_target": {
+    "math": 60,
+    "logic": 50,
+    "writing": 50,
+    "english2": 70,
+    "total": 230
+  },
+  "source_of_truth": {
+    "attempts": "data/attempts/YYYY-MM.json",
+    "state": "data/state.json",
+    "plan": "data/study-plan-2026-10-28.md",
+    "curriculum_audit": "course-materials/index/2026-10-28-course-content-audit.md"
+  },
+  "checkpoints": [
+    {
+      "date": "2026-11-03",
+      "target_total_score": null,
+      "required": "完整199+204限时基线; 2篇来源明确的英语阅读; 1篇199限时论效",
+      "confirmed_total_score": null,
+      "completion_status": "未到期",
+      "last_checked": "2026-10-28",
+      "evidence_ids": []
+    },
+    {
+      "date": "2026-11-10",
+      "target_total_score": 209,
+      "required": "数学11/20逻辑9/15首次真题验证; ≥5篇真题长阅读; 两类199作文完整篇",
+      "confirmed_total_score": null,
+      "completion_status": "未到期",
+      "last_checked": "2026-10-28",
+      "evidence_ids": []
+    },
+    {
+      "date": "2026-11-17",
+      "target_total_score": 215,
+      "required": "数学16/20逻辑13/15; ≥10篇真题阅读; 完形新题型翻译英语作文首测",
+      "confirmed_total_score": null,
+      "completion_status": "未到期",
+      "last_checked": "2026-10-28",
+      "evidence_ids": []
+    },
+    {
+      "date": "2026-11-24",
+      "target_total_score": 220,
+      "required": "数学20/20逻辑15/15首轮验证; 199/204主要题型覆盖",
+      "confirmed_total_score": null,
+      "completion_status": "未到期",
+      "last_checked": "2026-10-28",
+      "evidence_ids": []
+    },
+    {
+      "date": "2026-12-01",
+      "target_total_score": 225,
+      "required": "高频模块二轮与整套限时训练",
+      "confirmed_total_score": null,
+      "completion_status": "未到期",
+      "last_checked": "2026-10-28",
+      "evidence_ids": []
+    },
+    {
+      "date": "2026-12-08",
+      "target_total_score": 230,
+      "required": "近期两份不同未见试卷均分≥230",
+      "confirmed_total_score": null,
+      "completion_status": "未到期",
+      "last_checked": "2026-10-28",
+      "evidence_ids": []
+    },
+    {
+      "date": "2026-12-14",
+      "target_total_score": 233,
+      "required": "近期两份不同未见试卷均分≥232~235",
+      "confirmed_total_score": null,
+      "completion_status": "未到期",
+      "last_checked": "2026-10-28",
+      "evidence_ids": []
+    }
+  ],
+  "modules": [
+    {
+      "id": "M01",
+      "subject": "199数学",
+      "name": "比例百分数与浓度",
+      "level": "未核验",
+      "first_verified_date": null,
+      "last_review_date": null,
+      "evidence_attempt_ids": [],
+      "status_note": null
+    },
+    {
+      "id": "M02",
+      "subject": "199数学",
+      "name": "平均/行程速度",
+      "level": "未核验",
+      "first_verified_date": null,
+      "last_review_date": null,
+      "evidence_attempt_ids": [],
+      "status_note": null
+    },
+    {
+      "id": "M03",
+      "subject": "199数学",
+      "name": "工程效率",
+      "level": "A",
+      "first_verified_date": null,
+      "last_review_date": null,
+      "evidence_attempt_ids": [
+        "20261028-M-WORKRATE-01"
+      ],
+      "status_note": "已接触并留有练习证据；仍未用严谨限时未见真题验收"
+    },
+    {
+      "id": "M04",
+      "subject": "199数学",
+      "name": "利润折扣和增长",
+      "level": "A",
+      "first_verified_date": null,
+      "last_review_date": null,
+      "evidence_attempt_ids": [
+        "20261028-M002-R02"
+      ],
+      "status_note": "已接触并留有练习证据；仍未用严谨限时未见真题验收"
+    },
+    {
+      "id": "M05",
+      "subject": "199数学",
+      "name": "数据统计与均值",
+      "level": "未核验",
+      "first_verified_date": null,
+      "last_review_date": null,
+      "evidence_attempt_ids": [],
+      "status_note": null
+    },
+    {
+      "id": "M06",
+      "subject": "199数学",
+      "name": "数论整除余数",
+      "level": "未核验",
+      "first_verified_date": null,
+      "last_review_date": null,
+      "evidence_attempt_ids": [],
+      "status_note": null
+    },
+    {
+      "id": "M07",
+      "subject": "199数学",
+      "name": "整式因式分解",
+      "level": "未核验",
+      "first_verified_date": null,
+      "last_review_date": null,
+      "evidence_attempt_ids": [],
+      "status_note": null
+    },
+    {
+      "id": "M08",
+      "subject": "199数学",
+      "name": "方程与方程组",
+      "level": "未核验",
+      "first_verified_date": null,
+      "last_review_date": null,
+      "evidence_attempt_ids": [],
+      "status_note": null
+    },
+    {
+      "id": "M09",
+      "subject": "199数学",
+      "name": "分式与函数",
+      "level": "未核验",
+      "first_verified_date": null,
+      "last_review_date": null,
+      "evidence_attempt_ids": [],
+      "status_note": null
+    },
+    {
+      "id": "M10",
+      "subject": "199数学",
+      "name": "不等式和绝对值",
+      "level": "未核验",
+      "first_verified_date": null,
+      "last_review_date": null,
+      "evidence_attempt_ids": [],
+      "status_note": null
+    },
+    {
+      "id": "M11",
+      "subject": "199数学",
+      "name": "等差等比数列",
+      "level": "A",
+      "first_verified_date": null,
+      "last_review_date": null,
+      "evidence_attempt_ids": [
+        "20261028-M-SEQ01"
+      ],
+      "status_note": "已接触并留有练习证据；仍未用严谨限时未见真题验收"
+    },
+    {
+      "id": "M12",
+      "subject": "199数学",
+      "name": "平面三角形",
+      "level": "未核验",
+      "first_verified_date": null,
+      "last_review_date": null,
+      "evidence_attempt_ids": [],
+      "status_note": null
+    },
+    {
+      "id": "M13",
+      "subject": "199数学",
+      "name": "多边形与面积",
+      "level": "未核验",
+      "first_verified_date": null,
+      "last_review_date": null,
+      "evidence_attempt_ids": [],
+      "status_note": null
+    },
+    {
+      "id": "M14",
+      "subject": "199数学",
+      "name": "圆与扇形",
+      "level": "未核验",
+      "first_verified_date": null,
+      "last_review_date": null,
+      "evidence_attempt_ids": [],
+      "status_note": null
+    },
+    {
+      "id": "M15",
+      "subject": "199数学",
+      "name": "解析几何与坐标",
+      "level": "未核验",
+      "first_verified_date": null,
+      "last_review_date": null,
+      "evidence_attempt_ids": [],
+      "status_note": null
+    },
+    {
+      "id": "M16",
+      "subject": "199数学",
+      "name": "立体几何",
+      "level": "未核验",
+      "first_verified_date": null,
+      "last_review_date": null,
+      "evidence_attempt_ids": [],
+      "status_note": null
+    },
+    {
+      "id": "M17",
+      "subject": "199数学",
+      "name": "基本计数原理",
+      "level": "未核验",
+      "first_verified_date": null,
+      "last_review_date": null,
+      "evidence_attempt_ids": [],
+      "status_note": null
+    },
+    {
+      "id": "M18",
+      "subject": "199数学",
+      "name": "排列组合",
+      "level": "未核验",
+      "first_verified_date": null,
+      "last_review_date": null,
+      "evidence_attempt_ids": [],
+      "status_note": null
+    },
+    {
+      "id": "M19",
+      "subject": "199数学",
+      "name": "概率",
+      "level": "A",
+      "first_verified_date": null,
+      "last_review_date": null,
+      "evidence_attempt_ids": [
+        "20261028-M-PROB01",
+        "20261028-M-PROB02"
+      ],
+      "status_note": "已接触并留有练习证据；仍未用严谨限时未见真题验收"
+    },
+    {
+      "id": "M20",
+      "subject": "199数学",
+      "name": "条件充分性判断",
+      "level": "A",
+      "first_verified_date": null,
+      "last_review_date": null,
+      "evidence_attempt_ids": [
+        "20261028-M-COND-01"
+      ],
+      "status_note": "已接触并留有练习证据；仍未用严谨限时未见真题验收"
+    },
+    {
+      "id": "L01",
+      "subject": "199逻辑",
+      "name": "联言选言命题",
+      "level": "A",
+      "first_verified_date": null,
+      "last_review_date": null,
+      "evidence_attempt_ids": [
+        "20261028-L-OR01"
+      ],
+      "status_note": "已接触并留有练习证据；仍未用严谨限时未见真题验收"
+    },
+    {
+      "id": "L02",
+      "subject": "199逻辑",
+      "name": "假言与充分必要",
+      "level": "A",
+      "first_verified_date": null,
+      "last_review_date": null,
+      "evidence_attempt_ids": [
+        "20261028-L001-R01"
+      ],
+      "status_note": "已接触并留有练习证据；仍未用严谨限时未见真题验收"
+    },
+    {
+      "id": "L03",
+      "subject": "199逻辑",
+      "name": "逆否与等价变形",
+      "level": "未核验",
+      "first_verified_date": null,
+      "last_review_date": null,
+      "evidence_attempt_ids": [],
+      "status_note": null
+    },
+    {
+      "id": "L04",
+      "subject": "199逻辑",
+      "name": "直言与量词",
+      "level": "A",
+      "first_verified_date": null,
+      "last_review_date": null,
+      "evidence_attempt_ids": [
+        "20261026-L001-01"
+      ],
+      "status_note": "已接触并留有练习证据；仍未用严谨限时未见真题验收"
+    },
+    {
+      "id": "L05",
+      "subject": "199逻辑",
+      "name": "三段论",
+      "level": "未核验",
+      "first_verified_date": null,
+      "last_review_date": null,
+      "evidence_attempt_ids": [],
+      "status_note": null
+    },
+    {
+      "id": "L06",
+      "subject": "199逻辑",
+      "name": "真假话与模态",
+      "level": "未核验",
+      "first_verified_date": null,
+      "last_review_date": null,
+      "evidence_attempt_ids": [],
+      "status_note": null
+    },
+    {
+      "id": "L07",
+      "subject": "199逻辑",
+      "name": "假设法与二难",
+      "level": "未核验",
+      "first_verified_date": null,
+      "last_review_date": null,
+      "evidence_attempt_ids": [],
+      "status_note": null
+    },
+    {
+      "id": "L08",
+      "subject": "199逻辑",
+      "name": "分组及数量约束",
+      "level": "未核验",
+      "first_verified_date": null,
+      "last_review_date": null,
+      "evidence_attempt_ids": [],
+      "status_note": null
+    },
+    {
+      "id": "L09",
+      "subject": "199逻辑",
+      "name": "二维多维匹配",
+      "level": "未核验",
+      "first_verified_date": null,
+      "last_review_date": null,
+      "evidence_attempt_ids": [],
+      "status_note": null
+    },
+    {
+      "id": "L10",
+      "subject": "199逻辑",
+      "name": "线性排序",
+      "level": "A",
+      "first_verified_date": null,
+      "last_review_date": null,
+      "evidence_attempt_ids": [
+        "20261028-L-ORDER-01"
+      ],
+      "status_note": "已接触并留有练习证据；仍未用严谨限时未见真题验收"
+    },
+    {
+      "id": "L11",
+      "subject": "199逻辑",
+      "name": "论据论点识别",
+      "level": "未核验",
+      "first_verified_date": null,
+      "last_review_date": null,
+      "evidence_attempt_ids": [],
+      "status_note": null
+    },
+    {
+      "id": "L12",
+      "subject": "199逻辑",
+      "name": "必要假设与搭桥",
+      "level": "A",
+      "first_verified_date": null,
+      "last_review_date": null,
+      "evidence_attempt_ids": [
+        "20261028-L-ASSUMPTION01"
+      ],
+      "status_note": "已接触并留有练习证据；仍未用严谨限时未见真题验收"
+    },
+    {
+      "id": "L13",
+      "subject": "199逻辑",
+      "name": "支持削弱与因果",
+      "level": "A",
+      "first_verified_date": null,
+      "last_review_date": null,
+      "evidence_attempt_ids": [
+        "20261028-L002-R01"
+      ],
+      "status_note": "已接触并留有练习证据；仍未用严谨限时未见真题验收"
+    },
+    {
+      "id": "L14",
+      "subject": "199逻辑",
+      "name": "评价解释和论证漏洞",
+      "level": "A",
+      "first_verified_date": null,
+      "last_review_date": null,
+      "evidence_attempt_ids": [
+        "20261028-W002-01"
+      ],
+      "status_note": "已接触并留有练习证据；仍未用严谨限时未见真题验收"
+    },
+    {
+      "id": "L15",
+      "subject": "199逻辑",
+      "name": "数量统计与类比论证",
+      "level": "未核验",
+      "first_verified_date": null,
+      "last_review_date": null,
+      "evidence_attempt_ids": [],
+      "status_note": null
+    }
+  ],
+  "current_summary": {
+    "as_of": "2026-10-28",
+    "math_total": 20,
+    "logic_total": 15,
+    "level_B_modules": 0,
+    "level_C_modules": 0,
+    "objective_completed_today": 16,
+    "objective_base_target_today": 16,
+    "objective_bonus_target_today": 16,
+    "objective_bonus_completed_today": 0,
+    "verified_full_mocks": 0,
+    "writing_completed_today": 1,
+    "warning": "尚无199+204严格限时基线；不能据基础题高正确率确认230目标实现概率",
+    "reading_audit_status": "仅部分逻辑课程正文已经逐篇阅读，883篇全库尚未审完；数学英语写作目录不是课程正文"
+  },
+  "status_rules": {
+    "late_module_count_trigger": 2,
+    "consecutive_under_two_topics_days": 2,
+    "spaced_review_accuracy_min": 0.7,
+    "score_lag_warning_points": 5,
+    "score_lag_high_risk_points": 10,
+    "remedial_days": 3,
+    "remedial_daily_extra_minutes": "30～45",
+    "remedial_daily_extra_questions": "6～10道高价值真题/同构题"
+  }
+}
