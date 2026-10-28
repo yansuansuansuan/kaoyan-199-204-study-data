@@ -123,7 +123,18 @@
     "updates": "每天按仓库AGENTS.md和state.json最新SHA合并写入月度attempts，写后回读；跨对话不得覆盖其他学科练习",
     "note": "这是对先前5500词单轮筛查计划的优先级调整：先确保三份高频材料两轮有效回忆，5500全表扩展仅作为时间允许时的后续目标。不能将5500单轮与三份材料两轮同时机械堆量。",
     "daily_schedule": "data/vocabulary_schedule_2026.json",
-    "pre_import_check": "HF2000日程已按2000个编号分配，但目前仅有少量词目在GitHub索引，待补录原件后方可按全部编号自动出题。"
+    "pre_import_check": "HF2000日程已按2000个编号分配，但目前仅有少量词目在GitHub索引，待补录原件后方可按全部编号自动出题。",
+    "daily_dashboard": "data/vocabulary_daily_dashboard.json",
+    "daily_progress_readable": "data/vocabulary_daily_progress.md",
+    "today_warmup": {
+      "date": "2026-10-28",
+      "first_pass_target": 50,
+      "review_due_start": 5,
+      "actual_first_pass_effective": 29,
+      "actual_reviews_completed": 5,
+      "first_pass_remaining": 21
+    },
+    "daily_progress_rule": "每日新词与到期复习分别计目标、实际、剩余；第一轮真实有效一次无提示回忆，第二轮隔日以上再测；每个短单元更新看板并回读核验"
   },
   "priority_override": "source_two_pass"
 }
