@@ -547,6 +547,78 @@
       "linked_vocabulary_id": null,
       "linked_vocabulary_word": "address",
       "evaluation_category": "partial"
+    },
+    {
+      "attempt_id": "20261028-M-WORKRATE-01",
+      "exercise_id": "M003",
+      "date": "2026-10-28",
+      "subject": "199数学",
+      "kind": "new_topic_diagnostic",
+      "source": "AI原创题（非真题）",
+      "topic": "工程问题·工作效率及剩余工程量",
+      "question": "甲单独完成一项工程需要12天，乙单独完成需要18天。两人先合作3天，剩下的工程由甲独自完成。问：甲还需要多少天才能完成全部工程？",
+      "options": {
+        "A": "5天",
+        "B": "6天",
+        "C": "7天",
+        "D": "8天",
+        "E": "9天"
+      },
+      "submitted_answer": "C",
+      "answer_kind": "selected_option",
+      "correct_answer": "C",
+      "correctness": true,
+      "scoring_status": "valid",
+      "duration_band": "1～2分钟",
+      "duration_seconds": null,
+      "reasoning": "甲一天做十二分之一，乙每天做十八分之一，那么就是一起做三天就是十二分之三+十八分之三，就是十二分之五，还差 12/7 就是 7 天",
+      "teacher_feedback": "正确。合作3天完成3/12+3/18=5/12，剩余7/12；甲单做7天。原始文字中‘还差12/7’把分子分母写反，正确应为7/12，但答案和主体推理均正确。",
+      "review_outcome": "基础工程问题首次独立做对，后续检测进阶题迁移能力",
+      "linked_error_id": null
+    },
+    {
+      "attempt_id": "20261028-E-MUSEUMREAD-01",
+      "exercise_id": "E002",
+      "date": "2026-10-28",
+      "subject": "204英语（二）",
+      "kind": "reading_diagnostic",
+      "source": "AI原创英语二阅读同型题（非真题）",
+      "topic": "阅读·主旨观点和细节理解、词义推断、长句结构",
+      "question": "Many museums have made their collections available online. This allows people around the world to examine historical documents without visiting a museum in person.\n\nHowever, a digital image does not always tell the whole story. The thickness of the paper, handwritten notes added later, or even the order in which documents were stored may influence how historians interpret them.\n\nIn addition, some online descriptions were written decades ago and may reflect assumptions that researchers no longer accept. Digital collections are therefore valuable starting points, but important conclusions should be checked against other evidence.\n\nWhich of the following best expresses the author's view?",
+      "options": {
+        "A": "Digital collections have made physical museums unnecessary.",
+        "B": "Historical documents should never be studied online.",
+        "C": "Digital archives are useful, but they require careful interpretation.",
+        "D": "Older museum descriptions are generally more reliable than recent ones."
+      },
+      "submitted_answer": "C",
+      "answer_kind": "selected_option",
+      "correct_answer": "C",
+      "correctness": true,
+      "scoring_status": "valid",
+      "duration_band": "2～3分钟",
+      "duration_seconds": null,
+      "reasoning": "很多博物馆让他们的展品都可供线上观看了，全世界的人都可以不用亲自来到博物馆就能 examline（这个词不知道我觉得应该是查阅的意思）历史档案。但是电子图片并不能告诉你所有的故事（展示所有内容），纸张的厚薄，后面添加的手写笔记，或者甚至 theorderin 文件的存放都会误导历史学家如何解读（猜测 interpret） 他们。还有，有些线上的解读是十几年前写的，可能反应的猜测并非现在的研究院接受的。电子收藏品当然有有价值的出发点，但是结论还需要其他证据来验证（看啦好几遍才看懂这句话），你最好后面每天的计划给我标？/？，让我知道我今天的做完没。",
+      "teacher_feedback": "选C正确，能抓住末句限定：数字档案是有用起点，但应与其他证据交叉核验。examine=仔细查看/研究；interpret=解读；the order in which documents were stored=文件存放顺序；influence=影响（不一定误导）；decades ago=数十年前；checked against other evidence=与其他证据对照核实。对长句需多次回读。",
+      "review_outcome": "文章主旨正确，需加强词汇与定语从句结构及速度；暂不误判为词汇全部掌握",
+      "linked_error_id": null,
+      "vocab_noted": [
+        {
+          "word": "examine",
+          "response": "猜测‘查阅’",
+          "status": "meaning_guessed_plausible"
+        },
+        {
+          "word": "interpret",
+          "response": "猜测‘解读’",
+          "status": "meaning_guessed_plausible"
+        },
+        {
+          "word": "the order in which",
+          "response": "theorderin 文件的存放",
+          "status": "structure_partial"
+        }
+      ]
     }
   ]
 }
