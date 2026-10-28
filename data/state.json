@@ -1389,8 +1389,23 @@
         "reasoning_required": true,
         "duration_control": "selection"
       },
-      "note": "教学计划，非已完成学习日志；用户反馈前两天过度集中利润率/削弱，后续每天跨科目覆盖"
-    }
+      "note": "教学计划，非已完成学习日志；用户反馈前两天过度集中利润率/削弱，后续每天跨科目覆盖",
+      "roadmap_path": "data/study-plan-2026-10-28.md",
+      "roadmap_status": "52-day source-verified exam-prep curriculum, daily >=2 learning topics; reading full passages and authentic source-linked questions",
+      "objective_question_target_workday": "16–20 authentic-difficulty questions, writing days reduced proportionally",
+      "objective_question_target_free_day": "20–28 questions across sections, 1 complete sourced reading",
+      "question_source_policy": "T1 verified past-exam; T2 verified past-exam structural adaptation; T3 authentic sourced article-based; T4 original short remedial only. Prioritize T1/T2/T3; label every question with source.",
+      "comprehension_policy": "correct option, complete proof, source difficulty, tool assistance and timed independence evaluated separately; no automatic mastery from a correct option",
+      "todays_extra_session": {
+        "date": "2026-10-28",
+        "extra_objective_target": 16,
+        "extra_objective_completed": 0,
+        "total_daily_baseline_completed": 16,
+        "completion_status": "planned_not_completed",
+        "note": "Only count actual completed new attempts after their GitHub archive is verified."
+      }
+    },
+    "course_coverage_note": "2026-10-28 refreshed: GitHub has full course catalogs for math, logic, writing, English; currently 883 logic TXT transcripts but no full 199-math/199-writing/204-english transcript folders. Titles indicate availability, not actual read content; cross-check via web or confirm transcripts before attributing teaching methods."
   },
   "exercise_history": {
     "storage": "按月份独立归档；state.json存索引与复习状态，题目、答案和思路详见归档文件。",
