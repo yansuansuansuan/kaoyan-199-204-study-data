@@ -1,0 +1,333 @@
+{
+  "version": 1,
+  "created_at": "2026-10-28",
+  "source_registry": "data/vocabulary_sources.json",
+  "note": "来自用户材料的人工目视起始索引，并非完整词表。HF2000目前仅核录第一页第一栏的编号1-54；EXAM27目前仅核录第一页的首批出现次数分组。此处的频次为资料标注，未独立核对。",
+  "sources": [
+    {
+      "source_id": "HF2000",
+      "status": "partial_seed_only",
+      "expected_pdf_entries": 2000,
+      "indexed_entries": 54,
+      "entries": [
+        {
+          "rank": 1,
+          "word": "maintain",
+          "source_page": 1
+        },
+        {
+          "rank": 2,
+          "word": "derive",
+          "source_page": 1
+        },
+        {
+          "rank": 3,
+          "word": "default",
+          "source_page": 1
+        },
+        {
+          "rank": 4,
+          "word": "confidence",
+          "source_page": 1
+        },
+        {
+          "rank": 5,
+          "word": "estate",
+          "source_page": 1
+        },
+        {
+          "rank": 6,
+          "word": "intimate",
+          "source_page": 1
+        },
+        {
+          "rank": 7,
+          "word": "dilemma",
+          "source_page": 1
+        },
+        {
+          "rank": 8,
+          "word": "dip",
+          "source_page": 1
+        },
+        {
+          "rank": 9,
+          "word": "educate",
+          "source_page": 1
+        },
+        {
+          "rank": 10,
+          "word": "editorial",
+          "source_page": 1
+        },
+        {
+          "rank": 11,
+          "word": "hawk",
+          "source_page": 1
+        },
+        {
+          "rank": 12,
+          "word": "feature",
+          "source_page": 1
+        },
+        {
+          "rank": 13,
+          "word": "inner",
+          "source_page": 1
+        },
+        {
+          "rank": 14,
+          "word": "sustain",
+          "source_page": 1
+        },
+        {
+          "rank": 15,
+          "word": "engagement",
+          "source_page": 1
+        },
+        {
+          "rank": 16,
+          "word": "differentiate",
+          "source_page": 1
+        },
+        {
+          "rank": 17,
+          "word": "leak",
+          "source_page": 1
+        },
+        {
+          "rank": 18,
+          "word": "rate",
+          "source_page": 1
+        },
+        {
+          "rank": 19,
+          "word": "verify",
+          "source_page": 1
+        },
+        {
+          "rank": 20,
+          "word": "artificial",
+          "source_page": 1
+        },
+        {
+          "rank": 21,
+          "word": "bachelor",
+          "source_page": 1
+        },
+        {
+          "rank": 22,
+          "word": "frank",
+          "source_page": 1
+        },
+        {
+          "rank": 23,
+          "word": "account",
+          "source_page": 1
+        },
+        {
+          "rank": 24,
+          "word": "tide",
+          "source_page": 1
+        },
+        {
+          "rank": 25,
+          "word": "respond",
+          "source_page": 1
+        },
+        {
+          "rank": 26,
+          "word": "rescue",
+          "source_page": 1
+        },
+        {
+          "rank": 27,
+          "word": "formulate",
+          "source_page": 1
+        },
+        {
+          "rank": 28,
+          "word": "guy",
+          "source_page": 1
+        },
+        {
+          "rank": 29,
+          "word": "claim",
+          "source_page": 1
+        },
+        {
+          "rank": 30,
+          "word": "community",
+          "source_page": 1
+        },
+        {
+          "rank": 31,
+          "word": "disguise",
+          "source_page": 1
+        },
+        {
+          "rank": 32,
+          "word": "publish",
+          "source_page": 1
+        },
+        {
+          "rank": 33,
+          "word": "verge",
+          "source_page": 1
+        },
+        {
+          "rank": 34,
+          "word": "exclusive",
+          "source_page": 1
+        },
+        {
+          "rank": 35,
+          "word": "distress",
+          "source_page": 1
+        },
+        {
+          "rank": 36,
+          "word": "comparative",
+          "source_page": 1
+        },
+        {
+          "rank": 37,
+          "word": "speculate",
+          "source_page": 1
+        },
+        {
+          "rank": 38,
+          "word": "carbohydrate",
+          "source_page": 1
+        },
+        {
+          "rank": 39,
+          "word": "prolong",
+          "source_page": 1
+        },
+        {
+          "rank": 40,
+          "word": "unfold",
+          "source_page": 1
+        },
+        {
+          "rank": 41,
+          "word": "attach",
+          "source_page": 1
+        },
+        {
+          "rank": 42,
+          "word": "occupation",
+          "source_page": 1
+        },
+        {
+          "rank": 43,
+          "word": "reality",
+          "source_page": 1
+        },
+        {
+          "rank": 44,
+          "word": "appeal",
+          "source_page": 1
+        },
+        {
+          "rank": 45,
+          "word": "premier",
+          "source_page": 1
+        },
+        {
+          "rank": 46,
+          "word": "assignment",
+          "source_page": 1
+        },
+        {
+          "rank": 47,
+          "word": "flash",
+          "source_page": 1
+        },
+        {
+          "rank": 48,
+          "word": "stab",
+          "source_page": 1
+        },
+        {
+          "rank": 49,
+          "word": "trail",
+          "source_page": 1
+        },
+        {
+          "rank": 50,
+          "word": "rare",
+          "source_page": 1
+        },
+        {
+          "rank": 51,
+          "word": "product",
+          "source_page": 1
+        },
+        {
+          "rank": 52,
+          "word": "bargain",
+          "source_page": 1
+        },
+        {
+          "rank": 53,
+          "word": "division",
+          "source_page": 1
+        },
+        {
+          "rank": 54,
+          "word": "harness",
+          "source_page": 1
+        }
+      ]
+    },
+    {
+      "source_id": "EXAM27",
+      "status": "partial_seed_only",
+      "indexed_entries": 8,
+      "entries": [
+        {
+          "word": "process",
+          "appearance_count_as_shown": 33,
+          "source_page": 1
+        },
+        {
+          "word": "growth",
+          "appearance_count_as_shown": 26,
+          "source_page": 1
+        },
+        {
+          "word": "technology",
+          "appearance_count_as_shown": 26,
+          "source_page": 1
+        },
+        {
+          "word": "account",
+          "appearance_count_as_shown": 21,
+          "source_page": 1
+        },
+        {
+          "word": "individual",
+          "appearance_count_as_shown": 20,
+          "source_page": 1
+        },
+        {
+          "word": "product",
+          "appearance_count_as_shown": 19,
+          "source_page": 1
+        },
+        {
+          "word": "rate",
+          "appearance_count_as_shown": 17,
+          "source_page": 1
+        },
+        {
+          "word": "decline",
+          "appearance_count_as_shown": 16,
+          "source_page": 1
+        }
+      ]
+    }
+  ]
+}
