@@ -670,10 +670,12 @@
   "warmup_day": {
     "date": "2026-10-28",
     "high_frequency_target": 50,
-    "effective_first_pass_completed": 29,
-    "remaining": 21,
+    "effective_first_pass_completed": 49,
+    "remaining": 1,
+    "optional_stretch_target": 70,
+    "optional_stretch_remaining": 21,
     "completed_due_reviews": 5,
     "due_reviews_remaining": 0,
-    "source": "READ200前30词（1个ASR作废）"
+    "source": "READ200已提交50词，49有效，loss语音转写待核实"
   }
 }
