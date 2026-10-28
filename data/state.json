@@ -311,6 +311,38 @@
       "latest_review_result": "首次测试：partial",
       "review_history": [],
       "notes": "20261028-V-BATCH01-08"
+    },
+    {
+      "id": "V010",
+      "word": "examine",
+      "meaning": "查阅；研究；仔细检查",
+      "context": "examine historical documents",
+      "first_seen_date": "2026-10-28",
+      "first_attempt": "examline（这个词不知道我觉得应该是查阅的意思）",
+      "mastery_status": "语境猜测正确·待独立验证",
+      "review_stage": 1,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "阅读中猜测词义，未独立测试",
+      "notes": "来自20261028-E-MUSEUMREAD-01，拼写和词义待复测",
+      "review_history": []
+    },
+    {
+      "id": "V011",
+      "word": "interpret",
+      "meaning": "解释；解读",
+      "context": "how historians interpret them",
+      "first_seen_date": "2026-10-28",
+      "first_attempt": "猜测 interpret 是解读",
+      "mastery_status": "语境猜测正确·待独立验证",
+      "review_stage": 1,
+      "last_test_date": "2026-10-28",
+      "next_review_date": "2026-10-29",
+      "review_count": 0,
+      "latest_review_result": "阅读中猜测词义，未独立测试",
+      "notes": "来自20261028-E-MUSEUMREAD-01，拼写和词义待复测",
+      "review_history": []
     }
   ],
   "study_sessions": [
