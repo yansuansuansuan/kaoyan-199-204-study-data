@@ -170,8 +170,8 @@
       "first_pass": {
         "date": "2026-10-28",
         "attempt_id": "20261028-V-READ200-B01-06",
-        "result": "wrong",
-        "correctness": false,
+        "result": "transcription_void",
+        "correctness": null,
         "score_kind": "basic_word_meaning"
       },
       "second_pass": null
@@ -185,8 +185,8 @@
       "first_pass": {
         "date": "2026-10-28",
         "attempt_id": "20261028-V-READ200-B01-07",
-        "result": "partial",
-        "correctness": null,
+        "result": "correct_basic",
+        "correctness": true,
         "score_kind": "basic_word_meaning"
       },
       "second_pass": null
@@ -1887,9 +1887,10 @@
   "distinct_word_count": 202,
   "page_count": 51,
   "index_progress": {
-    "first_pass_tested": 10,
+    "first_pass_tested": 9,
     "second_pass_tested": 0,
     "source_entries_provisional": 202,
-    "verified_full_extraction": false
+    "verified_full_extraction": false,
+    "void_count": 1
   }
 }
