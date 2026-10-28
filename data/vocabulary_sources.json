@@ -3,7 +3,7 @@
   "registered_at": "2026-10-28",
   "timezone": "Asia/Shanghai",
   "intended_repository": "yansuansuansuan/kaoyan-199-204-study-data",
-  "ingestion_status": "metadata_registered_original_pdfs_not_uploaded",
+  "ingestion_status": "metadata_and_partial_indices_uploaded_original_pdfs_not_uploaded",
   "note": "三份PDF由用户在本次ChatGPT对话上传。GitHub文件列表暂未包含PDF原件；不要把来源登记误报为上传成功。PDF大多是扫描影像，尚未完成逐词OCR+人工核验。",
   "files": [
     {
@@ -17,7 +17,13 @@
       "priority_role": "主干词表：两轮均需筛查",
       "pdf_uploaded_to_github": false,
       "word_entries_imported": false,
-      "ranking_caveat": "编号顺序不可自动当作真题词频排序"
+      "ranking_caveat": "编号顺序不可自动当作真题词频排序",
+      "partial_index_files": [
+        {
+          "path": "data/wordlists/other_source_seeds.json",
+          "coverage": "仅第一页第1-54词，非全量"
+        }
+      ]
     },
     {
       "source_id": "EXAM27",
@@ -30,7 +36,13 @@
       "priority_role": "按资料分组频次优先；与主干去重后补充",
       "pdf_uploaded_to_github": false,
       "word_entries_imported": false,
-      "ranking_caveat": "频次为用户材料标注，尚未独立核对"
+      "ranking_caveat": "频次为用户材料标注，尚未独立核对",
+      "partial_index_files": [
+        {
+          "path": "data/wordlists/other_source_seeds.json",
+          "coverage": "仅首批8个高出现次数词，非全量"
+        }
+      ]
     },
     {
       "source_id": "READ200",
@@ -43,7 +55,13 @@
       "priority_role": "最高优先：两轮学习并复测语境义",
       "pdf_uploaded_to_github": false,
       "word_entries_imported": false,
-      "ranking_caveat": "材料中的词频与例句暂未逐项核验"
+      "ranking_caveat": "材料中的词频与例句暂未逐项核验",
+      "partial_index_files": [
+        {
+          "path": "data/wordlists/reading200_page_index.json",
+          "coverage": "51页共202个页首词条（包含派生词和短语），尚须二次校验，且非完整释义与例句"
+        }
+      ]
     }
   ],
   "merge_rules": {
