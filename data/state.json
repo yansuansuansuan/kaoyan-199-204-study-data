@@ -144,13 +144,13 @@
       "correct_answer": "C（6天）",
       "duration_seconds": null,
       "error_analysis": "正确推导乙效率1/10、丙效率1/12，但最后计算甲丙效率时误将丙写成1/4+1/6，而非1/4-1/6；无纸笔，随意点选，建议设工作量60以减少分数复杂度。",
-      "mastery_status": "待新题独立复测",
+      "mastery_status": "工程变式中间数字误算·待独立复测",
       "review_stage": 1,
       "last_answer_date": "2026-10-28",
       "next_review_date": "2026-10-29",
       "review_count": 0,
       "latest_review_result": "真题错答B，需分数差额/设总量法补强",
-      "notes": "区分算术符号错误和工程效率知识缺失；原始回答在月档案中",
+      "notes": "区分算术符号错误和工程效率知识缺失；原始回答在月档案中 2026-10-28晚用户称第一轮为点错并要求剔除加练进度；原始错题仍保留作学习反馈；另一次工程变式(20261028-ADV-2025M04-VAR02)仍出现中间效率记错，可作为后续训练依据。",
       "review_history": []
     }
   ],
@@ -2560,6 +2560,22 @@
       ],
       "error_analysis": "数学先正确算乙和丙效率，最后丙效率写成加号；用户没有纸笔并明确猜选B。英语D错误，但用户明确未读完文章、随机选，不能用作有效完整阅读能力诊断。长篇外链只配一题训练效率低，后续短文内嵌配单题，整篇文章配5问。",
       "next_action": "对工程问题采用工程量60或合适整数倍重做一题真题同构，英语用100至150词内嵌真实题源改写练习1题；两题批改后再分配新点。"
+    },
+    {
+      "id": "S20261028-ADV02",
+      "date": "2026-10-28",
+      "period": "夜间·进阶加练第二轮",
+      "subject": "199数学+204英语（二）",
+      "module": "2025工程题结构简化变式与英语真文观点100词短段改编",
+      "attempted_count": 2,
+      "correct_count": 0,
+      "valid_minutes": null,
+      "time_bands": [
+        "5分钟以上",
+        "2～3分钟"
+      ],
+      "error_analysis": "工程效率第三人应为8/40−5/40=3/40，用户误代7/40；英语理解医院治疗仍重要但选‘几乎无价值’与原文相悖。用户表示今日睡觉，明天继续；要求英语训练语料与真题词汇句法难度一致。",
+      "next_action": "明天开始两题：工程效率整数化方法复测＋2025英语二真实选文限定词与细节定位；仍按当天数学因式分解、逻辑量词和整篇阅读计划推进。"
     }
   ],
   "answer_corrections": [
@@ -2587,6 +2603,18 @@
       "type": "口语转写更正",
       "keep": "用户称答对；转写“不好吃”不代表真实回答，作废不计正误",
       "process": "原转写“精度”系误识别，原口述为“进度”；“进程”基础义正确，改为正确但仍需新语境检验"
+    },
+    {
+      "id": "AC20261028-BONUS-EXCLUSION",
+      "date": "2026-10-28",
+      "attempt_ids": [
+        "20261028-ADV-2025M04-R01",
+        "20261028-ADV-CSW2022-R01"
+      ],
+      "original_records_preserved": true,
+      "original_submission_context": "第一题用户原先称‘我随便点的答案’，后称‘前面的题目那个是点错了，我知道丙是怎么算’。第二题原先明确没读完文章、随机点选。",
+      "new_status": "历史保留，按用户请求从今日加练目标和有效成绩统计中排除；不把此前猜选修改成知识正确",
+      "reason": "用户要求‘前面两题就不算今天做过了’；应计今日加练第3、4题为新的2道有效作答而不是4/16"
     }
   ],
   "mock_exams": [],
@@ -2674,8 +2702,8 @@
         "extra_objective_target": 16,
         "extra_objective_completed": 2,
         "total_daily_baseline_completed": 16,
-        "completion_status": "in_progress",
-        "note": "第一轮两题均已提交并归档：数学真题B错、真实英文文章题D随机点选且未读完，不可作有效阅读能力诊断；下一轮按整数工作量与短段内嵌训练。"
+        "completion_status": "in_progress_paused_until_next_session",
+        "note": "用户撤销第一轮两次计数但保留原始历史；第二轮数学/英语两次有效作答0/2正确，今日正式加练进度2/16。用户晚上说睡觉，下一轮排次日。"
       },
       "latest_plan_version": "2026-10-28-mileestone-v2",
       "milestone_monitor_path": "data/milestone-monitor.json",
@@ -2703,7 +2731,8 @@
         "199": "2026-11-02",
         "204": "2026-11-03"
       },
-      "updates_only_on_user_interaction": true
+      "updates_only_on_user_interaction": true,
+      "reading_source_difficulty_policy": "英语尽量采用逐年真实英语二真题、原文词频/句型及干扰项；原创短段须如实标未校准，不可使用公众号科普风改写冒充真题难度；一篇完整350—450词英语二真题配5道题，长外链不只出1问。"
     },
     "course_coverage_note": "2026-10-28 refreshed: GitHub has full course catalogs for math, logic, writing, English; currently 883 logic TXT transcripts but no full 199-math/199-writing/204-english transcript folders. Titles indicate availability, not actual read content; cross-check via web or confirm transcripts before attributing teaching methods."
   },
@@ -2713,20 +2742,20 @@
       {
         "month": "2026-10",
         "path": "data/attempts/2026-10.json",
-        "verified_attempts": 97,
+        "verified_attempts": 99,
         "valid_attempts": 79,
         "correct_attempts": 58,
         "wrong_attempts": 21,
-        "void_attempts": 3,
+        "void_attempts": 5,
         "unscored_completed_attempts": 15,
         "partial_vocabulary_attempts": 13
       }
     ],
-    "total_recorded": 97,
+    "total_recorded": 99,
     "total_scored": 79,
     "total_correct": 58,
     "total_wrong": 21,
-    "total_voided": 3,
+    "total_voided": 5,
     "counted_rule": "有效客观题作答才纳入知识正确率；E001原始提交D但本人确认误触，记入历史档案不计分；W001为5～8分钟短时写作诊断，保留原文和批改但不作为30分正式作文计分；概念核验与真题模拟分别评估。",
     "source_policy": "所有完成的题都保存，不限于错题。即使答对，也保留题干或可核对来源、答案、思路、真实耗时、批改及知识点。阅读、数学、逻辑、写作均适用。",
     "archive_read_policy": "需要核对过去具体作答/完整解析/正确率时，先读此处索引，按需打开相应月份归档。不要以聊天记忆替代档案。",
