@@ -682,6 +682,22 @@
       "time_band": "5～8分钟",
       "error_analysis": "三处成立的漏洞：因果混淆、个体与整体的转移问题、停留不等于消费。遗漏营业额不等于利润，以及横向30%差异不能推出同店30%增幅。",
       "next_action": "W001原创短时诊断只作写作能力样本；安排一次真实历年199论证有效性分析约600字、25～30分钟的完整限时写作，以检验篇章结构与得分水平。完整原稿与三维批改在data/attempts/2026-10.json。"
+    },
+    {
+      "id": "S20261028-MATHLOGIC-02",
+      "date": "2026-10-28",
+      "period": "白天·双题新知识点",
+      "subject": "199数学+199逻辑",
+      "module": "条件充分性判断·差平方；排序推理·固定块整体占位",
+      "attempted_count": 2,
+      "correct_count": 2,
+      "valid_minutes": null,
+      "time_bands": [
+        "30秒～1分钟",
+        "30秒～1分钟"
+      ],
+      "error_analysis": "数学C正确但没写出联合条件下差平方的严谨证明；逻辑C正确但只列举丙甲乙丁一个合法排列，需补查甲乙丙丁以证明一定为真。",
+      "next_action": "后续复测联合充分性证明及排序全情况枚举，优先扩展未覆盖的数学/英语/写作模块，继续每轮2题。"
     }
   ],
   "answer_corrections": [
@@ -781,18 +797,18 @@
       {
         "month": "2026-10",
         "path": "data/attempts/2026-10.json",
-        "verified_attempts": 33,
-        "valid_attempts": 27,
-        "correct_attempts": 15,
+        "verified_attempts": 35,
+        "valid_attempts": 29,
+        "correct_attempts": 17,
         "wrong_attempts": 12,
         "void_attempts": 1,
         "unscored_completed_attempts": 5,
         "partial_vocabulary_attempts": 4
       }
     ],
-    "total_recorded": 33,
-    "total_scored": 27,
-    "total_correct": 15,
+    "total_recorded": 35,
+    "total_scored": 29,
+    "total_correct": 17,
     "total_wrong": 12,
     "total_voided": 1,
     "counted_rule": "有效客观题作答才纳入知识正确率；E001原始提交D但本人确认误触，记入历史档案不计分；W001为5～8分钟短时写作诊断，保留原文和批改但不作为30分正式作文计分；概念核验与真题模拟分别评估。",
