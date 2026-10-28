@@ -2918,6 +2918,68 @@
       "source_page": 34,
       "source_frequency_as_shown": 26,
       "round": 1
+    },
+    {
+      "attempt_id": "20261028-ADV-2025M04-R01",
+      "exercise_id": "ADV-M01",
+      "date": "2026-10-28",
+      "subject": "199数学",
+      "kind": "bonus_authentic_past_paper",
+      "source": "2025年199管理类联考数学问题求解第4题·忠实改述（题目及正确答案已核对）; https://m.koolearn.com/kaoyan/20250103/1795513.html",
+      "topic": "工程问题·个人效率差分、总任务量、剩余任务与合作效率",
+      "question": "一项工程，甲独立需要15天；甲乙合作需要6天；甲乙丙合作需要4天。乙先做1天，剩余由甲丙合作，还需要多少天？",
+      "options": {
+        "A": "4天",
+        "B": "5天",
+        "C": "6天",
+        "D": "7天",
+        "E": "8天"
+      },
+      "submitted_answer": "B",
+      "answer_kind": "selected_option_explicit_guess",
+      "correct_answer": "C",
+      "correctness": false,
+      "scoring_status": "valid",
+      "duration_band": "1～2分钟",
+      "duration_seconds": null,
+      "reasoning": "甲每天完成 1/15，甲乙共同完成 1/6/天，甲乙丙共同完成 1/4 一天，好难算啊，我没纸笔算不了，乙每天做 1/6-1/15=0.1，丙每天做 1/4-1/6=0.083，（1-（1/6-1/15））÷（1/15+（1/4+1/6）=？是这样吗？我随便点的答案",
+      "teacher_feedback": "提交B错误，正确C=6天。乙效率=1/6-1/15=1/10，丙效率=1/4-1/6=1/12；甲丙=1/15+1/12=3/20，剩余9/10，需(9/10)/(3/20)=6天。原式末项误把丙差额写成1/4+1/6；用户明确没有纸笔且最终猜选。后续改用总量60法降低分数运算负担，并用新变式检验。",
+      "review_outcome": "真题提交错误，关键个体效率正确，合并效率符号错误；需限时新题独立验证。没有纸笔，最终随机选择。",
+      "linked_error_id": null,
+      "confidence": "explicit_guess",
+      "scratch_paper_available": false,
+      "authentic_exam_question": true
+    },
+    {
+      "attempt_id": "20261028-ADV-CSW2022-R01",
+      "exercise_id": "ADV-E01",
+      "date": "2026-10-28",
+      "subject": "204英语（二）",
+      "kind": "bonus_authentic_article_based_question",
+      "source": "Patrick King, 'Rather than fixing the NHS, we need to radically rethink our approach to health', Civil Service World, 2022-09-23. https://www.civilserviceworld.com/professions/article/rather-than-fixing-the-nhs-we-need-a-radical-rethink-of-our-approach-to-health ; 根据真实文章来源独立命题，非2025英语二原卷题",
+      "topic": "真实文章阅读·医疗卫生政策、作者中心观点；篇幅与题目匹配",
+      "question": "阅读上方外链英文文章开头至中央政府与地方卫生职能分配部分。作者对修补NHS现行医疗体系最核心的担忧是什么？",
+      "options": {
+        "A": "医院投资应优先于其他社会政策",
+        "B": "只着重医疗服务体系可能忽略影响健康的更广泛社会因素",
+        "C": "地方政府应完全接管NHS全部医疗服务",
+        "D": "社区卫生工作人员人数下降是英国健康成果恶化的主要原因"
+      },
+      "submitted_answer": "D",
+      "answer_kind": "selected_option_explicit_random_guess",
+      "correct_answer": "B",
+      "correctness": false,
+      "scoring_status": "valid",
+      "duration_band": "12分钟以上",
+      "duration_seconds": null,
+      "reasoning": "我想问这一整片我都要读吗？这也太长了只做一道题不就读一段就行了吗，太不划算了这题我随便点的",
+      "teacher_feedback": "提交D错误，文章主旨支持B。原文主张不能只‘修补’医院中心的医疗服务，还应评估居住、就业、社区与预防等更广泛决定因素；D把社区卫生工作人员下降当成健康问题唯一或主要解释，作者没有这样断言。用户明确没完成文章阅读、随机点选；不能把该错误当作完整读文后理解失败，时长档记录12分钟以上但不推断为有效阅读耗时。教学设计失配：长原文只配一道题，后续短篇内嵌+单题；完整考试篇幅+5问。",
+      "review_outcome": "选项错误，猜选且阅读未完成，此题不作为英语阅读理解诊断有效证据；同时记录时间投入与题目设计问题。",
+      "linked_error_id": null,
+      "confidence": "explicit_random_guess",
+      "reading_completed": false,
+      "diagnostic_valid": false,
+      "authentic_exam_question": false
     }
   ]
 }
