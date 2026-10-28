@@ -1131,6 +1131,62 @@
       "teacher_feedback": "选D正确。完整推理为甲或乙、非甲→乙；乙→丙或丁、非丙→丁。用户只提交‘很简单’，并非完整推理链，记为选项正确、推导证据不足，不推断为猜对或者已完全掌握。对应仓库研途《第9讲假言与选言的等价变形模型》中否一肯余规则。",
       "review_outcome": "选项正确但未提供可核对推导过程；后续另一种题型验证推理熟练度",
       "linked_error_id": null
+    },
+    {
+      "attempt_id": "20261028-M-SEQ01",
+      "exercise_id": "M007",
+      "date": "2026-10-28",
+      "subject": "199数学",
+      "kind": "new_topic_diagnostic",
+      "source": "AI原创等差数列题（非真题）",
+      "topic": "等差数列、公差、首项与前n项和",
+      "question": "已知等差数列{a_n}，其中a3=11，a8=26，求该数列前10项的和S10。",
+      "options": {
+        "A": "155",
+        "B": "165",
+        "C": "175",
+        "D": "185",
+        "E": "195"
+      },
+      "submitted_answer": "D",
+      "answer_kind": "selected_option",
+      "correct_answer": "D",
+      "correctness": true,
+      "scoring_status": "valid",
+      "duration_band": "2～3分钟",
+      "duration_seconds": null,
+      "reasoning": "我不是很会，当时学的时候就不咋会好像，a3-a8=15÷5=3，那就是 a2=8，a1=5，我不会那个公式我就一个个加吧，5+8+11+14+17+20+23+26+29+32=185",
+      "teacher_feedback": "正确，先由(26-11)/(8-3)=3求公差，得a1=5，逐项列出前10项并计算和185。原话把a3-a8写作差但数值按a8-a3计算，结果正确。考试提速使用首尾配对S10=10*(5+32)/2=185。主要薄弱点是等差数列公式记忆与提速，非完全不会。",
+      "review_outcome": "独立列项求和正确，公式回忆薄弱，安排短间隔的同类异型检验",
+      "linked_error_id": null,
+      "tool_assisted": null
+    },
+    {
+      "attempt_id": "20261028-E-TREESREAD01",
+      "exercise_id": "E005",
+      "date": "2026-10-28",
+      "subject": "204英语（二）",
+      "kind": "reading_main_idea",
+      "source": "AI原创英语二阅读观点题（非真题）",
+      "topic": "环境治理阅读、长句、精确词义与作者观点",
+      "question": "City councils often celebrate the number of trees planted as a sign of environmental progress. However, planting figures do not reveal how many trees survive, or whether their shade reaches neighborhoods where summer temperatures are highest.\n\nYoung trees may require several years of care before they provide noticeable cooling. Yet maintenance budgets are frequently set for only the first year, leaving some projects vulnerable after initial funding ends.\n\nResearchers therefore recommend reporting survival rates and changes in local temperature alongside planting totals. Such measurements may be less impressive in the short term, but they give residents a clearer picture of whether an investment is actually working.\n\nWhat do researchers suggest cities should do?",
+      "options": {
+        "A": "Stop planting trees in neighborhoods with high summer temperatures.",
+        "B": "Evaluate long-term outcomes rather than relying only on planting numbers.",
+        "C": "Spend maintenance budgets entirely in the first year.",
+        "D": "Focus on younger trees because they provide immediate cooling."
+      },
+      "submitted_answer": "B",
+      "answer_kind": "selected_option",
+      "correct_answer": "B",
+      "correctness": true,
+      "scoring_status": "valid",
+      "duration_band": "1～2分钟",
+      "duration_seconds": null,
+      "reasoning": "市议会经常庆祝种树的数量，作为环境（治理？）进度的标志，然而，植树指标不能 reveal（猜是代表吧）多少树存活了，或者夏日高温的时候树荫覆盖的附近面积，\n树苗在他们能提供明显阴凉之前需要数年的养护，同时，主要的预算常常只准备了第一年的，让一些项目需求的在 initial 资金需求。\n研究元建议生存率和行路树带来的地区温度变化都要报告。这样的措施可能不会在短期有那么让人印象深刻，但是这能给居民一个政府在确实的做实事更清晰的画面。",
+      "teacher_feedback": "选B正确且能把握比较植树数量与长期成效的观点；reveal=揭示/显示；maintenance=维护/养护；vulnerable=脆弱、容易受到影响；initial funding=初期资金；survival rates=存活率；whether an investment is actually working=投入是否真正奏效，不能扩译为已肯定政府做实事。词汇细节、末句模态与措辞待加强。",
+      "review_outcome": "主旨判断正确，阅读语义整体准确，若干词义和长句细节不稳，需主动词汇回忆",
+      "linked_error_id": null
     }
   ]
 }
