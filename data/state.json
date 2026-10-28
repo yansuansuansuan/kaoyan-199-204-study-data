@@ -842,9 +842,9 @@
   ],
   "vocabulary_coverage_plan": {
     "path": "data/vocabulary_plan.json",
-    "target_words_approx": 5500,
-    "daily_screening_target": 125,
-    "first_pass_end": "2026-12-11",
+    "target_words_approx": null,
+    "daily_screening_target": "首轮常规日90～120个；第二轮常规日100～140个，旅行日少量复习",
+    "first_pass_end": "2026-11-23",
     "official_wordlist_imported": false,
     "note": "新优先级：三份高频材料合并去重考前两轮主动回忆，5500全表仅有余力时扩展；现有词条初步索引不等于已学习或已掌握。",
     "active_plan": "three_sources_two_passes",
@@ -856,6 +856,11 @@
     "round1_end": "2026-11-23",
     "round2_end": "2026-12-14",
     "source_original_pdf_upload_complete": false,
-    "source_coverage_verified": false
+    "source_coverage_verified": false,
+    "historical_5500_plan": {
+      "target_words_approx": 5500,
+      "former_first_pass_end": "2026-12-11",
+      "former_daily_screening_target": 125
+    }
   }
 }
