@@ -978,12 +978,12 @@
       "context": null,
       "first_seen_date": "2026-10-28",
       "first_attempt": "keep。不好吃",
-      "mastery_status": "第一轮错误·待复习",
+      "mastery_status": "语音转写作废·用户自述答对·待复核",
       "review_stage": 1,
       "last_test_date": "2026-10-28",
       "next_review_date": "2026-10-29",
       "review_count": 0,
-      "latest_review_result": "2026-10-28 READ200第一轮：wrong",
+      "latest_review_result": "2026-10-28：原文“不好吃”系ASR错误，用户称答对，成绩作废不计错",
       "notes": "READ200：上传PDF第4页；资料标注频次57。首次测试答案在20261028-V-READ200-B01-06",
       "review_history": [
         {
@@ -992,10 +992,13 @@
           "type": "first_pass",
           "test_method": "英语→中文无提示口述回忆",
           "original_answer": "keep。不好吃",
-          "result": "wrong",
+          "result": "transcription_void",
           "confidence": "未明确逐词标注",
           "duration_seconds": null,
-          "next_review_date": "2026-10-29"
+          "next_review_date": "2026-10-29",
+          "correctness": null,
+          "user_reported_correction": "用户确认原答正确，原文字被语音识别错误转写，真实口述词义未提供",
+          "is_user_confirmed_correct": true
         }
       ],
       "source_ids": [
@@ -1009,12 +1012,12 @@
       "context": null,
       "first_seen_date": "2026-10-28",
       "first_attempt": "process.呃，进程精度吧",
-      "mastery_status": "第一轮部分正确·待复习",
-      "review_stage": 1,
+      "mastery_status": "第一轮基础义正确·待其他含义验证",
+      "review_stage": 2,
       "last_test_date": "2026-10-28",
-      "next_review_date": "2026-10-29",
+      "next_review_date": "2026-10-31",
       "review_count": 0,
-      "latest_review_result": "2026-10-28 READ200第一轮：partial",
+      "latest_review_result": "2026-10-28：更正基础义正确，原答“进程、进度”",
       "notes": "READ200：上传PDF第4页；资料标注频次56。首次测试答案在20261028-V-READ200-B01-07",
       "review_history": [
         {
@@ -1023,10 +1026,13 @@
           "type": "first_pass",
           "test_method": "英语→中文无提示口述回忆",
           "original_answer": "process.呃，进程精度吧",
-          "result": "partial",
+          "result": "correct_basic",
           "confidence": "未明确逐词标注",
           "duration_seconds": null,
-          "next_review_date": "2026-10-29"
+          "next_review_date": "2026-10-29",
+          "correctness": true,
+          "corrected_answer": "进程、进度",
+          "user_reported_correction": "原始“精度”为语音识别错误；process=进程的基础义正确，进度更常对应progress"
         }
       ],
       "source_ids": [
@@ -1296,6 +1302,18 @@
       "evidence": "提交文本写D；用户事后明确：“我选的是b，但是后面估计点到哪点错了”。其之前逐句翻译已准确对应B选项关键信息。无法由事后更正证明考试中的实际作答，因此统计中标为未计分，不把D伪写为原始提交B。",
       "handling": "已从错题台账移出；5个词汇复习照常。以后提交选项前明确确认，继续用新题测验选项定位能力。",
       "count_in_knowledge_accuracy": false
+    },
+    {
+      "id": "20261028-VOCAB-ASR-CORR-KEEP-PROCESS",
+      "date": "2026-10-28",
+      "module": "204英语（二）·阅读高频200词",
+      "linked_attempt_ids": [
+        "20261028-V-READ200-B01-06",
+        "20261028-V-READ200-B01-07"
+      ],
+      "type": "口语转写更正",
+      "keep": "用户称答对；转写“不好吃”不代表真实回答，作废不计正误",
+      "process": "原转写“精度”系误识别，原口述为“进度”；“进程”基础义正确，改为正确但仍需新语境检验"
     }
   ],
   "mock_exams": [],
@@ -1382,24 +1400,24 @@
         "path": "data/attempts/2026-10.json",
         "verified_attempts": 54,
         "valid_attempts": 45,
-        "correct_attempts": 32,
-        "wrong_attempts": 13,
-        "void_attempts": 1,
-        "unscored_completed_attempts": 8,
-        "partial_vocabulary_attempts": 6
+        "correct_attempts": 33,
+        "wrong_attempts": 12,
+        "void_attempts": 2,
+        "unscored_completed_attempts": 7,
+        "partial_vocabulary_attempts": 5
       }
     ],
     "total_recorded": 54,
     "total_scored": 45,
-    "total_correct": 32,
-    "total_wrong": 13,
-    "total_voided": 1,
+    "total_correct": 33,
+    "total_wrong": 12,
+    "total_voided": 2,
     "counted_rule": "有效客观题作答才纳入知识正确率；E001原始提交D但本人确认误触，记入历史档案不计分；W001为5～8分钟短时写作诊断，保留原文和批改但不作为30分正式作文计分；概念核验与真题模拟分别评估。",
     "source_policy": "所有完成的题都保存，不限于错题。即使答对，也保留题干或可核对来源、答案、思路、真实耗时、批改及知识点。阅读、数学、逻辑、写作均适用。",
     "archive_read_policy": "需要核对过去具体作答/完整解析/正确率时，先读此处索引，按需打开相应月份归档。不要以聊天记忆替代档案。",
     "periodic_archive_policy": "新题加入当月归档；写入后重新读取验证。每次答完题时形成记录，优先按小批次或单元结束及时同步；用户说今天结束时必须补齐当日已完成的题。未同步要明确提示。",
-    "total_unscored_completed": 8,
-    "total_vocabulary_partial": 6
+    "total_unscored_completed": 7,
+    "total_vocabulary_partial": 5
   },
   "writing_diagnostics": [
     {
@@ -1472,14 +1490,15 @@
       "source_index": "data/wordlists/reading200_page_index.json",
       "source_unique_entries_provisional": 202,
       "first_pass_tested_today": 10,
-      "first_pass_correct_basic": 7,
-      "first_pass_partial": 2,
-      "first_pass_wrong": 1,
+      "first_pass_correct_basic": 8,
+      "first_pass_partial": 1,
+      "first_pass_wrong": 0,
       "tested_date": "2026-10-28",
       "last_batch_id": "READ200-B01",
       "first_pass_complete": false,
       "second_pass_complete": false,
-      "note": "已测试10个不同词；来源索引尚待逐项核验。基础义正确不等于完全掌握；其他PDF覆盖未完成，不以资料标题数作分母。"
+      "note": "更正：keep语音转写无效，不计正误（本人称答对但未提供可核对原答）；process基础词义正确。“第一轮已完成有效测试”9词，另1词原转写作废待复测。",
+      "first_pass_asr_void": 1
     }
   }
 }
