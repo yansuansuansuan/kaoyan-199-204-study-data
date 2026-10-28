@@ -2939,7 +2939,7 @@
       "answer_kind": "selected_option_explicit_guess",
       "correct_answer": "C",
       "correctness": false,
-      "scoring_status": "valid",
+      "scoring_status": "excluded_from_current_bonus_by_user_request",
       "duration_band": "1～2分钟",
       "duration_seconds": null,
       "reasoning": "甲每天完成 1/15，甲乙共同完成 1/6/天，甲乙丙共同完成 1/4 一天，好难算啊，我没纸笔算不了，乙每天做 1/6-1/15=0.1，丙每天做 1/4-1/6=0.083，（1-（1/6-1/15））÷（1/15+（1/4+1/6）=？是这样吗？我随便点的答案",
@@ -2948,7 +2948,11 @@
       "linked_error_id": null,
       "confidence": "explicit_guess",
       "scratch_paper_available": false,
-      "authentic_exam_question": true
+      "authentic_exam_question": true,
+      "original_scoring_status": "valid",
+      "bonus_count_eligible": false,
+      "exclusion_note": "用户10月28日晚明确要求将上一轮两题从今日加练目标计数中剔除，但保留事实作答、原始答案和批改。此前数学用户表示点错，但原始思路末项也有符号错误；此声明不证明已独立算对。英语上轮本身未读完文章而随机选。",
+      "post_submission_clarification": "前面的题目那个是点错了，我知道丙是怎么算，你看我前面写的是对的，前面两题就不算今天做过了，你等会就相当于多出两题。"
     },
     {
       "attempt_id": "20261028-ADV-CSW2022-R01",
@@ -2969,7 +2973,7 @@
       "answer_kind": "selected_option_explicit_random_guess",
       "correct_answer": "B",
       "correctness": false,
-      "scoring_status": "valid",
+      "scoring_status": "excluded_from_current_bonus_by_user_request",
       "duration_band": "12分钟以上",
       "duration_seconds": null,
       "reasoning": "我想问这一整片我都要读吗？这也太长了只做一道题不就读一段就行了吗，太不划算了这题我随便点的",
@@ -2979,7 +2983,70 @@
       "confidence": "explicit_random_guess",
       "reading_completed": false,
       "diagnostic_valid": false,
-      "authentic_exam_question": false
+      "authentic_exam_question": false,
+      "original_scoring_status": "valid",
+      "bonus_count_eligible": false,
+      "exclusion_note": "用户10月28日晚明确要求将上一轮两题从今日加练目标计数中剔除，但保留事实作答、原始答案和批改。此前数学用户表示点错，但原始思路末项也有符号错误；此声明不证明已独立算对。英语上轮本身未读完文章而随机选。",
+      "post_submission_clarification": "前面的题目那个是点错了，我知道丙是怎么算，你看我前面写的是对的，前面两题就不算今天做过了，你等会就相当于多出两题。"
+    },
+    {
+      "attempt_id": "20261028-ADV-2025M04-VAR02",
+      "exercise_id": "ADV-M02",
+      "date": "2026-10-28",
+      "subject": "199数学",
+      "kind": "bonus_past_exam_structure_simplified",
+      "source": "依据2025年199数学第4题工程效率模型自行简化参数；并非真题原题，未达到真题等难度",
+      "topic": "工程工作量整数化、甲乙丙效率差分、减法中间数值",
+      "question": "某工程，甲独立需要20天、甲乙合作8天、甲乙丙合作5天。乙先单独工作5天，剩余甲丙合作还需要几天？",
+      "options": {
+        "A": "4天",
+        "B": "5天",
+        "C": "6天",
+        "D": "7天",
+        "E": "8天"
+      },
+      "submitted_answer": "C",
+      "answer_kind": "selected_option",
+      "correct_answer": "B",
+      "correctness": false,
+      "scoring_status": "valid",
+      "duration_band": "5分钟以上",
+      "duration_seconds": null,
+      "reasoning": "前面的题目那个是点错了，我知道丙是怎么算，你看我前面写的是对的，前面两题就不算今天做过了，你等会就相当于多出两题。\n甲 1/20/天，甲+乙 1/8，甲乙丙 1/5，那乙就是 1/8-1/20=5/40-2/40=3/40，丙=1/5-7/40=8/40-7/40=1/40，乙做五天 15/40，剩 25/40=5/8，5/8÷（1/20+1/40）=5/8÷3/40…？算错了吗",
+      "teacher_feedback": "用户选C(6天)，正确B(5天)。总量设40：甲2份/天，甲乙5份/天，甲乙丙8份/天；乙=3、丙=8-5=3；乙5天完成15份、剩25份，甲丙每天2+3=5份，需5天。用户把甲乙速率5/40误写为7/40，后续丙和合作运算受影响；关键差分逻辑理解有基础，主要错误是中间数值和检查。今日这题应计有效进阶作答。",
+      "review_outcome": "工程题变式错误，计算中间值失准；建议整数工程量法与重新核对组合差分",
+      "linked_error_id": "M003",
+      "bonus_count_eligible": true,
+      "original_user_reasoning_preserved": true
+    },
+    {
+      "attempt_id": "20261028-ADV-CSW2022-SHORT02",
+      "exercise_id": "ADV-E02",
+      "date": "2026-10-28",
+      "subject": "204英语（二）",
+      "kind": "bonus_short_article_based_inference",
+      "source": "独立英文短段，观点依据Patrick King, Civil Service World, 2022-09-23 NHS文章；非原文逐字和非英语二历年真题，词汇难度未按历年试卷正式校准",
+      "topic": "英二阅读推断/必要假设、医院治疗作用与公共预防需求、限定词",
+      "question": "In an article about Britain's health system, the author argues that better medical treatment cannot be the only goal of reform. Hospitals remain essential for people who need care. Yet living and working conditions shape health long before a patient enters a hospital. When spending on treatment rises while investment in local services falls, the public may be paying repeatedly for illnesses that could have been prevented. The author therefore asks policymakers to look beyond hospital waiting lists and consider how housing, community support, and preventive policies could improve people's health in the first place. Which assumption best supports the author's concern about public spending?",
+      "options": {
+        "A": "Public hospitals may eventually operate without government funding.",
+        "B": "Investment in prevention and living conditions can affect future demand for medical care.",
+        "C": "Improving medical treatment has little value for public health.",
+        "D": "Local community services are always cheaper to provide than hospital treatment."
+      },
+      "submitted_answer": "C",
+      "answer_kind": "selected_option",
+      "correct_answer": "B",
+      "correctness": false,
+      "scoring_status": "valid",
+      "duration_band": "2～3分钟",
+      "duration_seconds": null,
+      "reasoning": "在这个关于医保健康系统的文章里面，作者争论了更好的医疗药物治疗不能成为唯一的改革目标。对于需要照顾的人们还是重要的。生活和工作的治疗塑造健康的方式还是要在患者进入医院之前。\n当当地服务的投资下降，治疗的费用增加时，公众可能会一遍遍的支付哪些可以被预防的疾病。作者因此要求政策制定者去不只看到医院的等待名单，而是去考虑如何首先能够使用居家、社区支持、预防性措施来促进人们的健康。这估计是我今天做的最后一道题了，我做完睡觉去了，明天见。话说你写的文章最好词汇能在英语二里，然后可以参考往届的词汇啊语句难度啥的，不然没意义。",
+      "teacher_feedback": "选C错误，正确B。用户能理解医院治疗不是唯一改革目标及预防重要，但C把not the only goal（非唯一）错误强化为has little value（价值很小），与Hospitals remain essential直接冲突。B使作者关于预防投入可能影响未来医疗需求的成本论证更合理。后续必须严格对齐历年英语二真实原文词汇/句法/干扰项，不以来源文章相似冒充考试难度；正式完整篇幅配5题，短段只用于词义/限定词精准练习。",
+      "review_outcome": "答错但已尝试阅读翻译，限定词强弱和选项核查需要补强；未经真题难度校准的练习不得列为真题能力测试",
+      "linked_error_id": null,
+      "bonus_count_eligible": true,
+      "reading_completed": true
     }
   ]
 }
