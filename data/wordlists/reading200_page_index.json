@@ -670,8 +670,14 @@
       "source_id": "READ200",
       "page": 16,
       "frequency_as_shown": 39,
-      "status": "heading_transcribed_needs_crosscheck",
-      "first_pass": null,
+      "status": "first_pass_tested",
+      "first_pass": {
+        "date": "2026-10-28",
+        "attempt_id": "20261028-V-READ200-B03-01",
+        "result": "correct",
+        "correctness": true,
+        "score_kind": "basic_word_meaning"
+      },
       "second_pass": null
     },
     {
@@ -697,8 +703,14 @@
       "source_id": "READ200",
       "page": 17,
       "frequency_as_shown": 39,
-      "status": "heading_transcribed_needs_crosscheck",
-      "first_pass": null,
+      "status": "first_pass_tested",
+      "first_pass": {
+        "date": "2026-10-28",
+        "attempt_id": "20261028-V-READ200-B03-02",
+        "result": "correct",
+        "correctness": true,
+        "score_kind": "basic_word_meaning"
+      },
       "second_pass": null
     },
     {
@@ -706,8 +718,14 @@
       "source_id": "READ200",
       "page": 17,
       "frequency_as_shown": 38,
-      "status": "heading_transcribed_needs_crosscheck",
-      "first_pass": null,
+      "status": "first_pass_tested",
+      "first_pass": {
+        "date": "2026-10-28",
+        "attempt_id": "20261028-V-READ200-B03-03",
+        "result": "partial",
+        "correctness": null,
+        "score_kind": "basic_word_meaning"
+      },
       "second_pass": null
     },
     {
@@ -751,8 +769,14 @@
       "source_id": "READ200",
       "page": 18,
       "frequency_as_shown": 37,
-      "status": "heading_transcribed_needs_crosscheck",
-      "first_pass": null,
+      "status": "first_pass_tested",
+      "first_pass": {
+        "date": "2026-10-28",
+        "attempt_id": "20261028-V-READ200-B03-04",
+        "result": "correct",
+        "correctness": true,
+        "score_kind": "basic_word_meaning"
+      },
       "second_pass": null
     },
     {
@@ -760,8 +784,14 @@
       "source_id": "READ200",
       "page": 19,
       "frequency_as_shown": 36,
-      "status": "heading_transcribed_needs_crosscheck",
-      "first_pass": null,
+      "status": "first_pass_tested",
+      "first_pass": {
+        "date": "2026-10-28",
+        "attempt_id": "20261028-V-READ200-B03-05",
+        "result": "correct",
+        "correctness": true,
+        "score_kind": "basic_word_meaning"
+      },
       "second_pass": null
     },
     {
@@ -805,8 +835,14 @@
       "source_id": "READ200",
       "page": 20,
       "frequency_as_shown": 35,
-      "status": "heading_transcribed_needs_crosscheck",
-      "first_pass": null,
+      "status": "first_pass_tested",
+      "first_pass": {
+        "date": "2026-10-28",
+        "attempt_id": "20261028-V-READ200-B03-06",
+        "result": "correct",
+        "correctness": true,
+        "score_kind": "basic_word_meaning"
+      },
       "second_pass": null
     },
     {
@@ -814,8 +850,14 @@
       "source_id": "READ200",
       "page": 20,
       "frequency_as_shown": 34,
-      "status": "heading_transcribed_needs_crosscheck",
-      "first_pass": null,
+      "status": "first_pass_tested",
+      "first_pass": {
+        "date": "2026-10-28",
+        "attempt_id": "20261028-V-READ200-B03-07",
+        "result": "partial",
+        "correctness": null,
+        "score_kind": "basic_word_meaning"
+      },
       "second_pass": null
     },
     {
@@ -823,8 +865,14 @@
       "source_id": "READ200",
       "page": 21,
       "frequency_as_shown": 34,
-      "status": "heading_transcribed_needs_crosscheck",
-      "first_pass": null,
+      "status": "first_pass_tested",
+      "first_pass": {
+        "date": "2026-10-28",
+        "attempt_id": "20261028-V-READ200-B03-08",
+        "result": "wrong",
+        "correctness": false,
+        "score_kind": "basic_word_meaning"
+      },
       "second_pass": null
     },
     {
@@ -832,8 +880,14 @@
       "source_id": "READ200",
       "page": 21,
       "frequency_as_shown": 34,
-      "status": "heading_transcribed_needs_crosscheck",
-      "first_pass": null,
+      "status": "first_pass_tested",
+      "first_pass": {
+        "date": "2026-10-28",
+        "attempt_id": "20261028-V-READ200-B03-09",
+        "result": "correct",
+        "correctness": true,
+        "score_kind": "basic_word_meaning"
+      },
       "second_pass": null
     },
     {
@@ -850,8 +904,14 @@
       "source_id": "READ200",
       "page": 21,
       "frequency_as_shown": 33,
-      "status": "heading_transcribed_needs_crosscheck",
-      "first_pass": null,
+      "status": "first_pass_tested",
+      "first_pass": {
+        "date": "2026-10-28",
+        "attempt_id": "20261028-V-READ200-B03-10",
+        "result": "correct",
+        "correctness": true,
+        "score_kind": "basic_word_meaning"
+      },
       "second_pass": null
     },
     {
@@ -1947,8 +2007,8 @@
   "distinct_word_count": 202,
   "page_count": 51,
   "index_progress": {
-    "first_pass_tested": 19,
-    "first_pass_attempted": 20,
+    "first_pass_tested": 29,
+    "first_pass_attempted": 30,
     "second_pass_tested": 0,
     "void_count": 1,
     "source_entries_provisional": 202,
