@@ -861,6 +861,7 @@
       "target_words_approx": 5500,
       "former_first_pass_end": "2026-12-11",
       "former_daily_screening_target": 125
-    }
+    },
+    "daily_schedule": "data/vocabulary_schedule_2026.json"
   }
 }
