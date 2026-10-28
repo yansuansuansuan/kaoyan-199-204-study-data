@@ -2313,7 +2313,20 @@
       "daily_minimum_learning_topics": 2,
       "weakness_escalation": "到期未达标：指出差值，连续3天每天追加30～45min与6～10道高价值真题/同构题，第四天未见题复测。弱项阅读/写作用对应练习替换题数而非凑选择题。",
       "real_mastery_levels": "A初次接触；B真题限时独立答对且可解释；C间隔独立复测。未做过完整套卷不填分数。",
-      "curriculum_source_boundary": "目前GitHub只有883篇逻辑TXT；其他科目大多只收录网盘目录/PDF索引，不能假装阅读过完整视频/讲义。"
+      "curriculum_source_boundary": "目前GitHub只有883篇逻辑TXT；其他科目大多只收录网盘目录/PDF索引，不能假装阅读过完整视频/讲义。",
+      "daily_tasks_dashboard": "data/daily_tasks_dashboard.json",
+      "daily_tasks_readable": "data/daily_tasks.md",
+      "daily_display_mode": "only three checklist items per day, score threshold warnings compact; auto-select next lesson from actual weak topics; separately show today's vocab from vocabulary_daily_dashboard.json",
+      "daily_travel_light_dates": [
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "mock_reserved_dates": {
+        "199": "2026-11-02",
+        "204": "2026-11-03"
+      },
+      "updates_only_on_user_interaction": true
     },
     "course_coverage_note": "2026-10-28 refreshed: GitHub has full course catalogs for math, logic, writing, English; currently 883 logic TXT transcripts but no full 199-math/199-writing/204-english transcript folders. Titles indicate availability, not actual read content; cross-check via web or confirm transcripts before attributing teaching methods."
   },
