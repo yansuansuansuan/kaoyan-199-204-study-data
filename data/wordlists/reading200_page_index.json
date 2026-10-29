@@ -1474,9 +1474,20 @@
       "source_id": "READ200",
       "page": 33,
       "frequency_as_shown": 27,
-      "status": "heading_transcribed_needs_crosscheck",
-      "first_pass": null,
-      "second_pass": null
+      "status": "first_pass_tested",
+      "first_pass": {
+        "date": "2026-10-28",
+        "attempt_id": "20261028-V-BATCH01-03",
+        "result": "partial",
+        "correctness": null,
+        "note": "Cross-source prior first test, not new today"
+      },
+      "second_pass": null,
+      "latest_due_review": {
+        "date": "2026-10-29",
+        "attempt_id": "20261029-V-B08-02",
+        "result": "correct"
+      }
     },
     {
       "word": "practical",
@@ -1799,8 +1810,13 @@
       "source_id": "READ200",
       "page": 40,
       "frequency_as_shown": 24,
-      "status": "heading_transcribed_needs_crosscheck",
-      "first_pass": null,
+      "status": "first_pass_tested",
+      "first_pass": {
+        "date": "2026-10-29",
+        "attempt_id": "20261029-V-B08-03",
+        "result": "correct",
+        "correctness": true
+      },
       "second_pass": null
     },
     {
@@ -1835,8 +1851,13 @@
       "source_id": "READ200",
       "page": 41,
       "frequency_as_shown": 23,
-      "status": "heading_transcribed_needs_crosscheck",
-      "first_pass": null,
+      "status": "first_pass_tested",
+      "first_pass": {
+        "date": "2026-10-29",
+        "attempt_id": "20261029-V-B08-05",
+        "result": "correct",
+        "correctness": true
+      },
       "second_pass": null
     },
     {
@@ -1880,8 +1901,13 @@
       "source_id": "READ200",
       "page": 42,
       "frequency_as_shown": 23,
-      "status": "heading_transcribed_needs_crosscheck",
-      "first_pass": null,
+      "status": "first_pass_tested",
+      "first_pass": {
+        "date": "2026-10-29",
+        "attempt_id": "20261029-V-B08-08",
+        "result": "correct",
+        "correctness": true
+      },
       "second_pass": null
     },
     {
@@ -1907,8 +1933,13 @@
       "source_id": "READ200",
       "page": 43,
       "frequency_as_shown": 23,
-      "status": "heading_transcribed_needs_crosscheck",
-      "first_pass": null,
+      "status": "first_pass_tested",
+      "first_pass": {
+        "date": "2026-10-29",
+        "attempt_id": "20261029-V-B08-11",
+        "result": "wrong",
+        "correctness": false
+      },
       "second_pass": null
     },
     {
@@ -2239,8 +2270,8 @@
   "distinct_word_count": 202,
   "page_count": 51,
   "index_progress": {
-    "first_pass_tested": 60,
-    "first_pass_attempted": 60,
+    "first_pass_tested": 65,
+    "first_pass_attempted": 65,
     "second_pass_tested": 0,
     "void_count": 0,
     "source_entries_provisional": 202,
