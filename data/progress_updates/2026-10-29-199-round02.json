@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-29",
+  "subject": "199数学与199逻辑",
+  "attempt_ids": [
+    "20261029-M-2022Q03",
+    "20261029-L-2023Q34"
+  ],
+  "archive_math": "data/attempts/2026-10.json",
+  "archive_logic_pending": "data/attempts/pending/20261029-L-2023Q34.json",
+  "math_correct": false,
+  "logic_correct": false,
+  "time_bands": [
+    "1分钟以内",
+    "1～2分钟"
+  ],
+  "comments": [
+    "f(x,y)符号不熟悉，须配方补课",
+    "原话只有逗号，未展示逻辑推演"
+  ],
+  "next_task": "2025英语二Text1原文5问(2+2+1)"
+}
