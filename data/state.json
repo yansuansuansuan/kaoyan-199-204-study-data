@@ -3157,7 +3157,7 @@
       "source_unique_entries_provisional": 202,
       "first_pass_attempted": 60,
       "first_pass_effective": 59,
-      "first_pass_tested_today": 49,
+      "first_pass_tested_today": 10,
       "first_pass_correct_basic": 36,
       "first_pass_partial": 11,
       "first_pass_wrong": 12,
@@ -3171,7 +3171,11 @@
       "note": "跨10月28、29两日共60个不同阅读高频词有提交，59个词首次有效筛查（正确36，部分11，错误12），loss两次转写为松，用户真实原意待确认；10/29新词10个有效，10/28进度保留49/50。",
       "pending_asr_verification": [
         "loss"
-      ]
+      ],
+      "first_pass_attempted_today": 11,
+      "report_date": "2026-10-29",
+      "yesterday_completed_valid": 49,
+      "today_new_tested_valid": 10
     }
   }
 }
