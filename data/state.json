@@ -213,12 +213,12 @@
       "context": "flexible management practices",
       "first_seen_date": "2026-10-26",
       "first_attempt": "猜成“制度”，语义接近但不够准确",
-      "mastery_status": "部分正确·待复习",
+      "mastery_status": "基础词义正确，待间隔复习",
       "review_stage": 1,
-      "last_test_date": "2026-10-28",
-      "next_review_date": "2026-10-29",
-      "review_count": 1,
-      "latest_review_result": "2026-10-28：partial",
+      "last_test_date": "2026-10-29",
+      "next_review_date": "2026-11-01",
+      "review_count": 2,
+      "latest_review_result": "2026-10-29第8组：correct，原答练习",
       "notes": "E001 阅读；不是这里的“练习”",
       "review_history": [
         {
@@ -227,6 +227,16 @@
           "original_answer": "练习（昨天那个意思有点忘了）",
           "result": "partial",
           "correctness": null
+        },
+        {
+          "attempt_id": "20261029-V-B08-02",
+          "date": "2026-10-29",
+          "type": "due_review",
+          "original_answer": "练习",
+          "result": "correct",
+          "correctness": true,
+          "duration_seconds": null,
+          "source_archive": "data/attempts/2026-10-B08.json"
         }
       ]
     },
@@ -316,13 +326,24 @@
       "meaning": "表明；显示；指出",
       "first_seen_date": "2026-10-28",
       "first_attempt": "不会",
-      "mastery_status": "待复习",
+      "mastery_status": "记错或忘记，次日优先复习",
       "review_stage": 1,
-      "last_test_date": "2026-10-28",
-      "next_review_date": "2026-10-29",
-      "review_count": 0,
-      "latest_review_result": "首次测试：wrong",
-      "review_history": [],
+      "last_test_date": "2026-10-29",
+      "next_review_date": "2026-10-30",
+      "review_count": 1,
+      "latest_review_result": "2026-10-29第8组：wrong，原答忘了",
+      "review_history": [
+        {
+          "attempt_id": "20261029-V-B08-04",
+          "date": "2026-10-29",
+          "type": "due_review",
+          "original_answer": "忘了",
+          "result": "wrong",
+          "correctness": false,
+          "duration_seconds": null,
+          "source_archive": "data/attempts/2026-10-B08.json"
+        }
+      ],
       "notes": "20261028-V-BATCH01-06"
     },
     {
@@ -441,14 +462,25 @@
       "context": "variation in sleep quality",
       "first_seen_date": "2026-10-28",
       "first_attempt": "我猜这个词是降低/升高的意思吧",
-      "mastery_status": "猜义不准确·待复习",
+      "mastery_status": "部分正确，明日复习",
       "review_stage": 1,
-      "last_test_date": "2026-10-28",
-      "next_review_date": "2026-10-29",
-      "review_count": 0,
-      "latest_review_result": "英语完形正确，但variation未能准确理解",
+      "last_test_date": "2026-10-29",
+      "next_review_date": "2026-10-30",
+      "review_count": 1,
+      "latest_review_result": "2026-10-29第8组：partial，原答多样的",
       "notes": "关联20261028-E-CLOZE01",
-      "review_history": []
+      "review_history": [
+        {
+          "attempt_id": "20261029-V-B08-06",
+          "date": "2026-10-29",
+          "type": "due_review",
+          "original_answer": "多样的",
+          "result": "partial",
+          "correctness": null,
+          "duration_seconds": null,
+          "source_archive": "data/attempts/2026-10-B08.json"
+        }
+      ]
     },
     {
       "id": "V013",
@@ -457,12 +489,12 @@
       "context": "question an assumption",
       "first_seen_date": "2026-10-28",
       "first_attempt": "猜测推测",
-      "mastery_status": "部分正确·待强化",
+      "mastery_status": "部分正确，明日复习",
       "review_stage": 1,
-      "last_test_date": "2026-10-28",
-      "next_review_date": "2026-10-29",
-      "review_count": 0,
-      "latest_review_result": "2026-10-28第2批：partial；原答：猜测推测",
+      "last_test_date": "2026-10-29",
+      "next_review_date": "2026-10-30",
+      "review_count": 1,
+      "latest_review_result": "2026-10-29第8组：partial，原答推测",
       "notes": "词源：E002·博物馆阅读；原始答案保存在20261028-V-BATCH02-03",
       "review_history": [
         {
@@ -474,6 +506,16 @@
           "test_method": "无语境批量主动回忆",
           "confidence": "未提供逐词信心标签",
           "duration_seconds": null
+        },
+        {
+          "attempt_id": "20261029-V-B08-07",
+          "date": "2026-10-29",
+          "type": "due_review",
+          "original_answer": "推测",
+          "result": "partial",
+          "correctness": null,
+          "duration_seconds": null,
+          "source_archive": "data/attempts/2026-10-B08.json"
         }
       ]
     },
@@ -484,12 +526,12 @@
       "context": "reflect social changes",
       "first_seen_date": "2026-10-28",
       "first_attempt": "影响",
-      "mastery_status": "口语同音异字待语境核验·不作为错误",
+      "mastery_status": "口语同音义未证实，次日核实",
       "review_stage": 1,
       "last_test_date": "2026-10-29",
       "next_review_date": "2026-10-30",
-      "review_count": 1,
-      "latest_review_result": "2026-10-29到期复习：asr_ambiguous；原答反应",
+      "review_count": 2,
+      "latest_review_result": "2026-10-29第8组：asr_ambiguous，原答反应",
       "notes": "词源：E002·博物馆阅读；原始答案保存在20261028-V-BATCH02-04",
       "review_history": [
         {
@@ -513,6 +555,16 @@
           "duration_seconds": null,
           "confidence": "中文反应/反映同音，待核对",
           "next_review_date": "2026-10-30"
+        },
+        {
+          "attempt_id": "20261029-V-B08-01",
+          "date": "2026-10-29",
+          "type": "due_review",
+          "original_answer": "反应",
+          "result": "asr_ambiguous",
+          "correctness": null,
+          "duration_seconds": null,
+          "source_archive": "data/attempts/2026-10-B08.json"
         }
       ]
     },
@@ -725,14 +777,25 @@
       "context": "digital titles require licenses",
       "first_seen_date": "2026-10-28",
       "first_attempt": "需要证（不清楚）",
-      "mastery_status": "阅读中猜义有偏差·待主动回忆",
+      "mastery_status": "基础词义正确，待间隔复习",
       "review_stage": 1,
-      "last_test_date": "2026-10-28",
-      "next_review_date": "2026-10-29",
-      "review_count": 0,
-      "latest_review_result": "阅读作答中的猜义不准确或不确定",
+      "last_test_date": "2026-10-29",
+      "next_review_date": "2026-11-01",
+      "review_count": 1,
+      "latest_review_result": "2026-10-29第8组：correct，原答证照",
       "notes": "来自20261028-E-LIBRARYREAD-01，原始理解已归档",
-      "review_history": []
+      "review_history": [
+        {
+          "attempt_id": "20261029-V-B08-09",
+          "date": "2026-10-29",
+          "type": "due_review",
+          "original_answer": "证照",
+          "result": "correct",
+          "correctness": true,
+          "duration_seconds": null,
+          "source_archive": "data/attempts/2026-10-B08.json"
+        }
+      ]
     },
     {
       "id": "V023",
@@ -741,14 +804,25 @@
       "context": "licenses expire after a fixed period",
       "first_seen_date": "2026-10-28",
       "first_attempt": "修复周期（词义不准确）",
-      "mastery_status": "阅读中猜义有偏差·待主动回忆",
+      "mastery_status": "记错或忘记，次日优先复习",
       "review_stage": 1,
-      "last_test_date": "2026-10-28",
-      "next_review_date": "2026-10-29",
-      "review_count": 0,
-      "latest_review_result": "阅读作答中的猜义不准确或不确定",
+      "last_test_date": "2026-10-29",
+      "next_review_date": "2026-10-30",
+      "review_count": 1,
+      "latest_review_result": "2026-10-29第8组：wrong，原答忘了",
       "notes": "来自20261028-E-LIBRARYREAD-01，原始理解已归档",
-      "review_history": []
+      "review_history": [
+        {
+          "attempt_id": "20261029-V-B08-10",
+          "date": "2026-10-29",
+          "type": "due_review",
+          "original_answer": "忘了",
+          "result": "wrong",
+          "correctness": false,
+          "duration_seconds": null,
+          "source_archive": "data/attempts/2026-10-B08.json"
+        }
+      ]
     },
     {
       "id": "V024",
@@ -821,14 +895,25 @@
       "context": "leaving some projects vulnerable after initial funding ends",
       "first_seen_date": "2026-10-28",
       "first_attempt": "将项目受影响理解为‘需求在initial资金需求’，未准确表达vulnerable",
-      "mastery_status": "语境不稳·待主动回忆",
+      "mastery_status": "记错或忘记，次日优先复习",
       "review_stage": 1,
-      "last_test_date": "2026-10-28",
-      "next_review_date": "2026-10-29",
-      "review_count": 0,
-      "latest_review_result": "阅读语境理解有误或未明确释义",
+      "last_test_date": "2026-10-29",
+      "next_review_date": "2026-10-30",
+      "review_count": 1,
+      "latest_review_result": "2026-10-29第8组：wrong，原答可悲的",
       "notes": "20261028-E-TREESREAD01：需独立回忆",
-      "review_history": []
+      "review_history": [
+        {
+          "attempt_id": "20261029-V-B08-12",
+          "date": "2026-10-29",
+          "type": "due_review",
+          "original_answer": "可悲的",
+          "result": "wrong",
+          "correctness": false,
+          "duration_seconds": null,
+          "source_archive": "data/attempts/2026-10-B08.json"
+        }
+      ]
     },
     {
       "id": "V029",
@@ -2869,6 +2954,122 @@
       "source_ids": [
         "READ200"
       ]
+    },
+    {
+      "id": "V093",
+      "word": "intend",
+      "meaning": "打算；意图",
+      "first_seen_date": "2026-10-29",
+      "first_attempt": "意图",
+      "review_stage": 1,
+      "review_count": 0,
+      "review_history": [
+        {
+          "attempt_id": "20261029-V-B08-03",
+          "date": "2026-10-29",
+          "type": "first_pass",
+          "original_answer": "意图",
+          "result": "correct",
+          "correctness": true,
+          "duration_seconds": null,
+          "source_archive": "data/attempts/2026-10-B08.json"
+        }
+      ],
+      "notes": "READ200第8组，原始答案见2026-10-B08.json",
+      "last_test_date": "2026-10-29",
+      "next_review_date": "2026-11-01",
+      "mastery_status": "基础词义正确，待间隔复习",
+      "latest_review_result": "2026-10-29第8组：correct，原答意图",
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V094",
+      "word": "analysis",
+      "meaning": "分析",
+      "first_seen_date": "2026-10-29",
+      "first_attempt": "分析",
+      "review_stage": 1,
+      "review_count": 0,
+      "review_history": [
+        {
+          "attempt_id": "20261029-V-B08-05",
+          "date": "2026-10-29",
+          "type": "first_pass",
+          "original_answer": "分析",
+          "result": "correct",
+          "correctness": true,
+          "duration_seconds": null,
+          "source_archive": "data/attempts/2026-10-B08.json"
+        }
+      ],
+      "notes": "READ200第8组，原始答案见2026-10-B08.json",
+      "last_test_date": "2026-10-29",
+      "next_review_date": "2026-11-01",
+      "mastery_status": "基础词义正确，待间隔复习",
+      "latest_review_result": "2026-10-29第8组：correct，原答分析",
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V095",
+      "word": "clone",
+      "meaning": "克隆；复制品",
+      "first_seen_date": "2026-10-29",
+      "first_attempt": "克隆",
+      "review_stage": 1,
+      "review_count": 0,
+      "review_history": [
+        {
+          "attempt_id": "20261029-V-B08-08",
+          "date": "2026-10-29",
+          "type": "first_pass",
+          "original_answer": "克隆",
+          "result": "correct",
+          "correctness": true,
+          "duration_seconds": null,
+          "source_archive": "data/attempts/2026-10-B08.json"
+        }
+      ],
+      "notes": "READ200第8组，原始答案见2026-10-B08.json",
+      "last_test_date": "2026-10-29",
+      "next_review_date": "2026-11-01",
+      "mastery_status": "基础词义正确，待间隔复习",
+      "latest_review_result": "2026-10-29第8组：correct，原答克隆",
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V096",
+      "word": "impact",
+      "meaning": "影响；冲击",
+      "first_seen_date": "2026-10-29",
+      "first_attempt": "忘了",
+      "review_stage": 1,
+      "review_count": 0,
+      "review_history": [
+        {
+          "attempt_id": "20261029-V-B08-11",
+          "date": "2026-10-29",
+          "type": "first_pass",
+          "original_answer": "忘了",
+          "result": "wrong",
+          "correctness": false,
+          "duration_seconds": null,
+          "source_archive": "data/attempts/2026-10-B08.json"
+        }
+      ],
+      "notes": "READ200第8组，原始答案见2026-10-B08.json",
+      "last_test_date": "2026-10-29",
+      "next_review_date": "2026-10-30",
+      "mastery_status": "记错或忘记，次日优先复习",
+      "latest_review_result": "2026-10-29第8组：wrong，原答忘了",
+      "source_ids": [
+        "READ200"
+      ]
     }
   ],
   "study_sessions": [
@@ -3256,7 +3457,15 @@
     "archive_read_policy": "需要核对过去具体作答/完整解析/正确率时，先读此处索引，按需打开相应月份归档。不要以聊天记忆替代档案。",
     "periodic_archive_policy": "新题加入当月归档；写入后重新读取验证。每次答完题时形成记录，优先按小批次或单元结束及时同步；用户说今天结束时必须补齐当日已完成的题。未同步要明确提示。",
     "total_unscored_completed": 19,
-    "total_vocabulary_partial": 16
+    "total_vocabulary_partial": 16,
+    "supplemental_archives": [
+      {
+        "date": "2026-10-29",
+        "path": "data/attempts/2026-10-B08.json",
+        "attempt_count": 12,
+        "reason": "主月档案存在并发更新，单独归档与主库合并索引"
+      }
+    ]
   },
   "writing_diagnostics": [
     {
@@ -3329,20 +3538,20 @@
     "READ200": {
       "source_index": "data/wordlists/reading200_page_index.json",
       "source_unique_entries_provisional": 202,
-      "first_pass_attempted": 60,
-      "first_pass_effective": 60,
-      "first_pass_tested_today": 10,
-      "first_pass_correct_basic": 36,
+      "first_pass_attempted": 64,
+      "first_pass_effective": 64,
+      "first_pass_tested_today": 14,
+      "first_pass_correct_basic": 39,
       "first_pass_partial": 11,
-      "first_pass_wrong": 13,
+      "first_pass_wrong": 14,
       "first_pass_asr_void": 0,
       "historical_asr_void_attempts": 3,
       "first_pass_complete": false,
       "second_pass_complete": false,
       "tested_date": "2026-10-29",
-      "last_batch_id": "REVIEW07+LOSS",
+      "last_batch_id": "B08",
       "unanswered_queue": [],
-      "note": "10月28日49个有效首筛，10月29日10个新词首筛+loss首次确认不知道，累计60个不同词有效首筛；loss来自到期复习，不纳入10月29日85个新词配额；仍保留两次原始语音转写，另外完成12个到期旧词复习。",
+      "note": "READ200新词首测累计64；另外practice原已于10月28日完成跨来源首测，按词条归并后来源索引65；用户当日新增4个有效词，8个到期复习；全部原始答案保存于data/attempts/2026-10-B08.json",
       "pending_asr_verification": [],
       "first_pass_attempted_today": 11,
       "report_date": "2026-10-29",
