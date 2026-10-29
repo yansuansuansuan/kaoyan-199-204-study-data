@@ -1,0 +1,26 @@
+{
+  "attempt_id": "20261029-L-2023Q34",
+  "exercise_id": "L006",
+  "date": "2026-10-29",
+  "subject": "199逻辑",
+  "kind": "2023年真题第34题",
+  "source": "2023年199逻辑第34题",
+  "topic": "直言量词与图书分类",
+  "question": "文学、哲学、历史图书语言版本判断",
+  "options": {
+    "A": "有些文学是中文版",
+    "B": "有些历史不属于哲学",
+    "C": "英文比中文版多",
+    "D": "有些哲学是科学",
+    "E": "有些文学是历史"
+  },
+  "submitted_answer": "A",
+  "correct_answer": "B",
+  "correctness": false,
+  "scoring_status": "valid",
+  "duration_band": "1～2分钟",
+  "duration_seconds": null,
+  "reasoning": " ，\n",
+  "teacher_feedback": "A不必然，非英文不代表中文；B必然，历史书已知存在且中文，哲学书全部英文，双语禁止。",
+  "linked_error_id": "L003"
+}
