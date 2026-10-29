@@ -8,7 +8,7 @@
     "estimated_baseline_score": 205,
     "baseline_verified": false,
     "timezone": "Asia/Shanghai",
-    "data_verified_as_of": "2026-10-28",
+    "data_verified_as_of": "2026-10-29",
     "source_workbook": "2027考研199冲230错题与词汇台账_20261026_E001误触更正.xlsx",
     "migration_notice": "Imported from confirmed Excel version. Source spreadsheet remains a backup. GitHub state.json becomes authoritative only after remote upload and read-back verification.",
     "precision_policy": "Do not invent timing, correctness, completion, or review results.",
@@ -2303,12 +2303,12 @@
       "context": null,
       "first_seen_date": "2026-10-28",
       "first_attempt": "松",
-      "mastery_status": "语音转写待核实·不计首次有效测验",
+      "mastery_status": "重复转写松·待用户确认·首次仍未有效",
       "review_stage": 1,
-      "last_test_date": "2026-10-28",
+      "last_test_date": "2026-10-29",
       "next_review_date": "2026-10-29",
-      "review_count": 0,
-      "latest_review_result": "2026-10-28第一轮B05：asr_uncertain（原文松）",
+      "review_count": 1,
+      "latest_review_result": "2026-10-29 第6组：asr_pending，原答：松",
       "review_history": [
         {
           "attempt_id": "20261028-V-READ200-B05-09",
@@ -2320,6 +2320,17 @@
           "test_method": "口述英译中",
           "duration_seconds": null,
           "confidence": "疑似语音转写错误"
+        },
+        {
+          "attempt_id": "20261029-V-READ200-B06-01",
+          "date": "2026-10-29",
+          "type": "asr_recheck_pending",
+          "original_answer": "松",
+          "result": "asr_pending",
+          "correctness": null,
+          "test_method": "英译中无提示批量回忆",
+          "duration_seconds": null,
+          "confidence": "两次转写为松，未核实真实回答"
         }
       ],
       "notes": "READ200第14页；资料标注词频26；原答见20261028-V-READ200-B05-09",
@@ -2385,6 +2396,316 @@
         }
       ],
       "notes": "READ200第34页；资料标注词频26；原答见20261028-V-READ200-B05-11",
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V083",
+      "word": "inflation",
+      "meaning": "通货膨胀",
+      "context": null,
+      "first_seen_date": "2026-10-29",
+      "first_attempt": "不知道",
+      "mastery_status": "首轮错误或不会·明日优先复习",
+      "review_stage": 1,
+      "last_test_date": "2026-10-29",
+      "next_review_date": "2026-10-30",
+      "review_count": 0,
+      "latest_review_result": "2026-10-29 第6组：wrong，原答：不知道",
+      "notes": "阅读真题高频200词第34页，资料标注词频26",
+      "review_history": [
+        {
+          "attempt_id": "20261029-V-READ200-B06-02",
+          "date": "2026-10-29",
+          "type": "first_pass",
+          "original_answer": "不知道",
+          "result": "wrong",
+          "correctness": false,
+          "test_method": "英译中无提示批量回忆",
+          "duration_seconds": null,
+          "confidence": "明确不会"
+        }
+      ],
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V084",
+      "word": "living",
+      "meaning": "生活；活着的；生计；居住（living in）",
+      "context": null,
+      "first_seen_date": "2026-10-29",
+      "first_attempt": "居住",
+      "mastery_status": "首轮部分正确·明日语境复习",
+      "review_stage": 1,
+      "last_test_date": "2026-10-29",
+      "next_review_date": "2026-10-30",
+      "review_count": 0,
+      "latest_review_result": "2026-10-29 第6组：partial，原答：居住",
+      "notes": "阅读真题高频200词第35页，资料标注词频26",
+      "review_history": [
+        {
+          "attempt_id": "20261029-V-READ200-B06-03",
+          "date": "2026-10-29",
+          "type": "first_pass",
+          "original_answer": "居住",
+          "result": "partial",
+          "correctness": null,
+          "test_method": "英译中无提示批量回忆",
+          "duration_seconds": null,
+          "confidence": null
+        }
+      ],
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V085",
+      "word": "patent",
+      "meaning": "专利；专利权",
+      "context": null,
+      "first_seen_date": "2026-10-29",
+      "first_attempt": "条款",
+      "mastery_status": "首轮错误或不会·明日优先复习",
+      "review_stage": 1,
+      "last_test_date": "2026-10-29",
+      "next_review_date": "2026-10-30",
+      "review_count": 0,
+      "latest_review_result": "2026-10-29 第6组：wrong，原答：条款",
+      "notes": "阅读真题高频200词第35页，资料标注词频26",
+      "review_history": [
+        {
+          "attempt_id": "20261029-V-READ200-B06-04",
+          "date": "2026-10-29",
+          "type": "first_pass",
+          "original_answer": "条款",
+          "result": "wrong",
+          "correctness": false,
+          "test_method": "英译中无提示批量回忆",
+          "duration_seconds": null,
+          "confidence": null
+        }
+      ],
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V086",
+      "word": "reform",
+      "meaning": "改革；改良",
+      "context": null,
+      "first_seen_date": "2026-10-29",
+      "first_attempt": "重置",
+      "mastery_status": "首轮错误或不会·明日优先复习",
+      "review_stage": 1,
+      "last_test_date": "2026-10-29",
+      "next_review_date": "2026-10-30",
+      "review_count": 0,
+      "latest_review_result": "2026-10-29 第6组：wrong，原答：重置",
+      "notes": "阅读真题高频200词第36页，资料标注词频26",
+      "review_history": [
+        {
+          "attempt_id": "20261029-V-READ200-B06-05",
+          "date": "2026-10-29",
+          "type": "first_pass",
+          "original_answer": "重置",
+          "result": "wrong",
+          "correctness": false,
+          "test_method": "英译中无提示批量回忆",
+          "duration_seconds": null,
+          "confidence": null
+        }
+      ],
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V087",
+      "word": "billion",
+      "meaning": "十亿（10^9）",
+      "context": null,
+      "first_seen_date": "2026-10-29",
+      "first_attempt": "百万",
+      "mastery_status": "首轮错误或不会·明日优先复习",
+      "review_stage": 1,
+      "last_test_date": "2026-10-29",
+      "next_review_date": "2026-10-30",
+      "review_count": 0,
+      "latest_review_result": "2026-10-29 第6组：wrong，原答：百万",
+      "notes": "阅读真题高频200词第37页，资料标注词频25",
+      "review_history": [
+        {
+          "attempt_id": "20261029-V-READ200-B06-06",
+          "date": "2026-10-29",
+          "type": "first_pass",
+          "original_answer": "百万",
+          "result": "wrong",
+          "correctness": false,
+          "test_method": "英译中无提示批量回忆",
+          "duration_seconds": null,
+          "confidence": null
+        }
+      ],
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V088",
+      "word": "executive",
+      "meaning": "执行的；行政的；高管",
+      "context": null,
+      "first_seen_date": "2026-10-29",
+      "first_attempt": "包含的",
+      "mastery_status": "首轮错误或不会·明日优先复习",
+      "review_stage": 1,
+      "last_test_date": "2026-10-29",
+      "next_review_date": "2026-10-30",
+      "review_count": 0,
+      "latest_review_result": "2026-10-29 第6组：wrong，原答：包含的",
+      "notes": "阅读真题高频200词第37页，资料标注词频25",
+      "review_history": [
+        {
+          "attempt_id": "20261029-V-READ200-B06-07",
+          "date": "2026-10-29",
+          "type": "first_pass",
+          "original_answer": "包含的",
+          "result": "wrong",
+          "correctness": false,
+          "test_method": "英译中无提示批量回忆",
+          "duration_seconds": null,
+          "confidence": null
+        }
+      ],
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V089",
+      "word": "generation",
+      "meaning": "一代；世代；产生",
+      "context": null,
+      "first_seen_date": "2026-10-29",
+      "first_attempt": "世代",
+      "mastery_status": "首轮基础义正确·待异日复习",
+      "review_stage": 1,
+      "last_test_date": "2026-10-29",
+      "next_review_date": "2026-10-30",
+      "review_count": 0,
+      "latest_review_result": "2026-10-29 第6组：correct，原答：世代",
+      "notes": "阅读真题高频200词第38页，资料标注词频25",
+      "review_history": [
+        {
+          "attempt_id": "20261029-V-READ200-B06-08",
+          "date": "2026-10-29",
+          "type": "first_pass",
+          "original_answer": "世代",
+          "result": "correct",
+          "correctness": true,
+          "test_method": "英译中无提示批量回忆",
+          "duration_seconds": null,
+          "confidence": null
+        }
+      ],
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V090",
+      "word": "cultural",
+      "meaning": "文化的；文化方面的",
+      "context": null,
+      "first_seen_date": "2026-10-29",
+      "first_attempt": "文化",
+      "mastery_status": "首轮部分正确·明日语境复习",
+      "review_stage": 1,
+      "last_test_date": "2026-10-29",
+      "next_review_date": "2026-10-30",
+      "review_count": 0,
+      "latest_review_result": "2026-10-29 第6组：partial，原答：文化",
+      "notes": "阅读真题高频200词第38页，资料标注词频24",
+      "review_history": [
+        {
+          "attempt_id": "20261029-V-READ200-B06-09",
+          "date": "2026-10-29",
+          "type": "first_pass",
+          "original_answer": "文化",
+          "result": "partial",
+          "correctness": null,
+          "test_method": "英译中无提示批量回忆",
+          "duration_seconds": null,
+          "confidence": null
+        }
+      ],
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V091",
+      "word": "define",
+      "meaning": "定义；界定",
+      "context": null,
+      "first_seen_date": "2026-10-29",
+      "first_attempt": "定义",
+      "mastery_status": "首轮基础义正确·待异日复习",
+      "review_stage": 1,
+      "last_test_date": "2026-10-29",
+      "next_review_date": "2026-10-30",
+      "review_count": 0,
+      "latest_review_result": "2026-10-29 第6组：correct，原答：定义",
+      "notes": "阅读真题高频200词第38页，资料标注词频24",
+      "review_history": [
+        {
+          "attempt_id": "20261029-V-READ200-B06-10",
+          "date": "2026-10-29",
+          "type": "first_pass",
+          "original_answer": "定义",
+          "result": "correct",
+          "correctness": true,
+          "test_method": "英译中无提示批量回忆",
+          "duration_seconds": null,
+          "confidence": null
+        }
+      ],
+      "source_ids": [
+        "READ200"
+      ]
+    },
+    {
+      "id": "V092",
+      "word": "earn",
+      "meaning": "赚取；挣得；赢得",
+      "context": null,
+      "first_seen_date": "2026-10-29",
+      "first_attempt": "赚",
+      "mastery_status": "首轮基础义正确·待异日复习",
+      "review_stage": 1,
+      "last_test_date": "2026-10-29",
+      "next_review_date": "2026-10-30",
+      "review_count": 0,
+      "latest_review_result": "2026-10-29 第6组：correct，原答：赚",
+      "notes": "阅读真题高频200词第39页，资料标注词频24",
+      "review_history": [
+        {
+          "attempt_id": "20261029-V-READ200-B06-11",
+          "date": "2026-10-29",
+          "type": "first_pass",
+          "original_answer": "赚",
+          "result": "correct",
+          "correctness": true,
+          "test_method": "英译中无提示批量回忆",
+          "duration_seconds": null,
+          "confidence": null
+        }
+      ],
       "source_ids": [
         "READ200"
       ]
@@ -2742,26 +3063,26 @@
       {
         "month": "2026-10",
         "path": "data/attempts/2026-10.json",
-        "verified_attempts": 99,
-        "valid_attempts": 79,
-        "correct_attempts": 58,
-        "wrong_attempts": 21,
-        "void_attempts": 5,
-        "unscored_completed_attempts": 15,
-        "partial_vocabulary_attempts": 13
+        "verified_attempts": 110,
+        "valid_attempts": 87,
+        "correct_attempts": 61,
+        "wrong_attempts": 26,
+        "void_attempts": 4,
+        "unscored_completed_attempts": 17,
+        "partial_vocabulary_attempts": 15
       }
     ],
-    "total_recorded": 99,
-    "total_scored": 79,
-    "total_correct": 58,
-    "total_wrong": 21,
-    "total_voided": 5,
+    "total_recorded": 110,
+    "total_scored": 87,
+    "total_correct": 61,
+    "total_wrong": 26,
+    "total_voided": 4,
     "counted_rule": "有效客观题作答才纳入知识正确率；E001原始提交D但本人确认误触，记入历史档案不计分；W001为5～8分钟短时写作诊断，保留原文和批改但不作为30分正式作文计分；概念核验与真题模拟分别评估。",
     "source_policy": "所有完成的题都保存，不限于错题。即使答对，也保留题干或可核对来源、答案、思路、真实耗时、批改及知识点。阅读、数学、逻辑、写作均适用。",
     "archive_read_policy": "需要核对过去具体作答/完整解析/正确率时，先读此处索引，按需打开相应月份归档。不要以聊天记忆替代档案。",
     "periodic_archive_policy": "新题加入当月归档；写入后重新读取验证。每次答完题时形成记录，优先按小批次或单元结束及时同步；用户说今天结束时必须补齐当日已完成的题。未同步要明确提示。",
-    "total_unscored_completed": 15,
-    "total_vocabulary_partial": 13
+    "total_unscored_completed": 17,
+    "total_vocabulary_partial": 15
   },
   "writing_diagnostics": [
     {
@@ -2834,20 +3155,20 @@
     "READ200": {
       "source_index": "data/wordlists/reading200_page_index.json",
       "source_unique_entries_provisional": 202,
-      "first_pass_attempted": 50,
-      "first_pass_effective": 49,
+      "first_pass_attempted": 60,
+      "first_pass_effective": 59,
       "first_pass_tested_today": 49,
-      "first_pass_correct_basic": 33,
-      "first_pass_partial": 9,
-      "first_pass_wrong": 7,
+      "first_pass_correct_basic": 36,
+      "first_pass_partial": 11,
+      "first_pass_wrong": 12,
       "first_pass_asr_void": 1,
-      "historical_asr_void_attempts": 2,
+      "historical_asr_void_attempts": 3,
       "first_pass_complete": false,
       "second_pass_complete": false,
-      "tested_date": "2026-10-28",
-      "last_batch_id": "READ200-B05",
+      "tested_date": "2026-10-29",
+      "last_batch_id": "READ200-B06",
       "unanswered_queue": [],
-      "note": "今日READ200 50不同词均已提交一轮口语回忆，49词有效：33基础义正确，9部分正确，7错/不会。loss转写成‘松’，未确认真实口述词义，作废待复核不计有效首轮；keep曾作废但已同日正确复核。",
+      "note": "跨10月28、29两日共60个不同阅读高频词有提交，59个词首次有效筛查（正确36，部分11，错误12），loss两次转写为松，用户真实原意待确认；10/29新词10个有效，10/28进度保留49/50。",
       "pending_asr_verification": [
         "loss"
       ]
