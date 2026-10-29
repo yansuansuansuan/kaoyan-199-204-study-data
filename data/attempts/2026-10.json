@@ -3885,6 +3885,34 @@
         "20261028-V-READ200-B05-09",
         "20261029-V-READ200-B06-01"
       ]
+    },
+    {
+      "attempt_id": "20261029-M-2022Q03",
+      "exercise_id": "M009",
+      "date": "2026-10-29",
+      "subject": "199数学",
+      "kind": "2022真题",
+      "source": "2022年199数学第3题",
+      "topic": "函数记号与配方法",
+      "question": "f(x,y)=x²+4xy+5y²−2y+2最小值",
+      "options": {
+        "A": "1",
+        "B": "1/2",
+        "C": "2",
+        "D": "3/2",
+        "E": "3"
+      },
+      "submitted_answer": "D",
+      "answer_kind": "selected_option",
+      "correct_answer": "A",
+      "correctness": false,
+      "scoring_status": "valid",
+      "duration_band": "1分钟以内",
+      "duration_seconds": null,
+      "reasoning": "fx，y 啥意思啊真的不记得了\n",
+      "teacher_feedback": "正确A，配方为(x+2y)²+(y−1)²+1。f(x,y)是二变量函数记号，用户表示不记得，未提供配方过程。",
+      "review_outcome": "补函数记号和平方和最小值",
+      "linked_error_id": "M004"
     }
   ]
 }
