@@ -87,8 +87,8 @@
           "target": "按独立词汇教练当日看板；优先到期，约35～60分钟分散在白天",
           "status": "进行中",
           "source": "data/vocabulary_daily_dashboard.json",
-          "progress": "新词10/85，到期复习13/78；READ200累计首轮有效60词",
-          "evidence": "2026-10-29 data/vocabulary_daily_dashboard.json、data/attempts/2026-10.json 均已回读核验"
+          "progress": "新词14/85，到期旧词去重20/78；READ200初步索引首轮65/202",
+          "evidence": "data/vocabulary_daily_dashboard.json、data/attempts/2026-10-B08.json、data/state.json，均已写入回读校验"
         }
       ],
       "rollover_bonus": {
