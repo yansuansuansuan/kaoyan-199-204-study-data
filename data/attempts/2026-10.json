@@ -3421,6 +3421,64 @@
       "source_frequency_as_shown": 24,
       "round": 1,
       "asr_recheck_of": null
+    },
+    {
+      "attempt_id": "20261029-M-ENGWORK-REVIEW01",
+      "exercise_id": "M008",
+      "date": "2026-10-29",
+      "subject": "199数学",
+      "kind": "spaced_review_work_efficiency",
+      "source": "依据2025年199数学第4题工程效率模型独立改编（非原题）；2025真题源 https://www.educity.cn/mba/5349298.html",
+      "topic": "工程效率·工作量分配、合作效率、减法拆分与余量计算",
+      "question": "一项工程甲单独30天、甲乙合作10天、甲乙丙合作5天；乙先单独工作3天，剩余工程甲丙合作，还需要多少天？",
+      "options": {
+        "A": "4天",
+        "B": "5天",
+        "C": "6天",
+        "D": "7天",
+        "E": "8天"
+      },
+      "submitted_answer": "C",
+      "answer_kind": "selected_option",
+      "correct_answer": "C",
+      "correctness": true,
+      "scoring_status": "valid",
+      "duration_band": "1～2分钟",
+      "duration_seconds": null,
+      "reasoning": "接下来三小时我可以用纸笔了\n甲 1/30，乙 2/30，丙 3/30，甲丙一天 4/30，还需要 6 天",
+      "teacher_feedback": "选C正确：甲=1/30，乙=1/10−1/30=2/30，丙=1/5−1/10=3/30。乙3天做6/30，剩24/30；甲丙合作4/30/天，需6天。用户准确写出三人效率和所需6天，仅省略书面展示余量24/30这步，属于有依据的正确作答。用户说‘接下来三小时我可以用纸笔了’，不能推断一定已使用纸笔。安排3日/7日新题复测后再认定稳定掌握。",
+      "review_outcome": "独立列出三个效率和结果正确，前日工程效率错因得到一次复测纠正；未形成多次间隔证据，不升级稳定掌握",
+      "linked_error_id": "M003",
+      "confidence": "reasoned",
+      "reported_paper_availability": "接下来三小时我可以用纸笔了"
+    },
+    {
+      "attempt_id": "20261029-E-2025TEXT2-LIMIT01",
+      "exercise_id": "E007",
+      "date": "2026-10-29",
+      "subject": "204英语（二）",
+      "kind": "reading_phrase_quantifier_review",
+      "source": "2025年英语二Text2文章中的短句‘healthcare only accounts for about 20% of health outcomes’及原创选项（非原卷试题）",
+      "topic": "阅读限定词强弱；only about、account for、alone、sufficient、从原句对应正确选项",
+      "question": "The author argues that repairing the hospital system alone cannot fully improve population health. He points out that, by one estimate, healthcare only accounts for about 20% of health outcomes. Which statement is best supported?",
+      "options": {
+        "A": "Healthcare remains relevant to health, but factors beyond medical treatment also deserve attention.",
+        "B": "Healthcare has almost no influence on the health of the population.",
+        "C": "Better hospital management alone should be sufficient to improve national health.",
+        "D": "Medical treatment contributes exactly one fifth of health outcomes in every population."
+      },
+      "submitted_answer": "C",
+      "answer_kind": "selected_option",
+      "correct_answer": "A",
+      "correctness": false,
+      "scoring_status": "valid",
+      "duration_band": "1～2分钟",
+      "duration_seconds": null,
+      "reasoning": "不知道该怎么说",
+      "teacher_feedback": "选C错误，正确A。‘only accounts for about 20%’强调医疗对健康结果有一定贡献但不是全部，其他因素需考虑；C的‘alone should be sufficient’把单靠医院改革说成足够，与原文‘cannot fully improve’矛盾。B的‘almost no influence’及D的‘exactly ... in every population’同样过度推断。用户只写‘不知道该怎么说’，没有展示定位或排除依据，标为阅读限定词/等价表达能力未验证，不当成猜选。",
+      "review_outcome": "句意与选项语气强弱不稳，需在后续英语二完整真题阅读中做定位与原文-选项逻辑强度比对；后续到期复测词account for、sufficient、alone",
+      "linked_error_id": null,
+      "confidence": "reasoning_not_supplied"
     }
   ]
 }
