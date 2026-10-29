@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Shanghai",
-  "study_date": "2026-10-28",
+  "study_date": "2026-10-29",
   "exam_date": "2026-12-19",
   "plan_reference": "data/vocabulary_plan.json",
   "source_index": "data/wordlists/reading200_page_index.json",
@@ -18,24 +18,28 @@
     "two_rounds": "第一轮每词无提示回忆，第二轮至少隔一天再独立回忆；单纯阅读词义不记完成"
   },
   "metrics": {
-    "current_date": "2026-10-28",
-    "today_new_target": 50,
-    "today_new_effectively_tested": 49,
-    "today_new_remaining": 1,
-    "today_due_reviews_start": 5,
-    "today_due_reviews_done": 5,
-    "today_due_reviews_remaining": 0,
-    "current_READ200_firstpass_attempted": 50,
-    "current_READ200_firstpass_effective": 49,
+    "current_date": "2026-10-29",
+    "today_new_target": 85,
+    "today_new_effectively_tested": 10,
+    "today_new_remaining": 75,
+    "today_due_reviews_start": 78,
+    "today_due_reviews_done": 0,
+    "today_due_reviews_remaining": 78,
+    "current_READ200_firstpass_attempted": 60,
+    "current_READ200_firstpass_effective": 59,
     "current_READ200_firstpass_asr_void": 1,
     "current_READ200_secondpass_effective": 0,
-    "provisional_read200_firstpass_fraction": 0.24257425742574257,
+    "provisional_read200_firstpass_fraction": 0.29207920792079206,
     "tomorrow_due_count_as_of_2026_10_28": 78,
     "stable_mastery_confirmed_for_READ200": 0,
     "current_READ200_historical_asr_void": 2,
-    "today_stretch_optional_target": 70,
-    "today_stretch_optional_completed": 49,
-    "today_stretch_optional_remaining": 21
+    "today_stretch_optional_target": null,
+    "today_stretch_optional_completed": null,
+    "today_stretch_optional_remaining": null,
+    "prior_date": "2026-10-28",
+    "prior_first_pass_target": 50,
+    "prior_first_pass_actual": 49,
+    "prior_first_pass_remaining": 1
   },
   "rules": {
     "today_due": "同日到期按历史先后，今天已完成5个10月27日到期旧词；答错或部分正确仍计作已复习，但下一次复习不得遗漏",
@@ -119,7 +123,7 @@
         "well-being"
       ],
       "last_verified_from_github": "2026-10-28",
-      "status": "in_progress",
+      "status": "incomplete_carried_to_next_day",
       "asr_void_words": [
         "loss"
       ],
@@ -128,9 +132,7 @@
       "asr_retests_successful": [
         "keep"
       ],
-      "pending_unanswered_words": [
-        "decline"
-      ],
+      "pending_unanswered_words": [],
       "first_pass_attempted": 50,
       "pending_asr_verification": [
         "loss"
@@ -145,16 +147,33 @@
       "mode": "常规日快速筛查",
       "new_first_pass_target": 85,
       "second_pass_target": 0,
-      "first_pass_completed": 0,
+      "first_pass_completed": 10,
       "second_pass_completed": 0,
       "due_review_count": 78,
       "due_review_completed": 0,
       "high_risk_review_priority": "错误>部分正确>猜测>基础义正确但未验证",
-      "actual_completed_first_pass_words": [],
+      "actual_completed_first_pass_words": [
+        "inflation",
+        "living",
+        "patent",
+        "reform",
+        "billion",
+        "executive",
+        "generation",
+        "cultural",
+        "define",
+        "earn"
+      ],
       "actual_completed_second_pass_words": [],
       "actual_reviewed_words": [],
-      "last_verified_from_github": "2026-10-28",
-      "status": "not_started"
+      "last_verified_from_github": "2026-10-29",
+      "status": "in_progress",
+      "first_pass_remaining": 75,
+      "review_remaining": 78,
+      "pending_asr_verification": [
+        "loss"
+      ],
+      "first_pass_attempted": 11
     },
     {
       "date": "2026-10-30",
@@ -1015,17 +1034,18 @@
   ],
   "learning_protocol": {
     "next_batch_priority": [
-      "loss (ASR复核)",
-      "inflation",
-      "living",
-      "patent",
-      "reform",
-      "billion",
-      "executive",
-      "generation",
-      "cultural",
-      "define",
-      "earn"
+      "tend",
+      "decade",
+      "moral",
+      "peer",
+      "decline",
+      "reduce",
+      "interpret",
+      "reflect",
+      "significant",
+      "determine",
+      "account for",
+      "approach"
     ],
     "review_priority": "错/不知道/猜测和部分正确优先；新词首轮和到期复习分别完成且绝不重复计数",
     "tomorrow_priority_groups": {
@@ -1075,8 +1095,10 @@
       "note": "78个到期属于当前快照；明天先快筛高风险，正确基础义词快复核，若任务过量则动态调整次日新词量且保留欠账。"
     },
     "count_policy": "第二轮只计不同日期独立回忆；loss原转写松未确认，待复核不算首次有效；同日复核最多记第一次。",
-    "last_batch_id": "READ200-B05",
-    "source_state_sha": "4251473008278fa04816e62e94a085b75151b57f",
-    "source_index_sha": "4d5cb62cd2f5160e388e994f5f872c71ce377f72"
+    "last_batch_id": "READ200-B06",
+    "source_state_sha": "7ca7092738fb08903cab5fc9cfb218571f9369a2",
+    "source_index_sha": "b3714d6377ff98c5c7e95566baf54a687f834807",
+    "last_batch_effective_new_words": 10,
+    "loss_recheck": "重复转写为松，用户真实本意未确认，不算有效首轮或已完成复习"
   }
 }
