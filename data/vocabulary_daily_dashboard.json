@@ -23,13 +23,13 @@
     "today_new_effectively_tested": 10,
     "today_new_remaining": 75,
     "today_due_reviews_start": 78,
-    "today_due_reviews_done": 0,
-    "today_due_reviews_remaining": 78,
+    "today_due_reviews_done": 13,
+    "today_due_reviews_remaining": 65,
     "current_READ200_firstpass_attempted": 60,
-    "current_READ200_firstpass_effective": 59,
-    "current_READ200_firstpass_asr_void": 1,
+    "current_READ200_firstpass_effective": 60,
+    "current_READ200_firstpass_asr_void": 0,
     "current_READ200_secondpass_effective": 0,
-    "provisional_read200_firstpass_fraction": 0.29207920792079206,
+    "provisional_read200_firstpass_fraction": 0.297029702970297,
     "tomorrow_due_count_as_of_2026_10_28": 78,
     "stable_mastery_confirmed_for_READ200": 0,
     "current_READ200_historical_asr_void": 2,
@@ -39,7 +39,8 @@
     "prior_date": "2026-10-28",
     "prior_first_pass_target": 50,
     "prior_first_pass_actual": 49,
-    "prior_first_pass_remaining": 1
+    "prior_first_pass_remaining": 1,
+    "confirmed_loss_unknown_today": true
   },
   "rules": {
     "today_due": "同日到期按历史先后，今天已完成5个10月27日到期旧词；答错或部分正确仍计作已复习，但下一次复习不得遗漏",
@@ -150,7 +151,7 @@
       "first_pass_completed": 10,
       "second_pass_completed": 0,
       "due_review_count": 78,
-      "due_review_completed": 0,
+      "due_review_completed": 13,
       "high_risk_review_priority": "错误>部分正确>猜测>基础义正确但未验证",
       "actual_completed_first_pass_words": [
         "inflation",
@@ -165,15 +166,43 @@
         "earn"
       ],
       "actual_completed_second_pass_words": [],
-      "actual_reviewed_words": [],
+      "actual_reviewed_words": [
+        "interpret",
+        "reflect",
+        "significant",
+        "determine",
+        "tend",
+        "decade",
+        "moral",
+        "peer",
+        "decline",
+        "reduce",
+        "account for",
+        "approach",
+        "loss"
+      ],
       "last_verified_from_github": "2026-10-29",
       "status": "in_progress",
       "first_pass_remaining": 75,
-      "review_remaining": 78,
-      "pending_asr_verification": [
-        "loss"
-      ],
-      "first_pass_attempted": 11
+      "review_remaining": 65,
+      "pending_asr_verification": [],
+      "first_pass_attempted": 11,
+      "review_scoring": {
+        "correct_basic": 2,
+        "partial": 1,
+        "wrong_or_unknown": 9,
+        "asr_same_sound_pending": 1
+      },
+      "review_mnemonic_focus": [
+        "interpret",
+        "determine",
+        "tend",
+        "decade",
+        "moral",
+        "peer",
+        "decline",
+        "reduce"
+      ]
     },
     {
       "date": "2026-10-30",
@@ -1034,18 +1063,18 @@
   ],
   "learning_protocol": {
     "next_batch_priority": [
-      "tend",
-      "decade",
-      "moral",
-      "peer",
-      "decline",
-      "reduce",
-      "interpret",
-      "reflect",
-      "significant",
-      "determine",
-      "account for",
-      "approach"
+      "practice",
+      "indicate",
+      "address",
+      "variation",
+      "assumption",
+      "license",
+      "expire",
+      "reveal",
+      "maintenance",
+      "vulnerable",
+      "funding",
+      "engagement"
     ],
     "review_priority": "错/不知道/猜测和部分正确优先；新词首轮和到期复习分别完成且绝不重复计数",
     "tomorrow_priority_groups": {
@@ -1099,6 +1128,10 @@
     "source_state_sha": "7ca7092738fb08903cab5fc9cfb218571f9369a2",
     "source_index_sha": "b3714d6377ff98c5c7e95566baf54a687f834807",
     "last_batch_effective_new_words": 10,
-    "loss_recheck": "重复转写为松，用户真实本意未确认，不算有效首轮或已完成复习"
+    "loss_recheck": "已在2026-10-29直接确认loss不知道，原两次‘松’保留历史且不再待核实；新确认不计当日85新词任务，只计到期复习",
+    "review07_completed": 13,
+    "review07_pending_homophone": [
+      "reflect"
+    ]
   }
 }
