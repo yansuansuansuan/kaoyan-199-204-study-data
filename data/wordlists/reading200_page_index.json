@@ -580,7 +580,13 @@
         "correctness": false,
         "score_kind": "basic_word_meaning"
       },
-      "second_pass": null
+      "second_pass": null,
+      "latest_due_review": {
+        "date": "2026-10-29",
+        "attempt_id": "20261029-V-REVIEW07-05",
+        "result": "wrong",
+        "next_due_date": "2026-10-30"
+      }
     },
     {
       "word": "tendency",
@@ -629,16 +635,24 @@
       "source_id": "READ200",
       "page": 14,
       "frequency_as_shown": 26,
-      "status": "first_pass_asr_uncertain_pending_retest",
+      "status": "first_pass_tested",
       "first_pass": {
+        "date": "2026-10-29",
+        "attempt_id": "20261029-V-REVIEW07-13",
+        "result": "wrong",
+        "correctness": false,
+        "score_kind": "first_valid_basic_word_meaning",
+        "note": "User directly confirmed not knowing meaning; prior ASR transcript kept"
+      },
+      "second_pass": null,
+      "initial_voice_transcription_void": {
         "date": "2026-10-28",
         "attempt_id": "20261028-V-READ200-B05-09",
         "result": "asr_uncertain",
         "correctness": null,
         "score_kind": "basic_word_meaning",
         "valid": false
-      },
-      "second_pass": null
+      }
     },
     {
       "word": "intellectual",
@@ -893,7 +907,13 @@
         "correctness": false,
         "score_kind": "basic_word_meaning"
       },
-      "second_pass": null
+      "second_pass": null,
+      "latest_due_review": {
+        "date": "2026-10-29",
+        "attempt_id": "20261029-V-REVIEW07-06",
+        "result": "wrong",
+        "next_due_date": "2026-10-30"
+      }
     },
     {
       "word": "class",
@@ -987,7 +1007,13 @@
         "correctness": false,
         "score_kind": "basic_word_meaning"
       },
-      "second_pass": null
+      "second_pass": null,
+      "latest_due_review": {
+        "date": "2026-10-29",
+        "attempt_id": "20261029-V-REVIEW07-07",
+        "result": "wrong",
+        "next_due_date": "2026-10-30"
+      }
     },
     {
       "word": "immoral",
@@ -1213,7 +1239,13 @@
         "score_kind": "basic_word_meaning",
         "valid": true
       },
-      "second_pass": null
+      "second_pass": null,
+      "latest_due_review": {
+        "date": "2026-10-29",
+        "attempt_id": "20261029-V-REVIEW07-09",
+        "result": "wrong",
+        "next_due_date": "2026-10-30"
+      }
     },
     {
       "word": "majority",
@@ -1305,7 +1337,13 @@
         "score_kind": "basic_word_meaning",
         "valid": true
       },
-      "second_pass": null
+      "second_pass": null,
+      "latest_due_review": {
+        "date": "2026-10-29",
+        "attempt_id": "20261029-V-REVIEW07-08",
+        "result": "wrong",
+        "next_due_date": "2026-10-30"
+      }
     },
     {
       "word": "jobseeker",
@@ -1380,7 +1418,13 @@
         "score_kind": "basic_word_meaning",
         "valid": true
       },
-      "second_pass": null
+      "second_pass": null,
+      "latest_due_review": {
+        "date": "2026-10-29",
+        "attempt_id": "20261029-V-REVIEW07-10",
+        "result": "wrong",
+        "next_due_date": "2026-10-30"
+      }
     },
     {
       "word": "reduction",
@@ -2195,15 +2239,14 @@
   "distinct_word_count": 202,
   "page_count": 51,
   "index_progress": {
-    "first_pass_tested": 59,
+    "first_pass_tested": 60,
     "first_pass_attempted": 60,
     "second_pass_tested": 0,
-    "void_count": 1,
+    "void_count": 0,
     "source_entries_provisional": 202,
     "verified_full_extraction": false,
-    "historical_voice_void": 1,
-    "pending_asr_words": [
-      "loss"
-    ]
+    "historical_voice_void": 2,
+    "pending_asr_words": [],
+    "last_update_date": "2026-10-29"
   }
 }
