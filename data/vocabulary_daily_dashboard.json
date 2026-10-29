@@ -20,16 +20,16 @@
   "metrics": {
     "current_date": "2026-10-29",
     "today_new_target": 85,
-    "today_new_effectively_tested": 10,
-    "today_new_remaining": 75,
+    "today_new_effectively_tested": 14,
+    "today_new_remaining": 71,
     "today_due_reviews_start": 78,
-    "today_due_reviews_done": 13,
-    "today_due_reviews_remaining": 65,
-    "current_READ200_firstpass_attempted": 60,
-    "current_READ200_firstpass_effective": 60,
+    "today_due_reviews_done": 20,
+    "today_due_reviews_remaining": 58,
+    "current_READ200_firstpass_attempted": 65,
+    "current_READ200_firstpass_effective": 65,
     "current_READ200_firstpass_asr_void": 0,
     "current_READ200_secondpass_effective": 0,
-    "provisional_read200_firstpass_fraction": 0.297029702970297,
+    "provisional_read200_firstpass_fraction": 0.3217821782178218,
     "tomorrow_due_count_as_of_2026_10_28": 78,
     "stable_mastery_confirmed_for_READ200": 0,
     "current_READ200_historical_asr_void": 2,
@@ -148,10 +148,10 @@
       "mode": "常规日快速筛查",
       "new_first_pass_target": 85,
       "second_pass_target": 0,
-      "first_pass_completed": 10,
+      "first_pass_completed": 14,
       "second_pass_completed": 0,
       "due_review_count": 78,
-      "due_review_completed": 13,
+      "due_review_completed": 20,
       "high_risk_review_priority": "错误>部分正确>猜测>基础义正确但未验证",
       "actual_completed_first_pass_words": [
         "inflation",
@@ -163,7 +163,11 @@
         "generation",
         "cultural",
         "define",
-        "earn"
+        "earn",
+        "intend",
+        "analysis",
+        "clone",
+        "impact"
       ],
       "actual_completed_second_pass_words": [],
       "actual_reviewed_words": [
@@ -179,19 +183,33 @@
         "reduce",
         "account for",
         "approach",
-        "loss"
+        "loss",
+        "practice",
+        "indicate",
+        "variation",
+        "assumption",
+        "license",
+        "expire",
+        "vulnerable"
       ],
       "last_verified_from_github": "2026-10-29",
       "status": "in_progress",
-      "first_pass_remaining": 75,
-      "review_remaining": 65,
+      "first_pass_remaining": 71,
+      "review_remaining": 58,
       "pending_asr_verification": [],
       "first_pass_attempted": 11,
       "review_scoring": {
         "correct_basic": 2,
         "partial": 1,
         "wrong_or_unknown": 9,
-        "asr_same_sound_pending": 1
+        "asr_same_sound_pending": 1,
+        "latest_batch": {
+          "correct": 2,
+          "partial": 2,
+          "wrong": 3,
+          "asr_homophone_pending": 1
+        },
+        "last_batch": "B08"
       },
       "review_mnemonic_focus": [
         "interpret",
@@ -1124,7 +1142,7 @@
       "note": "78个到期属于当前快照；明天先快筛高风险，正确基础义词快复核，若任务过量则动态调整次日新词量且保留欠账。"
     },
     "count_policy": "第二轮只计不同日期独立回忆；loss原转写松未确认，待复核不算首次有效；同日复核最多记第一次。",
-    "last_batch_id": "READ200-B06",
+    "last_batch_id": "B08",
     "source_state_sha": "7ca7092738fb08903cab5fc9cfb218571f9369a2",
     "source_index_sha": "b3714d6377ff98c5c7e95566baf54a687f834807",
     "last_batch_effective_new_words": 10,
@@ -1132,6 +1150,19 @@
     "review07_completed": 13,
     "review07_pending_homophone": [
       "reflect"
-    ]
+    ],
+    "batch08_archive": "data/attempts/2026-10-B08.json",
+    "latest_scoring": {
+      "new": {
+        "correct": 3,
+        "wrong": 1
+      },
+      "review": {
+        "correct": 2,
+        "partial": 2,
+        "wrong": 3,
+        "ambiguous": 1
+      }
+    }
   }
 }
