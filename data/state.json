@@ -144,12 +144,12 @@
       "correct_answer": "C（6天）",
       "duration_seconds": null,
       "error_analysis": "正确推导乙效率1/10、丙效率1/12，但最后计算甲丙效率时误将丙写成1/4+1/6，而非1/4-1/6；无纸笔，随意点选，建议设工作量60以减少分数复杂度。",
-      "mastery_status": "工程变式中间数字误算·待独立复测",
+      "mastery_status": "一次独立复测正确，需间隔再测",
       "review_stage": 1,
-      "last_answer_date": "2026-10-28",
-      "next_review_date": "2026-10-29",
-      "review_count": 0,
-      "latest_review_result": "真题错答B，需分数差额/设总量法补强",
+      "last_answer_date": "2026-10-29",
+      "next_review_date": "2026-11-01",
+      "review_count": 1,
+      "latest_review_result": "工程效率复测C正确",
       "notes": "区分算术符号错误和工程效率知识缺失；原始回答在月档案中 2026-10-28晚用户称第一轮为点错并要求剔除加练进度；原始错题仍保留作学习反馈；另一次工程变式(20261028-ADV-2025M04-VAR02)仍出现中间效率记错，可作为后续训练依据。",
       "review_history": []
     }
@@ -2897,6 +2897,19 @@
       ],
       "error_analysis": "工程效率第三人应为8/40−5/40=3/40，用户误代7/40；英语理解医院治疗仍重要但选‘几乎无价值’与原文相悖。用户表示今日睡觉，明天继续；要求英语训练语料与真题词汇句法难度一致。",
       "next_action": "明天开始两题：工程效率整数化方法复测＋2025英语二真实选文限定词与细节定位；仍按当天数学因式分解、逻辑量词和整篇阅读计划推进。"
+    },
+    {
+      "id": "S20261029-MATH-ENGLISH01",
+      "date": "2026-10-29",
+      "subject": "199数学+204英语（二）",
+      "attempted_count": 2,
+      "correct_count": 1,
+      "modules": "工程效率复测与英语二句意限定词",
+      "time_bands": [
+        "1～2分钟",
+        "1～2分钟"
+      ],
+      "next_action": "学习因式分解和逻辑量词，稍后整篇阅读"
     }
   ],
   "answer_corrections": [
@@ -3063,19 +3076,19 @@
       {
         "month": "2026-10",
         "path": "data/attempts/2026-10.json",
-        "verified_attempts": 110,
-        "valid_attempts": 87,
-        "correct_attempts": 61,
-        "wrong_attempts": 26,
+        "verified_attempts": 112,
+        "valid_attempts": 89,
+        "correct_attempts": 62,
+        "wrong_attempts": 27,
         "void_attempts": 4,
         "unscored_completed_attempts": 17,
         "partial_vocabulary_attempts": 15
       }
     ],
-    "total_recorded": 110,
-    "total_scored": 87,
-    "total_correct": 61,
-    "total_wrong": 26,
+    "total_recorded": 112,
+    "total_scored": 89,
+    "total_correct": 62,
+    "total_wrong": 27,
     "total_voided": 4,
     "counted_rule": "有效客观题作答才纳入知识正确率；E001原始提交D但本人确认误触，记入历史档案不计分；W001为5～8分钟短时写作诊断，保留原文和批改但不作为30分正式作文计分；概念核验与真题模拟分别评估。",
     "source_policy": "所有完成的题都保存，不限于错题。即使答对，也保留题干或可核对来源、答案、思路、真实耗时、批改及知识点。阅读、数学、逻辑、写作均适用。",
