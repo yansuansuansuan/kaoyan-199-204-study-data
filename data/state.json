@@ -3437,35 +3437,37 @@
       {
         "month": "2026-10",
         "path": "data/attempts/2026-10.json",
-        "verified_attempts": 125,
-        "valid_attempts": 100,
+        "verified_attempts": 126,
+        "valid_attempts": 101,
         "correct_attempts": 64,
-        "wrong_attempts": 36,
+        "wrong_attempts": 37,
         "void_attempts": 4,
         "unscored_completed_attempts": 19,
         "partial_vocabulary_attempts": 16,
         "ambiguous_voice_attempts": 1
       }
     ],
-    "total_recorded": 125,
-    "total_scored": 100,
-    "total_correct": 64,
-    "total_wrong": 36,
+    "total_recorded": 138,
+    "total_scored": 110,
+    "total_correct": 69,
+    "total_wrong": 41,
     "total_voided": 4,
     "counted_rule": "有效客观题作答才纳入知识正确率；E001原始提交D但本人确认误触，记入历史档案不计分；W001为5～8分钟短时写作诊断，保留原文和批改但不作为30分正式作文计分；概念核验与真题模拟分别评估。",
     "source_policy": "所有完成的题都保存，不限于错题。即使答对，也保留题干或可核对来源、答案、思路、真实耗时、批改及知识点。阅读、数学、逻辑、写作均适用。",
     "archive_read_policy": "需要核对过去具体作答/完整解析/正确率时，先读此处索引，按需打开相应月份归档。不要以聊天记忆替代档案。",
     "periodic_archive_policy": "新题加入当月归档；写入后重新读取验证。每次答完题时形成记录，优先按小批次或单元结束及时同步；用户说今天结束时必须补齐当日已完成的题。未同步要明确提示。",
-    "total_unscored_completed": 19,
-    "total_vocabulary_partial": 16,
+    "total_unscored_completed": 22,
+    "total_vocabulary_partial": 18,
     "supplemental_archives": [
       {
         "date": "2026-10-29",
         "path": "data/attempts/2026-10-B08.json",
         "attempt_count": 12,
-        "reason": "主月档案存在并发更新，单独归档与主库合并索引"
+        "reason": "主月档案存在并发更新，单独归档与主库合并索引",
+        "counted_unique_attempts": 12
       }
-    ]
+    ],
+    "index_includes_supplements": true
   },
   "writing_diagnostics": [
     {
