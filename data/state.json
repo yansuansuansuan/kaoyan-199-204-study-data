@@ -3538,11 +3538,11 @@
     "READ200": {
       "source_index": "data/wordlists/reading200_page_index.json",
       "source_unique_entries_provisional": 202,
-      "first_pass_attempted": 64,
-      "first_pass_effective": 64,
+      "first_pass_attempted": 65,
+      "first_pass_effective": 65,
       "first_pass_tested_today": 14,
       "first_pass_correct_basic": 39,
-      "first_pass_partial": 11,
+      "first_pass_partial": 12,
       "first_pass_wrong": 14,
       "first_pass_asr_void": 0,
       "historical_asr_void_attempts": 3,
@@ -3551,12 +3551,12 @@
       "tested_date": "2026-10-29",
       "last_batch_id": "B08",
       "unanswered_queue": [],
-      "note": "READ200新词首测累计64；另外practice原已于10月28日完成跨来源首测，按词条归并后来源索引65；用户当日新增4个有效词，8个到期复习；全部原始答案保存于data/attempts/2026-10-B08.json",
+      "note": "READ200来源索引首次有效覆盖65（含10/28已学practice的跨来源归并），10/29新增独立词14；第8组有4新词+8复习尝试，reflect当日复测重复，故今日本轮复习去重后合计20/78。",
       "pending_asr_verification": [],
-      "first_pass_attempted_today": 11,
+      "first_pass_attempted_today": 14,
       "report_date": "2026-10-29",
       "yesterday_completed_valid": 49,
-      "today_new_tested_valid": 10
+      "today_new_tested_valid": 14
     }
   }
 }
